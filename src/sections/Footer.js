@@ -2,25 +2,24 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='footer'>
-      <div class="foot">
+      <div class="footer">
 
-<div class="section">
-    <p>Connect</p>
-    <p class="paragraphs">
-        Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollitAmet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit
-    </p>
-</div>
+    <div class="section">
+       <p>Connect</p>
+         <p class="paragraphs">
+             Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollitAmet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit
+        </p>
+      </div>
 
-<div class="section">
-    <p>Products</p>
-    <div class="paragraphs">
-        <p>Overview</p>
-        <p>Feature</p>
-        <p>Solutions</p>
-        <p>Tutorials</p>
-        <p>Pricing</p>
-    </div>
+     <div class="section">
+           <p>Products</p>
+           <div class="paragraphs">
+           <p>Overview</p>
+           <p>Feature</p>
+           <p>Solutions</p>
+           <p>Tutorials</p>
+           <p>Pricing</p>
+       </div>
         
 </div>
 
@@ -46,7 +45,6 @@ function Footer() {
     </div>
 </div>
 </div>
-    </div>
   )
 }
 

@@ -1,65 +1,8 @@
 .App {
   text-align: center;
 }
-*{
-  color: white;
-}
-.footer{
-  background-color: black;
-  width: 100%;
-  height: fit-content;
-  margin-top: 80px;
-}
-.foot{
-  display: flex;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 3vw;
-  margin-left: 9vw;
-  width: 80vw;
-  padding-top: 150px;
-}
-.fab{
-  padding: 1.2vh;
-}
-.section{
-  width: 90%;
-  height: 200px;
-}
-.foot_1 p:nth-child(1){
-  color: white;
-  font-family: Franklin Gothic Book;
-}
-.paragraphs p:nth-child(1){
-  color: white;
-  font-family: Franklin Gothic Book;
-  font-size: small;
-}
-.paragraphs p:nth-child(2){
-  color: white;
-  font-family: Franklin Gothic Book;
-  font-size: small;
-}
-.paragraphs p:nth-child(3){
-  color: white;
-  font-family: Franklin Gothic Book;
-  font-size: small;
-}
-.paragraphs p:nth-child(4){
-  color: white;
-  font-family: Franklin Gothic Book;
-  font-size: small;
-}
-.paragraphs{
-  margin-top: 20px;
-  font-size: 10px;
-}
-.footer_icons{
-  display: flex;
-  justify-content: center;
-  grid-gap: 3px;
-  color: white;
-}
-@media all and (max-width : 500px) {
+
+@media all and (max-width : 600px) {
   .foot{
       display: grid;
       grid-template-columns: 1fr;
@@ -67,7 +10,7 @@
       padding-top: 0px;
   }
   .footer{
-      height: 1000px;
+      flex-direction: column;
   }
   .fab{
       padding: 2.5vh;
