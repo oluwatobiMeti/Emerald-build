@@ -2,6 +2,30 @@
   text-align: center;
 }
 
+@media all and (max-width : 600px) {
+  .foot{
+      display: grid;
+      grid-template-columns: 1fr;
+      margin-left: 5vw;
+      padding-top: 0px;
+  }
+  .footer{
+      flex-direction: column;
+  }
+  .fab{
+      padding: 2.5vh;
+  }
+  .icons{
+      text-align: left;
+  }
+  .footer_icons{
+      padding-left: 0;
+      justify-content: start;
+  }
+}
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
