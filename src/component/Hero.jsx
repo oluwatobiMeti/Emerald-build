@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "../images/8-83928_soccer-united-athlete-bedworth-football-f-soccer-ball.png"
+import img from "../images/8-83928_soccer-united-athlete-bedworth-football-f-soccer-ball-removebg-preview.png"
 import "./hero.css";
 import Button from './Button';
 function Hero() {

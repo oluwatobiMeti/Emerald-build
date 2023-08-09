@@ -1,10 +1,16 @@
 .hero {
-    display: flex;
+    /* display: flex;
     justify-content: flex-start;
     align-items: center;
     flex-direction: row;
     margin: 0 4rem;
     gap: 12rem;
+    margin: auto; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 85vw;
+    margin: auto;
+    align-items: center;
 }
 .hero__content {
     width: 30vw;
