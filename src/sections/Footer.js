@@ -3,18 +3,18 @@ import "./footer.css"
 
 function Footer() {
   return (
-      <div class="footer">
+      <div className="footer">
 
-    <div class="section">
+    <div className="section">
        <p>Connect</p>
-         <p class="paragraphs">
-             Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollitAmet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit
+         <p className="paragraphs">
+             Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollitAmet minim mollit.
         </p>
       </div>
 
-     <div class="section">
+     <div className="section">
            <p>Products</p>
-           <div class="paragraphs">
+           <div className="paragraphs">
            <p>Overview</p>
            <p>Feature</p>
            <p>Solutions</p>
@@ -25,20 +25,20 @@ function Footer() {
 </div>
 
 
-<div class="section">
+<div className="section">
     <p>Company</p>
-    <div class="paragraphs">
+    <div className="paragraphs">
         <p>About us</p>
         <p>Contacts</p>
         <p>Press</p>
-        <p>News</p>
+        <p>News</p>  
         <p>Careers</p>
     </div>
 </div>
 
-<div class="section">
+<div className="section">
     <p>Legal</p>
-    <div class="paragraphs">
+    <div className="paragraphs">
         <p>Terms and Services</p>
         <p>Privacy</p>
         <p>Support</p>
