@@ -1,0 +1,32 @@
+.hero {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    margin: 0 4rem;
+    gap: 12rem;
+}
+.hero__content {
+    width: 30vw;
+    color: #37b24d; 
+}
+.hero__img {
+    width: 30vw;
+    object-fit: contain;
+}
+.hero__header {
+    font-size: 3rem;
+}
+.hero__subheader {
+    font-size: 1rem;
+    margin-top: 10px;
+}
+.hero__btn {
+    padding: .4rem 1.2rem;
+    background-color: #37b24d;
+    color: white;
+    border: 0;
+    font-size: 20px;
+    border-radius: 8px;
+    margin: 10px 0;
+}
