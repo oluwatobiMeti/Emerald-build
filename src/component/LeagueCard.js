@@ -5,7 +5,7 @@ const LeagueCard = (props) => {
     return(
         <div className={classes.league_card}>
             <div className={classes.league_card_imagewrapper}>
-                <img src="./images/bund-logo.jpg" alt="" className={classes.league_card_img} />
+                <img src={props.league_image} alt="" className={classes.league_card_img} />
             </div>
             <div className={classes.league_card_content_wrapper}>
                 <h3>{props.league_name}</h3>

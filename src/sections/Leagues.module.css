@@ -8,13 +8,22 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+.card_display_area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.leagues_header{
+    font-size: 1.8rem;
+}
 .league_cards_wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
     row-gap: 3rem;
     width: 75vw;
-    margin: 3rem auto;
+    margin: 2.5rem auto;
 }
 .league_card{
     width: 20rem;
