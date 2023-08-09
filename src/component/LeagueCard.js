@@ -28,7 +28,7 @@ const LeagueCard = (props) => {
                             <p>League Statistics</p>
                         </li>
                     </ul>
-                    <a href="#">View league now</a>
+                    <a href="#" className={classes.league_link}>View league now</a>
                 </div>
             </div>
         </div>

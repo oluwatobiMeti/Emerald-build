@@ -13,6 +13,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 3rem 0;
 }
 .leagues_header{
     font-size: 1.8rem;
@@ -55,4 +56,8 @@ body{
 .league_details_list ul li ion-icon{
     width: 1.5rem;
     height: 1.5rem;
+    color: #1e8531;
+}
+.league_link{
+    color: #1e8531;
 }
