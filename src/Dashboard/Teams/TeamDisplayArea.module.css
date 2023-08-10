@@ -2,6 +2,9 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
-    padding: 2rem 1rem;
+    padding: 3rem 1rem;
     padding-left: 0;
+    height: 88vh;
+    overflow-y: scroll;
+    padding: 1rem;
 }

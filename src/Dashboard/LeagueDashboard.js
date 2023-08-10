@@ -6,13 +6,13 @@ import DashboardNav from "./DashboardNav";
 
 const LeagueDashboard = () => {
     return(
-        <>
+        <section className={classes.league_dashboard_page}>
             <DashboardNav />
             <div className={classes.league_dashboard_area}>
                 <LeagueSidebar />
                 <TeamDisplayArea/>
             </div>
-        </>
+        </section>
     );
 }
 

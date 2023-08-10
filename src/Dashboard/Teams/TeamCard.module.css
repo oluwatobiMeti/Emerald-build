@@ -3,6 +3,8 @@
     width: 22vw;
     border-radius: 0.7rem;
     overflow: hidden;
+    height: 63vh;
+    background: #fff;
 }
 .team_card_img{
     width: 100%;

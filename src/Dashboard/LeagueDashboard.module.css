@@ -1,4 +1,14 @@
+.league_dashboard_page{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background: #f3f3f3;
+}
 .league_dashboard_area{
     display: grid;
     grid-template-columns: 25fr 75fr;
+}
+.league_dashboard_page::-webkit-scrollbar,
+.league_dashboard_page::-webkit-scrollbar-track{
+    display: none;
 }
