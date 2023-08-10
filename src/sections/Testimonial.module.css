@@ -42,3 +42,22 @@
     line-height: 1.7;
     margin-bottom: 0.5rem;
 }
+@media (max-width: 800px) {
+    .testimonial_cards_wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media (min-width: 800px) and (max-width: 1000px) {
+    .testimonial_card {
+        display: flex;
+        flex-direction: column;
+    }
+    .testimonial__image_wrapper {
+        width: 36vw;
+        height: 35vw;
+    }
+}
+

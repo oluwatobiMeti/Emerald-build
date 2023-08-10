@@ -8,7 +8,7 @@
     background-color: black;
     color: white;
 }
-.section {
+#section {
     width: 20%;
 }
 @media (min-width: 400px) and (max-width: 800px) {

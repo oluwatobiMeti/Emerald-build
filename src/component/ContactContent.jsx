@@ -1,5 +1,6 @@
 import React from 'react'
 import "./contactContent.css"
+import Button from './Button'
 
 function ContactContent() {
   return (
@@ -31,9 +32,10 @@ function ContactContent() {
             <label for="email">Email:</label><br/>
             <input className="input-field" type="email" name="Email" placeholder="Email" required/>
         </div>
-
+        
         <div className="Input-box">
             <label for="select-where">Where did you hear from us?</label> <br/>
+            <div className="cnt">
             <select id="select-where" className="datalist-field" name="select-where" required>
                 <option value="">Please choose one option:</option>
                 <option value="friends">Friends and family</option>
@@ -42,10 +44,12 @@ function ContactContent() {
                 <option value="ad">Facebook ad</option>
                 <option value="others">Others</option>
             </select>
+            <Button className="mybutton" title="sign up"/>
         </div>
-
+        
+        </div>
         <div>
-            <input type="submit" className="myButton" value="Sign Up Now"/>
+            
         </div>
 
     </form>

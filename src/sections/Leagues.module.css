@@ -61,3 +61,23 @@ body{
 .league_link{
     color: #1e8531;
 }
+@media (max-width: 800px) {
+    .league_cards_wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .league_card {
+        width: 25rem;
+    }
+}
+@media (min-width: 800px) and (max-width: 1000px) {
+    .league_cards_wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+}
+/* @media (min-width: 800px) and (max-width: 1000px) { */

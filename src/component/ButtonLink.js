@@ -3,7 +3,7 @@ import LinkComp from './LinkComp'
 function ButtonLink({className}) {
   return (
     <button className={`Button__link ${className}`}>
-        <LinkComp to="/Dashboard" title="Explore"/>
+        <LinkComp to="/LeagueDashboard" title="Explore"/>
     </button>
   )
 }
