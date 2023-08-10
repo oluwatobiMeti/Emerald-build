@@ -4,9 +4,9 @@ import Button from './Button';
 function NavContainer({className}) {
   return (
     <div className={`${(className === "nav__container")?"nav__container":"mobile__nav"}`}>
-       <LinkComp title="Home"/>
-       <LinkComp title="About"/>
-       <LinkComp title="Contact Us"/>
+       <LinkComp to="/" title="Home"/>
+       <LinkComp to="/About" title="About"/>
+       <LinkComp to="/Contact" title="Contact Us"/>
        <Button title="Explore"/>
     </div>
   )

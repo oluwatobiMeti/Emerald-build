@@ -1,8 +1,8 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 function LinkComp({title, className, to}) {
   return (
-    <NavLink to={to} className={className}>{title}</NavLink>
+    <Link to={to} className={className}>{title}</Link>
   )
 }
 
