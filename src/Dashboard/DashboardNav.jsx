@@ -1,8 +1,10 @@
 import React from 'react'
 import Button from '../component/Button';
 import LinkComp from '../component/LinkComp';
-import {AiFillHome} from "react-icons/ai"
-import "./dashboard.css"
+import {AiFillHome} from "react-icons/ai";
+import "./dashboard.css";
+
+
 function DashboardNav() {
   return (
     <div className="navDashboard">
@@ -26,4 +28,4 @@ function DashboardNav() {
   )
 }
 
-export default DashboardNav
+export default DashboardNav;

@@ -9,9 +9,6 @@ import {
 import About from './Pages/About';
 import Contact from './Pages/Contact';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
-
-// You can do this:
-
     
 
 function App() {
