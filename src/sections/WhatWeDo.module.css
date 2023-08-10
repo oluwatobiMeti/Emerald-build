@@ -1,0 +1,36 @@
+.what_we_do_section{
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
+.what_we_do_content_wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.purpose_card_wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    width: 75vw;
+}
+.purpose_card{
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.158);
+    padding: 1rem;
+    border-radius: 0.7rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.purpose_card ion-icon{
+    width: 3.5rem;
+    height: 3.5rem;
+}
+.purpose_card_txt{
+    font-size: 1.15rem;
+    line-height: 1.5;
+}

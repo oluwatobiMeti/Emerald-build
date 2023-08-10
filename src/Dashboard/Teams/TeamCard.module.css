@@ -1,5 +1,5 @@
 .team_card{
-    box-shadow: 0 12px 24px black;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.26);
     width: 22vw;
     border-radius: 0.7rem;
     overflow: hidden;
