@@ -1,6 +1,6 @@
 .nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     color: #37b24d;
     background-color: white;
@@ -10,7 +10,6 @@
 }
 
 .nav span {
-    margin-left: 5.5rem;
     font-size: 1.5rem;
     font-weight: 700;
 }
@@ -20,7 +19,6 @@
 }
 .menu-icon {
     display: none;
-    margin-right: 2rem;
 }
 .nav a {
     color: #37b24d;
