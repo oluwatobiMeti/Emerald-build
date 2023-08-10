@@ -1,0 +1,83 @@
+img{
+    width: 100%;
+    
+}
+h3{
+    text-align: center;  
+    font-size: 50px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.imageHolder{
+    background-image: url(../images/img.jpeg);
+    height: 64vh;
+}
+.TextHolder{
+    padding-top: 150px;
+}
+.text{
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+@media all and (max-width : 500px) {
+    h3{
+        font-size: 20px;
+    }
+    .imageHolder{
+        height: 52vh;
+    }
+    .text{
+        font-size: 15px;
+    }
+}
+@media all and (max-width : 580px) {
+    h3{
+        font-size: 35px;
+    }
+    .imageHolder{
+        height: 52vh;
+    }
+    .text{
+        font-size: 19px;
+    }
+}
+@media all and (max-width : 650px) {
+    h3{
+        font-size: 39px;
+    }
+    .imageHolder{
+        height: 52vh;
+    }
+    .text{
+        font-size: 22px;
+    }
+}
+@media all and (max-width : 720px) {
+    h3{
+        font-size: 43px;
+    }
+    .imageHolder{
+        height: 51vh;
+    }
+    .text{
+        font-size: 25px;
+    }
+}
+@media all and (max-width : 780px) {
+    h3{
+        font-size: 45px;
+    }
+    .imageHolder{
+        height: 52vh;
+        width: 100%;
+    }
+    .text{
+        font-size: 22px;
+    }
+}

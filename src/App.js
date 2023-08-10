@@ -1,6 +1,7 @@
 import './App.css';
 import Home from './Pages/Home';
 import Nav from './component/Nav';
+import DashboardNav from './Dashboard/DashboardNav';
 import {
   BrowserRouter,
   Routes,
@@ -20,6 +21,7 @@ function App() {
         <Route path="/" element={<Home />}/>
         <Route path='About' element={<About/>}/>
         <Route path='Contact' element={<Contact/>}/>
+        <Route path='Dashboard' element={<DashboardNav/>}/>
       </Routes>
     </BrowserRouter>
   );

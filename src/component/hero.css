@@ -28,6 +28,10 @@
     font-size: 20px;
     border-radius: 8px;
     margin: 10px 0;
+    color: white;
+}
+.hero__btn a {
+    color: white;
 }
 @media (max-width: 800px) {
     .hero {

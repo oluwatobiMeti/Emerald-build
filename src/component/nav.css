@@ -25,7 +25,7 @@
 .nav a {
     color: #37b24d;
 }
-.nav button {
+.nav button a {
     background-color: #37b24d;
     color: white;
     border: 0;
