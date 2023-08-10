@@ -5,14 +5,14 @@ function Footer() {
   return (
       <div className="footer">
 
-    <div className="section">
+    <div id="section">
        <p>Connect</p>
          <p className="paragraphs">
              Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollitAmet minim mollit.
         </p>
       </div>
 
-     <div className="section">
+     <div id="section">
            <p>Products</p>
            <div className="paragraphs">
            <p>Overview</p>
@@ -25,7 +25,7 @@ function Footer() {
 </div>
 
 
-<div className="section">
+<div id="section">
     <p>Company</p>
     <div className="paragraphs">
         <p>About us</p>
@@ -36,7 +36,7 @@ function Footer() {
     </div>
 </div>
 
-<div className="section">
+<div id="section">
     <p>Legal</p>
     <div className="paragraphs">
         <p>Terms and Services</p>

@@ -34,3 +34,19 @@
     font-size: 1.15rem;
     line-height: 1.5;
 }
+@media (max-width: 600px) {
+    .purpose_card_wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .purpose_card_wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+        
+    }
+}
