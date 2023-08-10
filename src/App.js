@@ -2,24 +2,26 @@ import './App.css';
 import Home from './Pages/Home';
 import Nav from './component/Nav';
 import {
-  createBrowserRouter,
-  RouterProvider,
-  createRoutesFromElements,
+  BrowserRouter,
+  Routes,
   Route,
 } from "react-router-dom";
+import About from './Pages/About';
+import Contact from './Pages/Contact';
 
 // You can do this:
-const router = createBrowserRouter(
-  createRoutesFromElements(
-    <Route path="/" element={<Home />}>
-      
-    </Route>
-  )
-);
+
+    
 
 function App() {
   return (
-    <RouterProvider router={router}/>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />}/>
+        <Route path='About' element={<About/>}/>
+        <Route path='Contact' element={<Contact/>}/>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
