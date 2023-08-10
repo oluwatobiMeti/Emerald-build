@@ -26,26 +26,26 @@ function AboutForm() {
                     <form action="">
                         <div class="form_group">
                             <div class="form_group_cell">
-                                <label for="firstname">First name</label>
+                                <label htmlFor="firstname">First name</label>
                                 <input type="text" name="" id="" placeholder="First name"/>
                             </div>
                             <div class="form_group_cell">
-                                <label for="firstname">Last name</label>
+                                <label htmlFor="firstname">Last name</label>
                                 <input type="text" name="" id="" placeholder="Last name"/>
                             </div>
                         </div>
                         <div class="form_group">
                             <div class="form_group_cell">
-                                <label for="email">Email</label>
+                                <label htmlFor="email">Email</label>
                                 <input type="email" name="" id="" placeholder="you@company.com"/>
                             </div>
                             <div class="form_group_cell">
-                                <label for="phone number">Phone Number</label>
+                                <label htmlFor="phone number">Phone Number</label>
                                 <input type="number" name="" id="" placeholder="+(44)07988079947"/>
                             </div>
                         </div>
                         <div class="message_box_wrapper">
-                            <label for="message">Message</label>
+                            <label htmlFor="message">Message</label>
                             <textarea name="" id="" cols="40" rows="10" placeholder="your message here...."></textarea>
                         </div>
                         <p>you agree to our friendly privacy policy</p>
