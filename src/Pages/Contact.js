@@ -1,12 +1,14 @@
 import React from 'react'
 import Nav from '../component/Nav'
-import Leagues from '../component/LeagueCard'
+import ContactContent from '../component/ContactContent';
+import Footer from "../sections/Footer"
 
 function Contact() {
   return (
     <div>
       <Nav />
-      <Leagues />
+      <ContactContent />
+      <Footer/>
     </div>
   )
 }
