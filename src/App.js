@@ -1,6 +1,5 @@
 import './App.css';
 import Home from './Pages/Home';
-import Nav from './component/Nav';
 import DashboardNav from './Dashboard/DashboardNav';
 import {
   BrowserRouter,
@@ -9,6 +8,7 @@ import {
 } from "react-router-dom";
 import About from './Pages/About';
 import Contact from './Pages/Contact';
+import LeagueDashboard from './Dashboard/LeagueDashboard';
 
 // You can do this:
 
@@ -22,6 +22,7 @@ function App() {
         <Route path='About' element={<About/>}/>
         <Route path='Contact' element={<Contact/>}/>
         <Route path='Dashboard' element={<DashboardNav/>}/>
+        <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
       </Routes>
     </BrowserRouter>
   );
