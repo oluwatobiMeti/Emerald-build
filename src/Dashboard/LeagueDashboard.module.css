@@ -1,0 +1,4 @@
+.league_dashboard_area{
+    display: grid;
+    grid-template-columns: 25fr 75fr;
+}
