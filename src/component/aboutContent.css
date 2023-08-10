@@ -1,16 +1,15 @@
 img{
     width: 100%;
-    
 }
-h3{
+.textHeolder__header{
     text-align: center;  
     font-size: 50px;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
-p{
-    color: white;
+.text{
+    color: #37b24d;
     text-align: center;
 }
 .imageHolder{
@@ -26,7 +25,7 @@ p{
 }
 
 @media all and (max-width : 500px) {
-    h3{
+    .textHeolder__header{
         font-size: 20px;
     }
     .imageHolder{
@@ -37,7 +36,7 @@ p{
     }
 }
 @media all and (max-width : 580px) {
-    h3{
+    .textHeolder__header{
         font-size: 35px;
     }
     .imageHolder{
@@ -48,7 +47,7 @@ p{
     }
 }
 @media all and (max-width : 650px) {
-    h3{
+    .textHeolder__header{
         font-size: 39px;
     }
     .imageHolder{
@@ -59,7 +58,7 @@ p{
     }
 }
 @media all and (max-width : 720px) {
-    h3{
+    .textHeolder__header{
         font-size: 43px;
     }
     .imageHolder{
@@ -70,7 +69,7 @@ p{
     }
 }
 @media all and (max-width : 780px) {
-    h3{
+    .textHeolder__header{
         font-size: 45px;
     }
     .imageHolder{
