@@ -1,5 +1,8 @@
 import react from "react";
 import classes from "./LeagueSidebar.module.css";
+import { reduxWrapper } from "../Store";
+import { userActions } from "../Store";
+import WithRouter from "../HOC/WithRouter";
 
 const LeagueSidebar = ({children}) => {
     return(
@@ -7,7 +10,10 @@ const LeagueSidebar = ({children}) => {
             {children}
             <ul>
                 <h3>Leagues</h3>
-                <li>
+                <li onClick={() => { 
+                    // children.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 0}));
+                    // this.props.router.navigate('/clubDashboard');
+                }}>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Premier League</p>
                 </li>
@@ -57,4 +63,4 @@ const LeagueSidebar = ({children}) => {
     );
 }
 
-export default LeagueSidebar;
+export default WithRouter(reduxWrapper(LeagueSidebar));

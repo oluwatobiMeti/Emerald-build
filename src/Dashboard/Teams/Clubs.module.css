@@ -1,0 +1,28 @@
+.club_cards_wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    padding: 2rem;
+    padding-left: 0;
+    width: 70vw;
+    height: 88vh;
+    overflow-y: scroll;
+}
+.club_card{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    border: 1px solid grey;
+    width: 100%;
+    background: white;
+}
+.club_card_image_area{
+    width: 13vw;
+    height: 26vh;
+}
+.club_flag{
+    width: 100%;
+    height: 100%;
+}
+.club_card_text_area{
+    padding: 0.5rem;
+}

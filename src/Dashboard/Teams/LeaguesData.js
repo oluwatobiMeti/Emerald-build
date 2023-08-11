@@ -12,35 +12,40 @@ export const LeaguesData = [
         "league_image": premier_league_img,
         "total_teams": "20",
         "year_created": "1992",
-        "stadiums_count": "20"
+        "stadiums_count": "20",
+        "league_index": 0
       },
       {
         "league_name": "La Liga",
         "league_image": laliga,
         "total_teams": "20",
         "year_created": "1929",
-        "stadiums_count": "20"
-      },
-      {
-        "league_name": "Serie A",
-        "league_image": serie_a,
-        "total_teams": "20",
-        "year_created": "1898",
-        "stadiums_count": "20"
+        "stadiums_count": "20",
+        "league_index": 1
       },
       {
         "league_name": "Bundesliga",
         "league_image": Bundlesiga,
         "total_teams": "18",
         "year_created": "1963",
-        "stadiums_count": "18"
+        "stadiums_count": "18",
+        "league_index": 2
+      },
+      {
+        "league_name": "Serie A",
+        "league_image": serie_a,
+        "total_teams": "20",
+        "year_created": "1898",
+        "stadiums_count": "20",
+        "league_index": 3
       },
       {
         "league_name": "Ligue 1",
         "league_image": league_1,
         "total_teams": "20",
         "year_created": "1932",
-        "stadiums_count": "20"
+        "stadiums_count": "20",
+        "league_index": 4
       },
       {
         "league_name": "Champions League",

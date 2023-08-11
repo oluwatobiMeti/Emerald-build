@@ -9,6 +9,7 @@ import {
 import About from './Pages/About';
 import Contact from './Pages/Contact';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
+import ClubDashboard from './Dashboard/ClubDashboard';
     
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path='Contact' element={<Contact/>}/>
         <Route path='Dashboard' element={<DashboardNav/>}/>
         <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
+        <Route path='ClubDashboard' element={<ClubDashboard/>}/>
       </Routes>
     </BrowserRouter>
   );
