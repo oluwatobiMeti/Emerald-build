@@ -25,16 +25,18 @@ class Clubs extends PureComponent {
         console.log(this.props.redux.user.currentLeagueIndex);
         console.log(this.props);
         return(
-            <div className={classes.club_cards_wrapper}>
-                {
-                    AllLeaguesTeams[this.props.redux.user.currentLeagueIndex].map((club, index) => {
-                        return <ClubCard 
-                            club_flag={placeholder}
-                            club_name={club.name}
-                            club_description={club.overview}
-                        />
-                    })
-                }            
+            <div className={classes.club_card_display_area}>
+                <div className={classes.club_cards_wrapper}>
+                    {
+                        AllLeaguesTeams[this.props.redux.user.currentLeagueIndex].map((club, index) => {
+                            return <ClubCard 
+                                club_flag={club.flag}
+                                club_name={club.name}
+                                club_description={club.overview}
+                            />
+                        })
+                    }            
+                </div>
             </div>
         );
     }

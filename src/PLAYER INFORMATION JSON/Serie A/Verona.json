@@ -1,0 +1,236 @@
+[
+    {
+      "name": "Miguel Veloso",
+      "club": "Hellas Verona",
+      "biography": "Miguel Veloso, a Portuguese midfielder known for his passing and defensive abilities, has been a key orchestrator and a midfield presence for Hellas Verona...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 17,
+          "yellowCards": 5,
+          "redCards": 1,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Darko Lazović",
+      "club": "Hellas Verona",
+      "biography": "Darko Lazović, a Serbian winger known for his speed and crossing ability, has been a source of width and attacking threat for Hellas Verona...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 17,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Marco Silvestri",
+      "club": "Hellas Verona",
+      "biography": "Marco Silvestri, an Italian goalkeeper known for his shot-stopping abilities, has been a dependable presence between the posts for Hellas Verona...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 17,
+          "cleanSheets": 5,
+          "goalsConceded": 28,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Federico Dimarco",
+      "club": "Hellas Verona",
+      "biography": "Federico Dimarco, an Italian left-back known for his attacking contributions and set-piece ability, has been a dynamic presence on the flanks for Hellas Verona...",
+      "performance": {
+        "2019-2020": {
+          "wins": 12,
+          "losses": 15,
+          "yellowCards": 5,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Koray Günter",
+      "club": "Hellas Verona",
+      "biography": "Koray Günter, a Turkish center-back known for his defensive prowess and aerial ability, has been a strong presence at the heart of Hellas Verona's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 12,
+          "losses": 15,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Antonín Barák",
+      "club": "Hellas Verona",
+      "biography": "Antonín Barák, a Czech midfielder known for his versatility and goal-scoring ability, has been a dynamic presence and a creative force for Hellas Verona...",
+      "performance": {
+        "2019-2020": {
+          "wins": 12,
+          "losses": 15,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Ivan Ilić",
+      "club": "Hellas Verona",
+      "biography": "Ivan Ilić, a Serbian midfielder known for his passing and technical skills, has been a creative force and a playmaker in Hellas Verona's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 12,
+          "losses": 15,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Manchester City",
+              "to": "Hellas Verona",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ebrima Colley",
+      "club": "Hellas Verona",
+      "biography": "Ebrima Colley, a Gambian winger known for his pace and dribbling ability, has been a dynamic presence on the flanks and an attacking threat for Hellas Verona...",
+      "performance": {
+        "2019-2020": {
+          "wins": 12,
+          "losses": 15,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Kevin Lasagna",
+      "club": "Hellas Verona",
+      "biography": "Kevin Lasagna, an Italian forward known for his movement and goal-scoring ability, has been a threat in the opponent's penalty area for Hellas Verona...",
+      "performance": {
+        "2020-2021": {
+          "wins": 14,
+          "losses": 12,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Udinese",
+              "to": "Hellas Verona",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Nikola Kalinić",
+      "club": "Hellas Verona",
+      "biography": "Nikola Kalinić, a Croatian forward known for his aerial ability and physical presence, has been a target man and a striker for Hellas Verona...",
+      "performance": {
+        "2020-2021": {
+          "wins": 14,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "AS Roma",
+              "to": "Hellas Verona",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Pawel Dawidowicz",
+      "club": "Hellas Verona",
+      "biography": "Pawel Dawidowicz, a Polish defender known for his versatility and defensive skills, has been a solid presence in Hellas Verona's backline...",
+      "performance": {
+        "2020-2021": {
+          "wins": 14,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Benfica",
+              "to": "Hellas Verona",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mariusz Stępiński",
+      "club": "Hellas Verona",
+      "biography": "Mariusz Stępiński, a Polish forward known for his work rate and goal-scoring ability, has been a key player in Hellas Verona's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 14,
+          "losses": 12,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Chievo",
+              "to": "Hellas Verona",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

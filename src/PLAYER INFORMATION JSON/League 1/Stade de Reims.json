@@ -1,0 +1,244 @@
+[
+    {
+      "name": "Boulaye Dia",
+      "club": "Stade de Reims",
+      "biography": "Boulaye Dia, a Senegalese forward known for his goal-scoring prowess and versatility, has been a standout performer and a key figure in Stade de Reims' attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 7,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Nathanaël Mbuku",
+      "club": "Stade de Reims",
+      "biography": "Nathanaël Mbuku, a French midfielder known for his dribbling and creativity, has been a young talent and a promising presence in Stade de Reims' midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 7,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Yunis Abdelhamid",
+      "club": "Stade de Reims",
+      "biography": "Yunis Abdelhamid, a Moroccan center-back known for his defensive skills and aerial ability, has been a rock at the heart of Stade de Reims' defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Xavier Chavalerin",
+      "club": "Stade de Reims",
+      "biography": "Xavier Chavalerin, a French midfielder known for his work rate and passing ability, has been a vital presence in Stade de Reims' midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Moreto Cassamá",
+      "club": "Stade de Reims",
+      "biography": "Moreto Cassamá, a Bissau-Guinean midfielder known for his technical skills and vision, has been a creative force in Stade de Reims' midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "FC Porto",
+              "to": "Stade de Reims",
+              "time": "2020-10"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Valon Berisha",
+      "club": "Stade de Reims",
+      "biography": "Valon Berisha, a Kosovo midfielder known for his versatility and set-piece ability, has been a valuable addition to Stade de Reims' midfield...",
+      "performance": {
+        "2021-2022": {
+          "wins": 10,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lazio",
+              "to": "Stade de Reims",
+              "time": "2021-08"
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "name": "Arber Zeneli",
+      "club": "Stade de Reims",
+      "biography": "Arber Zeneli, a Kosovo-Albanian forward known for his flair and creativity, has been a skillful and dynamic presence in Stade de Reims' attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Thomas Foket",
+      "club": "Stade de Reims",
+      "biography": "Thomas Foket, a Belgian right-back known for his defensive solidity and crossing ability, has been a reliable option in Stade de Reims' defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Gent",
+              "to": "Stade de Reims",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ghislain Konan",
+      "club": "Stade de Reims",
+      "biography": "Ghislain Konan, an Ivorian left-back known for his athleticism and defensive skills, has been a strong presence on the flanks for Stade de Reims...",
+      "performance": {
+        "2018-2019": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Vitoria Guimaraes",
+              "to": "Stade de Reims",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wout Faes",
+      "club": "Stade de Reims",
+      "biography": "Wout Faes, a Belgian center-back known for his aerial ability and defensive composure, has been a solid presence at the heart of Stade de Reims' defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Oostende",
+              "to": "Stade de Reims",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Yanis Mehdi",
+      "club": "Stade de Reims",
+      "biography": "Yanis Mehdi, a French winger known for his speed and dribbling, has been a promising talent and a lively presence in Stade de Reims' attack...",
+      "performance": {
+        "2021-2022": {
+          "wins": 10,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Gael Kakuta",
+      "club": "Stade de Reims",
+      "biography": "Gael Kakuta, a Congolese attacking midfielder known for his dribbling and creativity, has been a playmaking force in Stade de Reims' midfield...",
+      "performance": {
+        "2021-2022": {
+          "wins": 10,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lens",
+              "to": "Stade de Reims",
+              "time": "2021-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

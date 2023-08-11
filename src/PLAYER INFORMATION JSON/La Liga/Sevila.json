@@ -1,0 +1,329 @@
+[
+    {
+      "name": "Yassine Bounou",
+      "club": "Sevilla FC",
+      "biography": "Yassine Bounou, a Moroccan goalkeeper known for his shot-stopping ability, has been a reliable presence in Sevilla FC's goal...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 12,
+          "cleanSheets": 8,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 19,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Girona",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "cleanSheets": 9,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 25,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jules Koundé",
+      "club": "Sevilla FC",
+      "biography": "Jules Koundé, a French center-back known for his composure and defensive skills, has been a standout performer in Sevilla FC's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Bordeaux",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Diego Carlos",
+      "club": "Sevilla FC",
+      "biography": "Diego Carlos, a Brazilian center-back known for his physicality and aerial ability, has been a rock in Sevilla FC's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 10,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Nantes",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Sergio Escudero",
+      "club": "Sevilla FC",
+      "biography": "Sergio Escudero, a Spanish left-back known for his crossing ability, has been a consistent presence in Sevilla FC's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Joan Jordán",
+      "club": "Sevilla FC",
+      "biography": "Joan Jordán, a Spanish midfielder known for his passing range and work rate, has been a key figure in Sevilla FC's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Eibar",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Fernando Reges",
+      "club": "Sevilla FC",
+      "biography": "Fernando Reges, a Brazilian midfielder known for his defensive skills, has provided stability to Sevilla FC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Galatasaray",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+
+  
+    {
+      "name": "Lucas Ocampos",
+      "club": "Sevilla FC",
+      "biography": "Lucas Ocampos, an Argentine winger known for his dribbling and goal-scoring ability, has been a dynamic force in Sevilla FC's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 10,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 14,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Olympique Marseille",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Munir El Haddadi",
+      "club": "Sevilla FC",
+      "biography": "Munir El Haddadi, a Spanish-Moroccan forward known for his versatility and finishing, has added depth to Sevilla FC's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Barcelona",
+              "to": "Sevilla FC",
+              "time": "2019-01"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 8,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Suso",
+      "club": "Sevilla FC",
+      "biography": "Suso, a Spanish winger known for his creativity and set-piece expertise, has been a valuable asset in Sevilla FC's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 4,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "AC Milan",
+              "to": "Sevilla FC",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Diego Llorente",
+      "club": "Sevilla FC",
+      "biography": "Diego Llorente, a Spanish center-back known for his defensive skills and leadership, has been a solid presence in Sevilla FC's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Sociedad",
+              "to": "Sevilla FC",
+              "time": "2019-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Aleix Vidal",
+      "club": "Sevilla FC",
+      "biography": "Aleix Vidal, a Spanish right-back known for his attacking contributions, has provided width to Sevilla FC's play...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 1,
+          "assists": 4,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Ivan Rakitic",
+      "club": "Sevilla FC",
+      "biography": "Ivan Rakitic, a Croatian midfielder known for his passing and leadership, has returned to Sevilla FC to make a significant impact...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 13,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 4,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Barcelona",
+              "to": "Sevilla FC",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

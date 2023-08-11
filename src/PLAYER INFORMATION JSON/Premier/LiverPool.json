@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Mohamed Salah",
+    "club": "Liverpool FC",
+    "biography": "Mohamed Salah, an Egyptian winger, has illuminated the Premier League with his electrifying performances and dazzling skill...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 1,
+        "redCards": 0,
+        "goalsScored": 22,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "AS Roma",
+            "to": "Liverpool FC",
+            "time": "2017-06"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsScored": 19,
+        "cups": 1,
+        "transfers": []
+      }
+
+    }
+  },
+  {
+    "name": "Virgil van Dijk",
+    "club": "Liverpool FC",
+    "biography": "Virgil van Dijk is a Dutch central defender who transformed Liverpool FC's defense upon his arrival...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsScored": 6,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Southampton",
+            "to": "Liverpool FC",
+            "time": "2018-01"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 3,
+        "redCards": 0,
+        "goalsScored": 5,
+        "cups": 1,
+        "transfers": []
+      }
+
+    }
+  },
+  {
+    "name": "Sadio Mané",
+    "club": "Liverpool FC",
+    "biography": "Sadio Mané, a dynamic Senegalese winger, has electrified the Premier League with his explosive pace, dribbling skills, and flair for the spectacular...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 1,
+        "redCards": 0,
+        "goalsScored": 22,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Southampton",
+            "to": "Liverpool FC",
+            "time": "2016-06"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsScored": 18,
+        "cups": 1,
+        "transfers": []
+      }
+
+    }
+  },
+  {
+    "name": "Jordan Henderson",
+    "club": "Liverpool FC",
+    "biography": "Jordan Henderson, an English midfielder and the embodiment of leadership, has been instrumental in Liverpool FC's successes...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 4,
+        "redCards": 0,
+        "goalsScored": 3,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Sunderland",
+            "to": "Liverpool FC",
+            "time": "2011-06"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsScored": 4,
+        "cups": 1,
+        "transfers": []
+      }
+
+    }
+  },
+  {
+    "name": "Roberto Firmino",
+    "club": "Liverpool FC",
+    "biography": "Roberto Firmino, a Brazilian forward known for his creativity and link-up play, has been a linchpin in Liverpool FC's attack...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsScored": 16,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Hoffenheim",
+            "to": "Liverpool FC",
+            "time": "2015-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 1,
+        "redCards": 0,
+        "goalsScored": 12,
+        "cups": 1,
+        "transfers": []
+      }
+
+    }
+  },
+  {
+    "name": "Alisson Becker",
+    "club": "Liverpool FC",
+    "biography": "Alisson Becker, a Brazilian goalkeeper known for his shot-stopping and distribution skills, has solidified Liverpool FC's defense...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "cleanSheets": 21,
+        "yellowCards": 1,
+        "redCards": 0,
+        "goalsConceded": 22,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "AS Roma",
+            "to": "Liverpool FC",
+            "time": "2018-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "cleanSheets": 18,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsConceded": 26,
+        "cups": 1,
+        "transfers": []
+      }
+
+    }
+  },
+
+  {
+    "name": "Trent Alexander-Arnold",
+    "club": "Liverpool FC",
+    "biography": "Trent Alexander-Arnold, an English right-back with exceptional crossing ability and footballing intelligence, has been a key figure in Liverpool FC's defense...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 4,
+        "redCards": 0,
+        "assists": 13,
+        "cups": 1,
+        "transfers": []
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 3,
+        "redCards": 0,
+        "assists": 12,
+        "cups": 1,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Andy Robertson",
+    "club": "Liverpool FC",
+    "biography": "Andy Robertson, a Scottish left-back with boundless energy and tenacity, has been a vital part of Liverpool FC's defensive and attacking setup...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 5,
+        "redCards": 0,
+        "assists": 11,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Hull City",
+            "to": "Liverpool FC",
+            "time": "2017-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 4,
+        "redCards": 0,
+        "assists": 10,
+        "cups": 1,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Fabinho",
+    "club": "Liverpool FC",
+    "biography": "Fabinho, a Brazilian midfielder with defensive expertise and exceptional passing range, has been a pivotal presence in Liverpool FC's midfield...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 7,
+        "redCards": 0,
+        "assists": 3,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "AS Monaco",
+            "to": "Liverpool FC",
+            "time": "2018-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 6,
+        "redCards": 0,
+        "assists": 5,
+        "cups": 1,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Diogo Jota",
+    "club": "Liverpool FC",
+    "biography": "Diogo Jota, a Portuguese forward with flair and goal-scoring ability, has added depth and versatility to Liverpool FC's attacking options...",
+    "performance": {
+      "2020-2021": {
+        "wins": 28,
+        "losses": 8,
+        "yellowCards": 1,
+        "redCards": 0,
+        "goalsScored": 13,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Wolverhampton Wanderers",
+            "to": "Liverpool FC",
+            "time": "2020-09"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Joel Matip",
+    "club": "Liverpool FC",
+    "biography": "Joel Matip, a Cameroonian center-back with commanding aerial presence and composure on the ball, has been a stalwart in Liverpool FC's defense...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 2,
+        "redCards": 0,
+        "goalsScored": 2,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Schalke 04",
+            "to": "Liverpool FC",
+            "time": "2016-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 3,
+        "redCards": 0,
+        "goalsScored": 1,
+        "cups": 1,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "James Milner",
+    "club": "Liverpool FC",
+    "biography": "James Milner, a versatile English midfielder known for his work ethic and leadership, has been a vital presence in Liverpool FC's squad...",
+    "performance": {
+      "2018-2019": {
+        "wins": 30,
+        "losses": 7,
+        "yellowCards": 6,
+        "redCards": 0,
+        "assists": 8,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Manchester City",
+            "to": "Liverpool FC",
+            "time": "2015-06"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 32,
+        "losses": 3,
+        "yellowCards": 3,
+        "redCards": 0,
+        "assists": 5,
+        "cups": 1,
+        "transfers": []
+      }
+    }
+  }
+]
+

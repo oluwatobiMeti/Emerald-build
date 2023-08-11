@@ -9,7 +9,7 @@ const LeagueDashboard = () => {
         <section className={classes.league_dashboard_page}>
             <DashboardNav />
             <div className={classes.league_dashboard_area}>
-                <LeagueSidebar />
+                <LeagueSidebar ></LeagueSidebar>
                 <TeamDisplayArea/>
             </div>
         </section>

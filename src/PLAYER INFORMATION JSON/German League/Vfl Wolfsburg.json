@@ -1,0 +1,238 @@
+[
+    {
+      "name": "Wout Weghorst",
+      "club": "VfL Wolfsburg",
+      "biography": "Wout Weghorst, a Dutch striker known for his physical presence and goal-scoring ability, has been a prolific scorer for VfL Wolfsburg...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 17,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "AZ Alkmaar",
+              "to": "VfL Wolfsburg",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Maximilian Arnold",
+      "club": "VfL Wolfsburg",
+      "biography": "Maximilian Arnold, a German midfielder known for his passing and set-piece ability, has been a creative force in VfL Wolfsburg's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Renato Steffen",
+      "club": "VfL Wolfsburg",
+      "biography": "Renato Steffen, a Swiss winger known for his pace and crossing ability, has been a key contributor to VfL Wolfsburg's attacking plays...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "John Brooks",
+      "club": "VfL Wolfsburg",
+      "biography": "John Brooks, an American center-back known for his defensive prowess and aerial ability, has been a reliable presence in VfL Wolfsburg's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Yannick Gerhardt",
+      "club": "VfL Wolfsburg",
+      "biography": "Yannick Gerhardt, a German midfielder known for his versatility and energy, has been a reliable presence in both defense and midfield for VfL Wolfsburg...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Josuha Guilavogui",
+      "club": "VfL Wolfsburg",
+      "biography": "Josuha Guilavogui, a French midfielder known for his defensive skills and leadership, has been a crucial anchor in VfL Wolfsburg's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 9,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Joao Victor",
+      "club": "VfL Wolfsburg",
+      "biography": "Joao Victor, a Brazilian forward known for his pace and dribbling skills, has been a dynamic presence in VfL Wolfsburg's attacking lineup...",
+      "performance": {
+        "2019-2020": {
+          "wins": 10,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "LASK Linz",
+              "to": "VfL Wolfsburg",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Maxence Lacroix",
+      "club": "VfL Wolfsburg",
+      "biography": "Maxence Lacroix, a French center-back known for his composure and defensive reading, has been a rising star in VfL Wolfsburg's defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 15,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Sochaux",
+              "to": "VfL Wolfsburg",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Xaver Schlager",
+      "club": "VfL Wolfsburg",
+      "biography": "Xaver Schlager, an Austrian midfielder known for his work rate and passing ability, has provided energy and control to VfL Wolfsburg's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 10,
+          "losses": 9,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "RB Salzburg",
+              "to": "VfL Wolfsburg",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ridle Baku",
+      "club": "VfL Wolfsburg",
+      "biography": "Ridle Baku, a German full-back known for his versatility and attacking contributions, has been a key asset to VfL Wolfsburg's defense and midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 15,
+          "losses": 10,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jerome Roussillon",
+      "club": "VfL Wolfsburg",
+      "biography": "Jerome Roussillon, a French left-back known for his defensive skills and crossing ability, has provided balance and defensive solidity to VfL Wolfsburg...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Montpellier",
+              "to": "VfL Wolfsburg",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Yannick Gerhardt",
+      "club": "VfL Wolfsburg",
+      "biography": "Yannick Gerhardt, a German midfielder known for his versatility and energy, has been a reliable presence in both defense and midfield for VfL Wolfsburg...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

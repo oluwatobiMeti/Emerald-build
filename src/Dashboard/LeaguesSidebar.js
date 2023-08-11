@@ -4,37 +4,51 @@ import { reduxWrapper } from "../Store";
 import { userActions } from "../Store";
 import WithRouter from "../HOC/WithRouter";
 
-const LeagueSidebar = ({children}) => {
+const LeagueSidebar = (props) => {
     return(
         <div className={classes.league_sidebar}>
-            {children}
+            {/* {children} */}
             <ul>
                 <h3>Leagues</h3>
                 <li onClick={() => { 
-                    // children.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 0}));
-                    // this.props.router.navigate('/clubDashboard');
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 0}));
+                    props.router.navigate('/clubDashboard');
                 }}>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Premier League</p>
                 </li>
-                <li>
+                <li onClick={() => { 
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 1}));
+                    props.router.navigate('/clubDashboard');
+                }}>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Laliga (Spain)</p>
                 </li>
-                <li>
+                <li onClick={() => { 
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 3}));
+                    props.router.navigate('/clubDashboard');
+                }}>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Serie A (Italy)</p>
                 </li>
-                <li>
+                <li onClick={() => { 
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 2}));
+                    props.router.navigate('/clubDashboard');
+                }}>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Bundlesiga (Germany)</p>
+                </li>
+                <li onClick={() => { 
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 4}));
+                    props.router.navigate('/clubDashboard');
+                }}>
+                    <ion-icon name="football-outline"></ion-icon>
+                    <p>League 1 (France)</p>
                 </li>
                 <li>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Champions League</p>
                 </li>
-
-                {/* <h3>Players</h3> */}
             </ul>
             <ul>
                 <h3 className={classes.other_features_header}>Other Features</h3>
@@ -53,10 +67,6 @@ const LeagueSidebar = ({children}) => {
                 <li>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Game Fixtures</p>
-                </li>
-                <li>
-                    <ion-icon name="football-outline"></ion-icon>
-                    <p>Player Search</p>
                 </li>
             </ul>
         </div>

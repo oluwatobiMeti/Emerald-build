@@ -1,0 +1,244 @@
+[
+    {
+      "name": "Andy Delort",
+      "club": "Montpellier HSC",
+      "biography": "Andy Delort, a French-Algerian forward known for his physicality and finishing skills, has been a consistent goal-scorer for Montpellier HSC...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 14,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Toulouse",
+              "to": "Montpellier HSC",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Gaetan Laborde",
+      "club": "Montpellier HSC",
+      "biography": "Gaetan Laborde, a French forward known for his movement and link-up play, has been a creative force in Montpellier HSC's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Florent Mollet",
+      "club": "Montpellier HSC",
+      "biography": "Florent Mollet, a French midfielder known for his vision and passing ability, has been a key playmaker in Montpellier HSC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Metz",
+              "to": "Montpellier HSC",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Teji Savanier",
+      "club": "Montpellier HSC",
+      "biography": "Teji Savanier, a French midfielder known for his creativity and set-piece ability, has been a driving force in Montpellier HSC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Daniel Congre",
+      "club": "Montpellier HSC",
+      "biography": "Daniel Congre, a French defender known for his experience and defensive skills, has been a stalwart in Montpellier HSC's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Pedro Mendes",
+      "club": "Montpellier HSC",
+      "biography": "Pedro Mendes, a Portuguese defender known for his aerial ability and defensive presence, has been a reliable center-back for Montpellier HSC...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Rennes",
+              "to": "Montpellier HSC",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "name": "Arnaud Souquet",
+      "club": "Montpellier HSC",
+      "biography": "Arnaud Souquet, a French right-back known for his defensive abilities and crossing, has provided solidity and width to Montpellier HSC's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Mihailo Ristic",
+      "club": "Montpellier HSC",
+      "biography": "Mihailo Ristic, a Serbian left-back known for his speed and crossing ability, has added attacking threat and defensive support to Montpellier HSC...",
+      "performance": {
+        "2020-2021": {
+          "wins": 12,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Red Star Belgrade",
+              "to": "Montpellier HSC",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Téji Savanier",
+      "club": "Montpellier HSC",
+      "biography": "Téji Savanier, a French midfielder known for his creativity and set-piece ability, has been a driving force in Montpellier HSC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Damien Le Tallec",
+      "club": "Montpellier HSC",
+      "biography": "Damien Le Tallec, a French midfielder known for his versatility and work rate, has been a reliable presence in Montpellier HSC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jordan Ferri",
+      "club": "Montpellier HSC",
+      "biography": "Jordan Ferri, a French midfielder known for his work ethic and passing, has been a steady presence in Montpellier HSC's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 12,
+          "losses": 9,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lyon",
+              "to": "Montpellier HSC",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Petar Skuletic",
+      "club": "Montpellier HSC",
+      "biography": "Petar Skuletic, a Montenegrin forward known for his poaching skills and positioning, has contributed goals to Montpellier HSC's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 6,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Partizan Belgrade",
+              "to": "Montpellier HSC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

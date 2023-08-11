@@ -1,0 +1,330 @@
+[
+    {
+      "name": "Jan Oblak",
+      "club": "Atletico Madrid",
+      "biography": "Jan Oblak, a Slovenian goalkeeper known for his exceptional shot-stopping ability, has been a rock in Atletico Madrid's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "cleanSheets": 20,
+          "yellowCards": 1,
+          "redCards": 0,
+          "goalsConceded": 24,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Benfica",
+              "to": "Atletico Madrid",
+              "time": "2014-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "cleanSheets": 16,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 27,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Koke",
+      "club": "Atletico Madrid",
+      "biography": "Koke, a Spanish midfielder known for his passing accuracy and work rate, has been the heartbeat of Atletico Madrid's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 11,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jose Gimenez",
+      "club": "Atletico Madrid",
+      "biography": "Jose Gimenez, a Uruguayan center-back known for his defensive prowess and aerial ability, has been a key pillar in Atletico Madrid's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 1,
+          "assists": 0,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Diego Godin",
+      "club": "Atletico Madrid",
+      "biography": "Diego Godin, a Uruguayan center-back known for his leadership and defensive solidity, has been an iconic figure for Atletico Madrid...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Villarreal",
+              "to": "Atletico Madrid",
+              "time": "2010-08"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Thomas Partey",
+      "club": "Atletico Madrid",
+      "biography": "Thomas Partey, a Ghanaian midfielder known for his physical presence and box-to-box ability, has been a driving force in Atletico Madrid's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "João Félix",
+      "club": "Atletico Madrid",
+      "biography": "João Félix, a Portuguese forward known for his flair and creativity, has been a rising star in Atletico Madrid's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Benfica",
+              "to": "Atletico Madrid",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "name": "Marcos Llorente",
+      "club": "Atletico Madrid",
+      "biography": "Marcos Llorente, a Spanish midfielder known for his defensive skills and versatility, has become a vital player for Atletico Madrid...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Madrid",
+              "to": "Atletico Madrid",
+              "time": "2019-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 6,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Ángel Correa",
+      "club": "Atletico Madrid",
+      "biography": "Ángel Correa, an Argentine forward known for his energy and flair, has been an exciting presence in Atletico Madrid's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Héctor Herrera",
+      "club": "Atletico Madrid",
+      "biography": "Héctor Herrera, a Mexican midfielder known for his leadership and versatility, has added depth to Atletico Madrid's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Porto",
+              "to": "Atletico Madrid",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Renan Lodi",
+      "club": "Atletico Madrid",
+      "biography": "Renan Lodi, a Brazilian left-back known for his attacking prowess and defensive abilities, has been a promising talent for Atletico Madrid...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Athletico Paranaense",
+              "to": "Atletico Madrid",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Saúl Ñíguez",
+      "club": "Atletico Madrid",
+      "biography": "Saúl Ñíguez, a Spanish midfielder known for his versatility and tenacity, has been a consistent performer for Atletico Madrid...",
+      "performance": {
+        "2018-2019": {
+          "wins": 22,
+          "losses": 7,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 8,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Álvaro Morata",
+      "club": "Atletico Madrid",
+      "biography": "Álvaro Morata, a Spanish striker known for his clinical finishing, has been a goal-scoring threat for Atletico Madrid...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 16,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Chelsea",
+              "to": "Atletico Madrid",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

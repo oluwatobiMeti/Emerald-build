@@ -1,0 +1,244 @@
+[
+    {
+      "name": "Neymar Jr.",
+      "club": "Paris Saint-Germain",
+      "biography": "Neymar Jr., a Brazilian forward known for his dazzling skills and goal-scoring prowess, has been a marquee player and a driving force for Paris Saint-Germain...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 5,
+          "redCards": 1,
+          "assists": 20,
+          "goalsScored": 23,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "FC Barcelona",
+              "to": "Paris Saint-Germain",
+              "time": "2017-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Kylian Mbappé",
+      "club": "Paris Saint-Germain",
+      "biography": "Kylian Mbappé, a French forward known for his speed and clinical finishing, has emerged as one of the brightest talents in world football while playing for Paris Saint-Germain...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 19,
+          "goalsScored": 33,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Marco Verratti",
+      "club": "Paris Saint-Germain",
+      "biography": "Marco Verratti, an Italian midfielder known for his passing accuracy and ball control, has been a vital playmaker and engine in Paris Saint-Germain's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Keylor Navas",
+      "club": "Paris Saint-Germain",
+      "biography": "Keylor Navas, a Costa Rican goalkeeper known for his shot-stopping ability and experience, has been a reliable presence in Paris Saint-Germain's goal...",
+      "performance": {
+        "2019-2020": {
+          "wins": 20,
+          "losses": 4,
+          "cleanSheets": 14,
+          "yellowCards": 0,
+          "redCards": 0,
+          "saves": 78,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Madrid",
+              "to": "Paris Saint-Germain",
+              "time": "2019-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Angel Di Maria",
+      "club": "Paris Saint-Germain",
+      "biography": "Angel Di Maria, an Argentine winger known for his dribbling and crossing ability, has been a creative force and a consistent performer for Paris Saint-Germain...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 5,
+          "redCards": 1,
+          "assists": 18,
+          "goalsScored": 12,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Presnel Kimpembe",
+      "club": "Paris Saint-Germain",
+      "biography": "Presnel Kimpembe, a French center-back known for his defensive prowess and composure, has been a cornerstone of Paris Saint-Germain's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Achraf Hakimi",
+      "club": "Paris Saint-Germain",
+      "biography": "Achraf Hakimi, a Moroccan right-back known for his speed and attacking prowess, has been a dynamic presence on the flanks for Paris Saint-Germain...",
+      "performance": {
+        "2021-2022": {
+          "wins": 25,
+          "losses": 4,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Inter Milan",
+              "to": "Paris Saint-Germain",
+              "time": "2021-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Marquinhos",
+      "club": "Paris Saint-Germain",
+      "biography": "Marquinhos, a Brazilian center-back known for his leadership and defensive skills, has been a vital presence at the heart of Paris Saint-Germain's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Georginio Wijnaldum",
+      "club": "Paris Saint-Germain",
+      "biography": "Georginio Wijnaldum, a Dutch midfielder known for his box-to-box style and goal-scoring ability, has brought energy and experience to Paris Saint-Germain's midfield...",
+      "performance": {
+        "2021-2022": {
+          "wins": 25,
+          "losses": 4,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 8,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Liverpool",
+              "to": "Paris Saint-Germain",
+              "time": "2021-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Idrissa Gueye",
+      "club": "Paris Saint-Germain",
+      "biography": "Idrissa Gueye, a Senegalese midfielder known for his defensive contributions and ball-winning ability, has been a key shield in front of Paris Saint-Germain's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 9,
+          "redCards": 1,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Everton",
+              "to": "Paris Saint-Germain",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Juan Bernat",
+      "club": "Paris Saint-Germain",
+      "biography": "Juan Bernat, a Spanish left-back known for his overlapping runs and defensive solidity, has been a reliable option in both attack and defense for Paris Saint-Germain...",
+      "performance": {
+        "2018-2019": {
+          "wins": 29,
+          "losses": 4,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Sergio Ramos",
+      "club": "Paris Saint-Germain",
+      "biography": "Sergio Ramos, a Spanish center-back known for his defensive leadership and goal-scoring ability, has brought his experience and winning mentality to Paris Saint-Germain...",
+      "performance": {
+        "2021-2022": {
+          "wins": 25,
+          "losses": 4,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Madrid",
+              "to": "Paris Saint-Germain",
+              "time": "2021-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

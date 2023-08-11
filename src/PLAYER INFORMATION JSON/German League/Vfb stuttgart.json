@@ -1,0 +1,244 @@
+[
+    {
+      "name": "Nicolas Gonzalez",
+      "club": "VfB Stuttgart",
+      "biography": "Nicolas Gonzalez, an Argentine forward known for his agility and goal-scoring ability, played a pivotal role in VfB Stuttgart's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 8,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Sasa Kalajdzic",
+      "club": "VfB Stuttgart",
+      "biography": "Sasa Kalajdzic, an Austrian striker known for his height and aerial ability, was a key target man for VfB Stuttgart's attacking plays...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 17,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Orel Mangala",
+      "club": "VfB Stuttgart",
+      "biography": "Orel Mangala, a Belgian midfielder known for his dynamism and passing ability, has been a driving force in VfB Stuttgart's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Hamburg",
+              "to": "VfB Stuttgart",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wataru Endo",
+      "club": "VfB Stuttgart",
+      "biography": "Wataru Endo, a Japanese midfielder known for his versatility and work rate, has provided stability and energy to VfB Stuttgart's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Sint-Truiden",
+              "to": "VfB Stuttgart",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tanguy Coulibaly",
+      "club": "VfB Stuttgart",
+      "biography": "Tanguy Coulibaly, a French forward known for his pace and dribbling skills, has added flair to VfB Stuttgart's attacking options...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Gonzalo Castro",
+      "club": "VfB Stuttgart",
+      "biography": "Gonzalo Castro, a German midfielder known for his experience and passing ability, has been a midfield maestro for VfB Stuttgart...",
+      "performance": {
+        "2018-2019": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Gregor Kobel",
+      "club": "VfB Stuttgart",
+      "biography": "Gregor Kobel, a Swiss goalkeeper known for his shot-stopping ability and commanding presence, has been a reliable last line of defense for VfB Stuttgart...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "cleanSheets": 7,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 28,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Hoffenheim",
+              "to": "VfB Stuttgart",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Philipp Klement",
+      "club": "VfB Stuttgart",
+      "biography": "Philipp Klement, a German midfielder known for his set-piece prowess and vision, has contributed creativity to VfB Stuttgart's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 10,
+          "losses": 7,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Paderborn",
+              "to": "VfB Stuttgart",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Erik Thommy",
+      "club": "VfB Stuttgart",
+      "biography": "Erik Thommy, a German winger known for his pace and crossing ability, has provided width and attacking options for VfB Stuttgart...",
+      "performance": {
+        "2018-2019": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Marc-Oliver Kempf",
+      "club": "VfB Stuttgart",
+      "biography": "Marc-Oliver Kempf, a German center-back known for his defensive skills and leadership, has been a reliable presence in VfB Stuttgart's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Atakan Karazor",
+      "club": "VfB Stuttgart",
+      "biography": "Atakan Karazor, a Turkish midfielder known for his versatility and tenacity, has provided depth and energy to VfB Stuttgart's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 10,
+          "losses": 7,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Holstein Kiel",
+              "to": "VfB Stuttgart",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "club": "VfB Stuttgart",
+      "biography": "Nico Schlotterbeck, a German defender known for his composure and reading of the game, has been a rising talent in VfB Stuttgart's defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Freiburg",
+              "to": "VfB Stuttgart",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

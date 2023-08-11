@@ -1,0 +1,262 @@
+[
+    {
+      "name": "Callum Wilson",
+      "club": "Newcastle United",
+      "biography": "Callum Wilson, an English striker known for his goal-scoring ability and movement off the ball, has been Newcastle United's main attacking threat...",
+      "performance": {
+        "2020-2021": {
+          "wins": 12,
+          "losses": 18,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 12,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "AFC Bournemouth",
+              "to": "Newcastle United",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Allan Saint-Maximin",
+      "club": "Newcastle United",
+      "biography": "Allan Saint-Maximin, a French winger known for his dribbling skills and flair, has added creativity and excitement to Newcastle United's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 20,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Nice",
+              "to": "Newcastle United",
+              "time": "2019-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Miguel Almirón",
+      "club": "Newcastle United",
+      "biography": "Miguel Almirón, a Paraguayan midfielder known for his work rate and creativity, has been an important figure in Newcastle United's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 12,
+          "losses": 19,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Atlanta United",
+              "to": "Newcastle United",
+              "time": "2019-01"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 11,
+          "losses": 20,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jonjo Shelvey",
+      "club": "Newcastle United",
+      "biography": "Jonjo Shelvey, an English midfielder known for his passing range and set-piece ability, has been a creative force in Newcastle United's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 12,
+          "losses": 19,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 5,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Swansea City",
+              "to": "Newcastle United",
+              "time": "2016-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Martin Dúbravka",
+      "club": "Newcastle United",
+      "biography": "Martin Dúbravka, a Slovakian goalkeeper known for his shot-stopping ability and presence in the penalty area, has been a reliable figure in Newcastle United's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 12,
+          "losses": 19,
+          "cleanSheets": 11,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 39,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Sparta Prague",
+              "to": "Newcastle United",
+              "time": "2018-01"
+            }
+          ]
+        }
+      }
+    },
+
+  
+    {
+      "name": "Jamaal Lascelles",
+      "club": "Newcastle United",
+      "biography": "Jamaal Lascelles, an English center-back known for his leadership and aerial ability, has been a stalwart in Newcastle United's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 12,
+          "losses": 19,
+          "yellowCards": 9,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Nottingham Forest",
+              "to": "Newcastle United",
+              "time": "2014-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Federico Fernandez",
+      "club": "Newcastle United",
+      "biography": "Federico Fernandez, an Argentine center-back known for his defensive solidity and composure, has been a reliable presence in Newcastle United's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 12,
+          "losses": 19,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Swansea City",
+              "to": "Newcastle United",
+              "time": "2018-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ryan Fraser",
+      "club": "Newcastle United",
+      "biography": "Ryan Fraser, a Scottish winger known for his pace and delivery, has provided a creative outlet on the flanks for Newcastle United...",
+      "performance": {
+        "2020-2021": {
+          "wins": 12,
+          "losses": 18,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Bournemouth",
+              "to": "Newcastle United",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Joe Willock",
+      "club": "Newcastle United",
+      "biography": "Joe Willock, an English midfielder known for his energy and box-to-box play, has added dynamism to Newcastle United's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 12,
+          "losses": 18,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 8,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Arsenal",
+              "to": "Newcastle United",
+              "time": "2021-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Joelinton",
+      "club": "Newcastle United",
+      "biography": "Joelinton, a Brazilian forward known for his physical presence and hold-up play, has led Newcastle United's attack with his work rate...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 20,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Hoffenheim",
+              "to": "Newcastle United",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Paul Dummett",
+      "club": "Newcastle United",
+      "biography": "Paul Dummett, a Welsh defender known for his versatility and defensive attributes, has been a reliable option for Newcastle United...",
+      "performance": {
+        "2018-2019": {
+          "wins": 12,
+          "losses": 19,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

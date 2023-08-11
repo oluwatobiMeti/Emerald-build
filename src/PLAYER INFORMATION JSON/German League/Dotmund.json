@@ -1,0 +1,294 @@
+[
+    {
+      "name": "Erling Haaland",
+      "club": "Borussia Dortmund",
+      "biography": "Erling Haaland, a Norwegian striker known for his incredible goal-scoring ability, has been a sensation for Borussia Dortmund...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 20,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 44,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Marco Reus",
+      "club": "Borussia Dortmund",
+      "biography": "Marco Reus, a German attacking midfielder known for his creativity and leadership, has been a talismanic figure for Borussia Dortmund...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 17,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 19,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jadon Sancho",
+      "club": "Borussia Dortmund",
+      "biography": "Jadon Sancho, an English winger known for his flair and skill on the ball, has been a major creative force for Borussia Dortmund...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 19,
+          "goalsScored": 13,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 20,
+          "goalsScored": 20,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Giovanni Reyna",
+      "club": "Borussia Dortmund",
+      "biography": "Giovanni Reyna, an American midfielder known for his technical ability and vision, has emerged as a rising star for Borussia Dortmund...",
+      "performance": {
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 9,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Mats Hummels",
+      "club": "Borussia Dortmund",
+      "biography": "Mats Hummels, a German center-back known for his defensive prowess and leadership, has been a cornerstone of Borussia Dortmund's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Axel Witsel",
+      "club": "Borussia Dortmund",
+      "biography": "Axel Witsel, a Belgian midfielder known for his physicality and passing ability, has been a key presence in Borussia Dortmund's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Raphael Guerreiro",
+      "club": "Borussia Dortmund",
+      "biography": "Raphael Guerreiro, a Portuguese left-back known for his attacking prowess and versatility, has been a valuable asset to Borussia Dortmund...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jude Bellingham",
+      "club": "Borussia Dortmund",
+      "biography": "Jude Bellingham, an English midfielder known for his energy and composure, has quickly established himself as a promising talent for Borussia Dortmund...",
+      "performance": {
+        "2020-2021": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Roman Burki",
+      "club": "Borussia Dortmund",
+      "biography": "Roman Burki, a Swiss goalkeeper known for his shot-stopping ability, has been a reliable presence between the posts for Borussia Dortmund...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "cleanSheets": 11,
+          "yellowCards": 1,
+          "redCards": 0,
+          "goalsConceded": 28,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "cleanSheets": 13,
+          "yellowCards": 2,
+          "redCards": 0,
+          "goalsConceded": 33,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Emre Can",
+      "club": "Borussia Dortmund",
+      "biography": "Emre Can, a German midfielder known for his versatility and physicality, has provided stability and experience to Borussia Dortmund's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Dan-Axel Zagadou",
+      "club": "Borussia Dortmund",
+      "biography": "Dan-Axel Zagadou, a French center-back known for his imposing presence and defensive skills, has been a rising star in Borussia Dortmund's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 21,
+          "losses": 6,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Thomas Meunier",
+      "club": "Borussia Dortmund",
+      "biography": "Thomas Meunier, a Belgian right-back known for his attacking contributions and defensive solidity, has added depth to Borussia Dortmund's backline...",
+      "performance": {
+        "2020-2021": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Paris Saint-Germain",
+              "to": "Borussia Dortmund",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  
