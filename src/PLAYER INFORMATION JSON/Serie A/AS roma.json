@@ -1,0 +1,231 @@
+[
+    {
+      "name": "Edin Džeko",
+      "club": "AS Roma",
+      "biography": "Edin Džeko, a Bosnian striker known for his strength and goal-scoring ability, has been a consistent and influential figure in AS Roma's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 14,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Lorenzo Pellegrini",
+      "club": "AS Roma",
+      "biography": "Lorenzo Pellegrini, an Italian midfielder known for his passing and creativity, has been a key playmaker and a driving force in AS Roma's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jordan Veretout",
+      "club": "AS Roma",
+      "biography": "Jordan Veretout, a French midfielder known for his work rate and passing ability, has been a tireless presence in AS Roma's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 10,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "club": "AS Roma",
+      "biography": "Henrikh Mkhitaryan, an Armenian attacking midfielder known for his creativity and versatility, has been a dynamic force in AS Roma's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Gianluca Mancini",
+      "club": "AS Roma",
+      "biography": "Gianluca Mancini, an Italian center-back known for his defensive skills and composure, has been a reliable presence at the heart of AS Roma's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Atalanta",
+              "to": "AS Roma",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "club": "AS Roma",
+      "biography": "Leonardo Spinazzola, an Italian left-back known for his speed and crossing ability, has been a threat on the flanks and a valuable asset in AS Roma's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Chris Smalling",
+      "club": "AS Roma",
+      "biography": "Chris Smalling, an English center-back known for his physicality and defensive prowess, has been a commanding presence at the heart of AS Roma's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 0,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Manchester United",
+              "to": "AS Roma",
+              "time": "2019-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Amadou Diawara",
+      "club": "AS Roma",
+      "biography": "Amadou Diawara, a Guinean midfielder known for his ball-winning ability and passing range, has been a key enforcer in AS Roma's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Napoli",
+              "to": "AS Roma",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Rick Karsdorp",
+      "club": "AS Roma",
+      "biography": "Rick Karsdorp, a Dutch right-back known for his attacking contributions and work rate, has been an energetic presence on the flanks for AS Roma...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Pau López",
+      "club": "AS Roma",
+      "biography": "Pau López, a Spanish goalkeeper known for his shot-stopping ability and distribution, has been a reliable presence in goal for AS Roma...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "cleanSheets": 8,
+          "yellowCards": 0,
+          "redCards": 0,
+          "saves": 74,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Betis",
+              "to": "AS Roma",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Bryan Cristante",
+      "club": "AS Roma",
+      "biography": "Bryan Cristante, an Italian midfielder known for his versatility and goal-scoring ability, has been a dynamic presence in AS Roma's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "club": "AS Roma",
+      "biography": "Leonardo Spinazzola, an Italian left-back known for his speed and crossing ability, has been a threat on the flanks and a valuable asset in AS Roma's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 9,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

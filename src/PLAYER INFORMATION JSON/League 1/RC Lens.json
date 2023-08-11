@@ -1,0 +1,262 @@
+[
+    {
+      "name": "Gaël Kakuta",
+      "club": "RC Lens",
+      "biography": "Gaël Kakuta, a Congolese attacking midfielder known for his dribbling and creativity, has been a key playmaker and a driving force for RC Lens...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 11,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Ignatius Ganago",
+      "club": "RC Lens",
+      "biography": "Ignatius Ganago, a Cameroonian forward known for his pace and goal-scoring ability, has been a rising talent and a dynamic presence in RC Lens' attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Nice",
+              "to": "RC Lens",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Florian Sotoca",
+      "club": "RC Lens",
+      "biography": "Florian Sotoca, a French winger known for his speed and versatility, has been a threat on the flanks and a consistent contributor in RC Lens' attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Gazélec Ajaccio",
+              "to": "RC Lens",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Seko Fofana",
+      "club": "RC Lens",
+      "biography": "Seko Fofana, an Ivorian midfielder known for his physicality and passing ability, has been a driving force in RC Lens' midfield and attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Udinese",
+              "to": "RC Lens",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Jonathan Clauss",
+      "club": "RC Lens",
+      "biography": "Jonathan Clauss, a French right-back known for his crossing and defensive contributions, has been a valuable asset on both ends of the pitch for RC Lens...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 9,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Hannover 96",
+              "to": "RC Lens",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Loic Badé",
+      "club": "RC Lens",
+      "biography": "Loic Badé, a French center-back known for his defensive skills and aerial ability, has been a rising star in RC Lens' defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Clement Michelin",
+      "club": "RC Lens",
+      "biography": "Clement Michelin, a French right-back known for his defensive skills and versatility, has been a solid presence in RC Lens' defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Toulouse",
+              "to": "RC Lens",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Corentin Jean",
+      "club": "RC Lens",
+      "biography": "Corentin Jean, a French forward known for his movement and goal-scoring ability, has been a dynamic presence in RC Lens' attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 10,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Troyes",
+              "to": "RC Lens",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Yannick Cahuzac",
+      "club": "RC Lens",
+      "biography": "Yannick Cahuzac, a French midfielder known for his tenacity and leadership, has been a key figure in RC Lens' midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Toulouse",
+              "to": "RC Lens",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cheick Doucouré",
+      "club": "RC Lens",
+      "biography": "Cheick Doucouré, a Malian midfielder known for his physical presence and passing ability, has been a solid contributor in RC Lens' midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Huddersfield Town",
+              "to": "RC Lens",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wuilker Fariñez",
+      "club": "RC Lens",
+      "biography": "Wuilker Fariñez, a Venezuelan goalkeeper known for his shot-stopping ability and quick reflexes, has been a reliable presence in RC Lens' goal...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "cleanSheets": 6,
+          "yellowCards": 0,
+          "redCards": 0,
+          "saves": 69,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Millonarios",
+              "to": "RC Lens",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Simon Banza",
+      "club": "RC Lens",
+      "biography": "Simon Banza, a French forward known for his work rate and finishing ability, has been a consistent contributor in RC Lens' attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 11,
+          "losses": 11,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 10,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

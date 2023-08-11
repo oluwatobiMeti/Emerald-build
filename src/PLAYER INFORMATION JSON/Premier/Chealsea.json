@@ -1,0 +1,321 @@
+[
+    {
+      "name": "N'Golo Kanté",
+      "club": "Chelsea FC",
+      "biography": "N'Golo Kanté, a French midfielder known for his tireless work rate and ball-winning ability, has been the engine of Chelsea FC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 8,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 4,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Leicester City",
+              "to": "Chelsea FC",
+              "time": "2016-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Mason Mount",
+      "club": "Chelsea FC",
+      "biography": "Mason Mount, an English midfielder with creativity and versatility, has emerged as a rising star in Chelsea FC's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 8,
+          "cups": 1,
+          "transfers": []
+        },
+        "2020-2021": {
+          "wins": 23,
+          "losses": 7,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 9,
+          "goalsScored": 10,
+          "cups": 2,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Timo Werner",
+      "club": "Chelsea FC",
+      "biography": "Timo Werner, a German striker with pace and goal-scoring prowess, has been a dynamic presence in Chelsea FC's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 23,
+          "losses": 7,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 12,
+          "cups": 2,
+          "transfers": [
+            {
+              "from": "RB Leipzig",
+              "to": "Chelsea FC",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "César Azpilicueta",
+      "club": "Chelsea FC",
+      "biography": "César Azpilicueta, a Spanish defender known for his leadership and versatility, has been a constant presence in Chelsea FC's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 8,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Marseille",
+              "to": "Chelsea FC",
+              "time": "2012-08"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Kai Havertz",
+      "club": "Chelsea FC",
+      "biography": "Kai Havertz, a German attacking midfielder with creativity and flair, has added a new dimension to Chelsea FC's midfield and attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 23,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 10,
+          "cups": 2,
+          "transfers": [
+            {
+              "from": "Bayer Leverkusen",
+              "to": "Chelsea FC",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Edouard Mendy",
+      "club": "Chelsea FC",
+      "biography": "Edouard Mendy, a Senegalese goalkeeper known for his shot-stopping ability and calmness under pressure, has provided solidity to Chelsea FC's defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 23,
+          "losses": 7,
+          "cleanSheets": 16,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 25,
+          "cups": 2,
+          "transfers": [
+            {
+              "from": "Rennes",
+              "to": "Chelsea FC",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+  
+
+  
+  
+    {
+      "name": "Jorginho",
+      "club": "Chelsea FC",
+      "biography": "Jorginho, an Italian midfielder known for his passing accuracy and ability to control the game, has been a vital component of Chelsea FC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 8,
+          "yellowCards": 12,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Napoli",
+              "to": "Chelsea FC",
+              "time": "2018-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 12,
+          "redCards": 1,
+          "assists": 7,
+          "goalsScored": 4,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Ben Chilwell",
+      "club": "Chelsea FC",
+      "biography": "Ben Chilwell, an English left-back known for his attacking prowess and defensive contributions, has been an integral part of Chelsea FC's backline...",
+      "performance": {
+        "2020-2021": {
+          "wins": 23,
+          "losses": 7,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 9,
+          "goalsScored": 5,
+          "cups": 2,
+          "transfers": [
+            {
+              "from": "Leicester City",
+              "to": "Chelsea FC",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mateo Kovačić",
+      "club": "Chelsea FC",
+      "biography": "Mateo Kovačić, a Croatian midfielder known for his dribbling skills and vision, has been a creative force in Chelsea FC's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Real Madrid",
+              "to": "Chelsea FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Reece James",
+      "club": "Chelsea FC",
+      "biography": "Reece James, an English right-back known for his versatility and powerful crosses, has been a rising star in Chelsea FC's ranks...",
+      "performance": {
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Hakim Ziyech",
+      "club": "Chelsea FC",
+      "biography": "Hakim Ziyech, a Moroccan attacking midfielder known for his creativity and set-piece expertise, has added flair to Chelsea FC's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 23,
+          "losses": 7,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 6,
+          "cups": 2,
+          "transfers": [
+            {
+              "from": "Ajax",
+              "to": "Chelsea FC",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "club": "Chelsea FC",
+      "biography": "Antonio Rüdiger, a German center-back known for his physicality and defensive solidity, has been a crucial part of Chelsea FC's defensive setup...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 8,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "AS Roma",
+              "to": "Chelsea FC",
+              "time": "2017-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 19,
+          "losses": 10,
+          "yellowCards": 3,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

@@ -1,4 +1,5 @@
 import './App.css';
+import { useEffect } from 'react';
 import Home from './Pages/Home';
 import DashboardNav from './Dashboard/DashboardNav';
 import {
@@ -9,9 +10,10 @@ import {
 import About from './Pages/About';
 import Contact from './Pages/Contact';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
-    
+import Gallery from './Pages/Gallery';
 
 function App() {
+
   return (
     <BrowserRouter>
       <Routes>
@@ -20,6 +22,8 @@ function App() {
         <Route path='Contact' element={<Contact/>}/>
         <Route path='Dashboard' element={<DashboardNav/>}/>
         <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
+        <Route path='Gallery' element={<Gallery/>}/>
+        
       </Routes>
     </BrowserRouter>
   );

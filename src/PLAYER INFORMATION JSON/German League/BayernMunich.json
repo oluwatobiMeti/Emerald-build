@@ -1,0 +1,323 @@
+[
+    {
+      "name": "Manuel Neuer",
+      "club": "Bayern Munich",
+      "biography": "Manuel Neuer, a German goalkeeper widely regarded as one of the best in the world, has been the backbone of Bayern Munich's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "cleanSheets": 20,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 32,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "cleanSheets": 21,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 31,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Joshua Kimmich",
+      "club": "Bayern Munich",
+      "biography": "Joshua Kimmich, a German midfielder known for his versatility and football intelligence, has been a key playmaker for Bayern Munich...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 14,
+          "goalsScored": 3,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 17,
+          "goalsScored": 4,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Robert Lewandowski",
+      "club": "Bayern Munich",
+      "biography": "Robert Lewandowski, a Polish striker known for his incredible goal-scoring ability, has been the main source of goals for Bayern Munich...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 40,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 55,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Thomas Muller",
+      "club": "Bayern Munich",
+      "biography": "Thomas Muller, a German forward known for his intelligent positioning and creativity, has been a crucial figure in Bayern Munich's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 18,
+          "goalsScored": 12,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 22,
+          "goalsScored": 14,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "David Alaba",
+      "club": "Bayern Munich",
+      "biography": "David Alaba, an Austrian defender known for his versatility and technical ability, has been a linchpin in Bayern Munich's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 9,
+          "goalsScored": 3,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Leon Goretzka",
+      "club": "Bayern Munich",
+      "biography": "Leon Goretzka, a German midfielder known for his box-to-box style and goal-scoring ability, has been a driving force in Bayern Munich's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 9,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 12,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Serge Gnabry",
+      "club": "Bayern Munich",
+      "biography": "Serge Gnabry, a German winger known for his pace and clinical finishing, has been a key contributor to Bayern Munich's attacking prowess...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 14,
+          "goalsScored": 10,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 18,
+          "goalsScored": 23,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Kingsley Coman",
+      "club": "Bayern Munich",
+      "biography": "Kingsley Coman, a French winger known for his dribbling skills and flair, has added creativity and width to Bayern Munich's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 12,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 15,
+          "goalsScored": 9,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Alphonso Davies",
+      "club": "Bayern Munich",
+      "biography": "Alphonso Davies, a Canadian left-back known for his lightning speed and versatility, has been a revelation in Bayern Munich's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 10,
+          "goalsScored": 2,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 17,
+          "goalsScored": 3,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Leroy Sane",
+      "club": "Bayern Munich",
+      "biography": "Leroy Sane, a German winger known for his explosive speed and dribbling ability, has added another dimension to Bayern Munich's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 14,
+          "goalsScored": 10,
+          "cups": 5,
+          "transfers": [
+            {
+              "from": "Manchester City",
+              "to": "Bayern Munich",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Javi Martinez",
+      "club": "Bayern Munich",
+      "biography": "Javi Martinez, a Spanish midfielder known for his versatility and defensive skills, has provided experience to Bayern Munich's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Niklas Sule",
+      "club": "Bayern Munich",
+      "biography": "Niklas Sule, a German center-back known for his aerial prowess and strength, has been a rock in Bayern Munich's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 23,
+          "losses": 5,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 2,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 26,
+          "losses": 4,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 5,
+          "transfers": []
+        }
+      }
+    }
+  ]
+    

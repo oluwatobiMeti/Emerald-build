@@ -1,0 +1,315 @@
+[
+    {
+      "name": "Sergio Asenjo",
+      "club": "Villarreal CF",
+      "biography": "Sergio Asenjo, a Spanish goalkeeper known for his reflexes and shot-stopping ability, has been a reliable presence in Villarreal CF's goal...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "cleanSheets": 9,
+          "yellowCards": 1,
+          "redCards": 0,
+          "goalsConceded": 29,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "cleanSheets": 6,
+          "yellowCards": 1,
+          "redCards": 0,
+          "goalsConceded": 26,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Pau Torres",
+      "club": "Villarreal CF",
+      "biography": "Pau Torres, a Spanish center-back known for his composure and defensive skills, has been a rising star in Villarreal CF's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Raul Albiol",
+      "club": "Villarreal CF",
+      "biography": "Raul Albiol, a Spanish center-back known for his experience and leadership, has provided stability to Villarreal CF's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Napoli",
+              "to": "Villarreal CF",
+              "time": "2019-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Alberto Moreno",
+      "club": "Villarreal CF",
+      "biography": "Alberto Moreno, a Spanish left-back known for his attacking contributions, has been a dynamic presence in Villarreal CF's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Liverpool",
+              "to": "Villarreal CF",
+              "time": "2019-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Dani Parejo",
+      "club": "Villarreal CF",
+      "biography": "Dani Parejo, a Spanish midfielder known for his passing ability and vision, has been the creative force in Villarreal CF's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 6,
+          "redCards": 1,
+          "assists": 5,
+          "goalsScored": 5,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Valencia",
+              "to": "Villarreal CF",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Etienne Capoue",
+      "club": "Villarreal CF",
+      "biography": "Etienne Capoue, a French midfielder known for his defensive skills, has provided solidity to Villarreal CF's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 9,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Watford",
+              "to": "Villarreal CF",
+              "time": "2020-10"
+            }
+          ]
+        }
+      }
+    },
+
+  
+    {
+      "name": "Gerard Moreno",
+      "club": "Villarreal CF",
+      "biography": "Gerard Moreno, a Spanish forward known for his goal-scoring prowess and versatility, has been the main attacking threat for Villarreal CF...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 17,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 18,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Yeremi Pino",
+      "club": "Villarreal CF",
+      "biography": "Yeremi Pino, a Spanish winger known for his flair and dribbling ability, has emerged as a promising talent for Villarreal CF...",
+      "performance": {
+        "2020-2021": {
+          "wins": 15,
+          "losses": 10,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Francis Coquelin",
+      "club": "Villarreal CF",
+      "biography": "Francis Coquelin, a French midfielder known for his defensive abilities, has added steel to Villarreal CF's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Valencia",
+              "to": "Villarreal CF",
+              "time": "2020-01"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Carlos Bacca",
+      "club": "Villarreal CF",
+      "biography": "Carlos Bacca, a Colombian striker known for his clinical finishing, has been a goal-scoring presence for Villarreal CF...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 10,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 9,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Alfonso Pedraza",
+      "club": "Villarreal CF",
+      "biography": "Alfonso Pedraza, a Spanish left-back known for his pace and attacking contributions, has been an exciting presence in Villarreal CF's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 15,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Paco Alcacer",
+      "club": "Villarreal CF",
+      "biography": "Paco Alcacer, a Spanish striker known for his goal-scoring instincts, has provided firepower to Villarreal CF's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 18,
+          "losses": 13,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 13,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Borussia Dortmund",
+              "to": "Villarreal CF",
+              "time": "2020-10"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

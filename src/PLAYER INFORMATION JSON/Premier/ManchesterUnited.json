@@ -1,0 +1,348 @@
+[
+    {
+      "name": "Bruno Fernandes",
+      "club": "Manchester United",
+      "biography": "Bruno Fernandes, a Portuguese midfielder known for his creativity and set-piece expertise, has been the creative spark in Manchester United's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 13,
+          "goalsScored": 10,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Sporting CP",
+              "to": "Manchester United",
+              "time": "2020-01"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 18,
+          "goalsScored": 17,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Harry Maguire",
+      "club": "Manchester United",
+      "biography": "Harry Maguire, an English center-back known for his aerial prowess and leadership qualities, has been a stalwart in Manchester United's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Leicester City",
+              "to": "Manchester United",
+              "time": "2019-08"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 3,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "club": "Manchester United",
+      "biography": "Marcus Rashford, an English forward with pace and versatility, has been a homegrown talent shining brightly for Manchester United's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 13,
+          "cups": 1,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 22,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Paul Pogba",
+      "club": "Manchester United",
+      "biography": "Paul Pogba, a French midfielder known for his flair and physicality, has been a dynamic presence in Manchester United's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 9,
+          "goalsScored": 13,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Juventus",
+              "to": "Manchester United",
+              "time": "2016-08"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 16,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Mason Greenwood",
+      "club": "Manchester United",
+      "biography": "Mason Greenwood, a young English forward with an eye for goal, has burst onto the scene as a promising talent in Manchester United's ranks...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 17,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "David De Gea",
+      "club": "Manchester United",
+      "biography": "David De Gea, a Spanish goalkeeper known for his exceptional reflexes and shot-stopping ability, has been a key figure in Manchester United's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "cleanSheets": 18,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 29,
+          "cups": 1,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "cleanSheets": 13,
+          "yellowCards": 1,
+          "redCards": 0,
+          "goalsConceded": 36,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+
+  
+    {
+      "name": "Jadon Sancho",
+      "club": "Manchester United",
+      "biography": "Jadon Sancho, an English winger with electrifying pace and skill, has brought excitement and flair to Manchester United's attacking lineup...",
+      "performance": {
+        "2021-2022": {
+          "wins": 24,
+          "losses": 6,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 10,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Borussia Dortmund",
+              "to": "Manchester United",
+              "time": "2021-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Raphael Varane",
+      "club": "Manchester United",
+      "biography": "Raphael Varane, a French center-back with exceptional defensive abilities and experience, has added stability to Manchester United's backline...",
+      "performance": {
+        "2021-2022": {
+          "wins": 24,
+          "losses": 6,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Real Madrid",
+              "to": "Manchester United",
+              "time": "2021-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Scott McTominay",
+      "club": "Manchester United",
+      "biography": "Scott McTominay, a versatile Scottish midfielder with an eye for goal, has been a tenacious presence in Manchester United's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 4,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Aaron Wan-Bissaka",
+      "club": "Manchester United",
+      "biography": "Aaron Wan-Bissaka, an English right-back known for his defensive solidity and tackling ability, has been a reliable presence in Manchester United's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Crystal Palace",
+              "to": "Manchester United",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Fred",
+      "club": "Manchester United",
+      "biography": "Fred, a Brazilian midfielder with energy and work rate, has been a dynamic presence in Manchester United's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Shakhtar Donetsk",
+              "to": "Manchester United",
+              "time": "2018-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 9,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Luke Shaw",
+      "club": "Manchester United",
+      "biography": "Luke Shaw, an English left-back known for his attacking contributions and defensive prowess, has been an integral part of Manchester United's squad...",
+      "performance": {
+        "2018-2019": {
+          "wins": 25,
+          "losses": 6,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": [
+            {
+              "from": "Southampton",
+              "to": "Manchester United",
+              "time": "2014-06"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 22,
+          "losses": 8,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  
+  

@@ -1,0 +1,225 @@
+[
+    {
+      "name": "Lorenzo Insigne",
+      "club": "Napoli",
+      "biography": "Lorenzo Insigne, an Italian forward known for his dribbling and creativity, has been a talisman and a playmaker for Napoli...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 15,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Kalidou Koulibaly",
+      "club": "Napoli",
+      "biography": "Kalidou Koulibaly, a Senegalese center-back known for his strength and defensive prowess, has been a rock at the heart of Napoli's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Dries Mertens",
+      "club": "Napoli",
+      "biography": "Dries Mertens, a Belgian forward known for his versatility and goal-scoring ability, has been a dynamic presence in Napoli's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 16,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Fabián Ruiz",
+      "club": "Napoli",
+      "biography": "Fabián Ruiz, a Spanish midfielder known for his passing and technical ability, has been a creative force and a playmaker in Napoli's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Betis",
+              "to": "Napoli",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Arkadiusz Milik",
+      "club": "Napoli",
+      "biography": "Arkadiusz Milik, a Polish forward known for his goal-scoring prowess, has been a clinical finisher and a danger in the opponent's penalty area for Napoli...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 17,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "José Callejón",
+      "club": "Napoli",
+      "biography": "José Callejón, a Spanish winger known for his speed and crossing ability, has been a source of width and attacking threat for Napoli...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+{
+      "name": "Allan Marques Loureiro",
+      "club": "Napoli",
+      "biography": "Allan Marques Loureiro, a Brazilian midfielder known for his ball-winning abilities and work rate, has been a tenacious presence in Napoli's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 10,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Nikola Maksimović",
+      "club": "Napoli",
+      "biography": "Nikola Maksimović, a Serbian center-back known for his aerial ability and defensive prowess, has been a solid presence at the back for Napoli...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Piotr Zieliński",
+      "club": "Napoli",
+      "biography": "Piotr Zieliński, a Polish midfielder known for his passing and technical skills, has been a creative force and a playmaker in Napoli's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Elseid Hysaj",
+      "club": "Napoli",
+      "biography": "Elseid Hysaj, an Albanian right-back known for his defensive abilities and versatility, has been a reliable option on the flanks for Napoli...",
+      "performance": {
+        "2018-2019": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Diego Demme",
+      "club": "Napoli",
+      "biography": "Diego Demme, a German midfielder known for his defensive skills and work ethic, has been a solid presence in Napoli's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 24,
+          "losses": 5,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "RB Leipzig",
+              "to": "Napoli",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Victor Osimhen",
+      "club": "Napoli",
+      "biography": "Victor Osimhen, a Nigerian forward known for his speed and goal-scoring ability, has been a rising star and a dynamic presence in Napoli's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 24,
+          "losses": 5,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 10,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lille",
+              "to": "Napoli",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

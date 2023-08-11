@@ -1,0 +1,336 @@
+[
+  {
+    "name": "Karim Benzema",
+    "club": "Real Madrid",
+    "biography": "Karim Benzema, a French striker known for his clinical finishing and link-up play, has been Real Madrid's main attacking force...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 2,
+        "redCards": 0,
+        "assists": 8,
+        "goalsScored": 30,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Olympique Lyon",
+            "to": "Real Madrid",
+            "time": "2009-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 2,
+        "redCards": 0,
+        "assists": 8,
+        "goalsScored": 27,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Sergio Ramos",
+    "club": "Real Madrid",
+    "biography": "Sergio Ramos, a Spanish center-back known for his leadership and defensive prowess, has been a cornerstone of Real Madrid's defense...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 10,
+        "redCards": 2,
+        "assists": 6,
+        "goalsScored": 11,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Sevilla FC",
+            "to": "Real Madrid",
+            "time": "2005-08"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 9,
+        "redCards": 0,
+        "assists": 3,
+        "goalsScored": 13,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Luka Modrić",
+    "club": "Real Madrid",
+    "biography": "Luka Modrić, a Croatian midfielder known for his creativity and ball control, has been the creative engine in Real Madrid's midfield...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 3,
+        "redCards": 0,
+        "assists": 10,
+        "goalsScored": 4,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Tottenham Hotspur",
+            "to": "Real Madrid",
+            "time": "2012-08"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 4,
+        "redCards": 0,
+        "assists": 8,
+        "goalsScored": 5,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Casemiro",
+    "club": "Real Madrid",
+    "biography": "Casemiro, a Brazilian midfielder known for his defensive skills and work rate, has provided solidity in Real Madrid's midfield...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 10,
+        "redCards": 0,
+        "assists": 2,
+        "goalsScored": 5,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "FC Porto",
+            "to": "Real Madrid",
+            "time": "2013-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 8,
+        "redCards": 0,
+        "assists": 3,
+        "goalsScored": 3,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Toni Kroos",
+    "club": "Real Madrid",
+    "biography": "Toni Kroos, a German midfielder known for his passing accuracy and vision, has been a crucial playmaker for Real Madrid...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 5,
+        "redCards": 0,
+        "assists": 9,
+        "goalsScored": 4,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Bayern Munich",
+            "to": "Real Madrid",
+            "time": "2014-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 5,
+        "redCards": 0,
+        "assists": 7,
+        "goalsScored": 3,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+
+
+
+  {
+    "name": "Eden Hazard",
+    "club": "Real Madrid",
+    "biography": "Eden Hazard, a Belgian forward known for his dribbling skills and creativity, has been a key playmaker in Real Madrid's attack...",
+    "performance": {
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 4,
+        "redCards": 0,
+        "assists": 5,
+        "goalsScored": 1,
+        "cups": 0,
+        "transfers": [
+          {
+            "from": "Chelsea",
+            "to": "Real Madrid",
+            "time": "2019-07"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Raphael Varane",
+    "club": "Real Madrid",
+    "biography": "Raphael Varane, a French center-back known for his pace and defensive intelligence, has been a crucial presence in Real Madrid's defense...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 2,
+        "redCards": 0,
+        "assists": 1,
+        "goalsScored": 3,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Lens",
+            "to": "Real Madrid",
+            "time": "2011-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 5,
+        "redCards": 0,
+        "assists": 2,
+        "goalsScored": 2,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Vinicius Junior",
+    "club": "Real Madrid",
+    "biography": "Vinicius Junior, a Brazilian winger known for his pace and dribbling ability, has added excitement to Real Madrid's attack...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 3,
+        "redCards": 0,
+        "assists": 5,
+        "goalsScored": 3,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Flamengo",
+            "to": "Real Madrid",
+            "time": "2018-07"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 3,
+        "redCards": 0,
+        "assists": 8,
+        "goalsScored": 4,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Ferland Mendy",
+    "club": "Real Madrid",
+    "biography": "Ferland Mendy, a French left-back known for his defensive solidity and overlapping runs, has provided balance to Real Madrid's backline...",
+    "performance": {
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "yellowCards": 3,
+        "redCards": 0,
+        "assists": 4,
+        "goalsScored": 1,
+        "cups": 0,
+        "transfers": [
+          {
+            "from": "Lyon",
+            "to": "Real Madrid",
+            "time": "2019-07"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Dani Carvajal",
+    "club": "Real Madrid",
+    "biography": "Dani Carvajal, a Spanish right-back known for his attacking contributions and defensive tenacity, has been a versatile asset for Real Madrid...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "yellowCards": 10,
+        "redCards": 0,
+        "assists": 8,
+        "goalsScored": 2,
+        "cups": 1,
+        "transfers": []
+      }
+    }
+  },
+  {
+    "name": "Thibaut Courtois",
+    "club": "Real Madrid",
+    "biography": "Thibaut Courtois, a Belgian goalkeeper known for his shot-stopping ability and commanding presence, has been a reliable figure in Real Madrid's goal...",
+    "performance": {
+      "2018-2019": {
+        "wins": 21,
+        "losses": 5,
+        "cleanSheets": 12,
+        "yellowCards": 0,
+        "redCards": 0,
+        "goalsConceded": 32,
+        "cups": 1,
+        "transfers": [
+          {
+            "from": "Chelsea",
+            "to": "Real Madrid",
+            "time": "2018-08"
+          }
+        ]
+      },
+      "2019-2020": {
+        "wins": 21,
+        "losses": 8,
+        "cleanSheets": 15,
+        "yellowCards": 1,
+        "redCards": 0,
+        "goalsConceded": 21,
+        "cups": 0,
+        "transfers": []
+      }
+    }
+  }
+]
+
+
+
+

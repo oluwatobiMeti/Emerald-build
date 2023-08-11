@@ -1,0 +1,246 @@
+[
+    {
+      "name": "Memphis Depay",
+      "club": "Olympique Lyonnais",
+      "biography": "Memphis Depay, a Dutch forward known for his dribbling and flair, has been a creative force and a consistent goal-scorer for Olympique Lyonnais...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 5,
+          "redCards": 1,
+          "assists": 14,
+          "goalsScored": 19,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Manchester United",
+              "to": "Olympique Lyonnais",
+              "time": "2017-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Houssem Aouar",
+      "club": "Olympique Lyonnais",
+      "biography": "Houssem Aouar, a French midfielder known for his technical ability and vision, has been a key playmaker in Olympique Lyonnais' midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 9,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Moussa Dembélé",
+      "club": "Olympique Lyonnais",
+      "biography": "Moussa Dembélé, a French forward known for his finishing ability and positioning, has been a consistent goal-scorer for Olympique Lyonnais...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 15,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Celtic",
+              "to": "Olympique Lyonnais",
+              "time": "2018-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Lucas Tousart",
+      "club": "Olympique Lyonnais",
+      "biography": "Lucas Tousart, a French midfielder known for his defensive contributions and passing, has been a reliable presence in Olympique Lyonnais' midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Anthony Lopes",
+      "club": "Olympique Lyonnais",
+      "biography": "Anthony Lopes, a Portuguese goalkeeper known for his shot-stopping ability and reflexes, has been a reliable last line of defense for Olympique Lyonnais...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "cleanSheets": 11,
+          "yellowCards": 1,
+          "redCards": 0,
+          "saves": 87,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Maxence Caqueret",
+      "club": "Olympique Lyonnais",
+      "biography": "Maxence Caqueret, a French midfielder known for his energy and passing, has been a rising talent in Olympique Lyonnais' midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Jason Denayer",
+      "club": "Olympique Lyonnais",
+      "biography": "Jason Denayer, a Belgian center-back known for his defensive skills and versatility, has been a solid presence in Olympique Lyonnais' defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Manchester City",
+              "to": "Olympique Lyonnais",
+              "time": "2018-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Karl Toko Ekambi",
+      "club": "Olympique Lyonnais",
+      "biography": "Karl Toko Ekambi, a Cameroonian forward known for his pace and goal-scoring ability, has added dynamism to Olympique Lyonnais' attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Villarreal",
+              "to": "Olympique Lyonnais",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Rudi Garcia",
+      "club": "Olympique Lyonnais",
+      "biography": "Rudi Garcia, a French manager with experience in Ligue 1, has been at the helm of Olympique Lyonnais, guiding the team with his tactical acumen...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "trophies": 0,
+          "cups": 0
+        }
+      }
+    },
+    {
+      "name": "Bruno Guimaraes",
+      "club": "Olympique Lyonnais",
+      "biography": "Bruno Guimaraes, a Brazilian midfielder known for his defensive abilities and passing range, has been a valuable addition to Olympique Lyonnais' midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Athletico Paranaense",
+              "to": "Olympique Lyonnais",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Joachim Andersen",
+      "club": "Olympique Lyonnais",
+      "biography": "Joachim Andersen, a Danish center-back known for his aerial ability and passing, has been a key asset in Olympique Lyonnais' defensive line...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 8,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Sampdoria",
+              "to": "Olympique Lyonnais",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Léo Dubois",
+      "club": "Olympique Lyonnais",
+      "biography": "Léo Dubois, a French right-back known for his pace and crossing ability, has been a key contributor to Olympique Lyonnais' attack and defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 18,
+          "losses": 9,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Nantes",
+              "to": "Olympique Lyonnais",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

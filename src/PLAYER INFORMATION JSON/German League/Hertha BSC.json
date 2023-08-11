@@ -1,0 +1,308 @@
+[
+    {
+      "name": "Matheus Cunha",
+      "club": "Hertha BSC",
+      "biography": "Matheus Cunha, a Brazilian forward known for his dribbling skills and creativity, has been a key playmaker for Hertha BSC...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 13,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Vladimir Darida",
+      "club": "Hertha BSC",
+      "biography": "Vladimir Darida, a Czech midfielder known for his work rate and passing ability, has been a driving force in Hertha BSC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Dodi Lukebakio",
+      "club": "Hertha BSC",
+      "biography": "Dodi Lukebakio, a Belgian winger known for his speed and goal-scoring ability, has been a threat on the flanks for Hertha BSC...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 8,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Jordan Torunarigha",
+      "club": "Hertha BSC",
+      "biography": "Jordan Torunarigha, a German defender known for his defensive skills and versatility, has been a reliable presence in Hertha BSC's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Lucas Tousart",
+      "club": "Hertha BSC",
+      "biography": "Lucas Tousart, a French midfielder known for his defensive contributions and passing ability, has been a vital cog in Hertha BSC's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Olympique Lyonnais",
+              "to": "Hertha BSC",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Krzysztof Piatek",
+      "club": "Hertha BSC",
+      "biography": "Krzysztof Piatek, a Polish striker known for his poaching instincts and goal-scoring ability, has been a key figure in Hertha BSC's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 11,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "AC Milan",
+              "to": "Hertha BSC",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "name": "Deyovaisio Zeefuik",
+      "club": "Hertha BSC",
+      "biography": "Deyovaisio Zeefuik, a Dutch right-back known for his defensive abilities and attacking contributions, has been a versatile presence for Hertha BSC...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "FC Groningen",
+              "to": "Hertha BSC",
+              "time": "2020-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Marvin Plattenhardt",
+      "club": "Hertha BSC",
+      "biography": "Marvin Plattenhardt, a German left-back known for his accurate crosses and set-piece ability, has been a key contributor in Hertha BSC's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Niklas Stark",
+      "club": "Hertha BSC",
+      "biography": "Niklas Stark, a German defender known for his composure and aerial ability, has been a mainstay in Hertha BSC's backline...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Krzysztof Piatek",
+      "club": "Hertha BSC",
+      "biography": "Krzysztof Piatek, a Polish striker known for his poaching instincts and goal-scoring ability, has been a key figure in Hertha BSC's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 11,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "AC Milan",
+              "to": "Hertha BSC",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Santiago Ascacibar",
+      "club": "Hertha BSC",
+      "biography": "Santiago Ascacibar, an Argentine midfielder known for his tenacity and ball-winning ability, has provided a combative presence in Hertha BSC's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 8,
+          "losses": 17,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "VfB Stuttgart",
+              "to": "Hertha BSC",
+              "time": "2019-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Vedad Ibisevic",
+      "club": "Hertha BSC",
+      "biography": "Vedad Ibisevic, a Bosnian forward known for his experience and goal-scoring prowess, has been a veteran presence in Hertha BSC's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 10,
+          "losses": 15,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 10,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 9,
+          "losses": 16,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 9,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

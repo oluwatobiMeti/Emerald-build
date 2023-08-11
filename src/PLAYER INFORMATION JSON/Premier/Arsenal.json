@@ -1,0 +1,313 @@
+[
+    {
+      "name": "Pierre-Emerick Aubameyang",
+      "club": "Arsenal FC",
+      "biography": "Pierre-Emerick Aubameyang, a Gabonese striker known for his goal-scoring prowess and pace, has been Arsenal FC's main attacking threat...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 10,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 22,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Borussia Dortmund",
+              "to": "Arsenal FC",
+              "time": "2018-01"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 22,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Bukayo Saka",
+      "club": "Arsenal FC",
+      "biography": "Bukayo Saka, an English winger known for his versatility and creativity, has emerged as a young talent in Arsenal FC's lineup...",
+      "performance": {
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 11,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        },
+        "2020-2021": {
+          "wins": 18,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Thomas Partey",
+      "club": "Arsenal FC",
+      "biography": "Thomas Partey, a Ghanaian midfielder known for his physicality and ball-winning ability, has added steel to Arsenal FC's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 18,
+          "losses": 12,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Atletico Madrid",
+              "to": "Arsenal FC",
+              "time": "2020-10"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Kieran Tierney",
+      "club": "Arsenal FC",
+      "biography": "Kieran Tierney, a Scottish left-back known for his tenacity and accurate crosses, has been a reliable presence in Arsenal FC's defense...",
+      "performance": {
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "yellowCards": 2,
+          "redCards": 1,
+          "assists": 5,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Celtic",
+              "to": "Arsenal FC",
+              "time": "2019-08"
+            }
+          ]
+        },
+        "2020-2021": {
+          "wins": 18,
+          "losses": 12,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Emile Smith Rowe",
+      "club": "Arsenal FC",
+      "biography": "Emile Smith Rowe, an English attacking midfielder with flair and vision, has been a rising star in Arsenal FC's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 18,
+          "losses": 12,
+          "yellowCards": 1,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "club": "Arsenal FC",
+      "biography": "Gabriel Magalhães, a Brazilian center-back known for his aerial ability and composure, has been a key figure in Arsenal FC's defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 18,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lille",
+              "to": "Arsenal FC",
+              "time": "2020-09"
+            }
+          ]
+        }
+      }
+    },
+
+  
+    {
+      "name": "Bernd Leno",
+      "club": "Arsenal FC",
+      "biography": "Bernd Leno, a German goalkeeper known for his shot-stopping ability and agility, has been a key figure in Arsenal FC's goalkeeping department...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 10,
+          "cleanSheets": 11,
+          "yellowCards": 2,
+          "redCards": 0,
+          "goalsConceded": 35,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Bayer Leverkusen",
+              "to": "Arsenal FC",
+              "time": "2018-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "cleanSheets": 8,
+          "yellowCards": 2,
+          "redCards": 0,
+          "goalsConceded": 39,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Granit Xhaka",
+      "club": "Arsenal FC",
+      "biography": "Granit Xhaka, a Swiss midfielder known for his passing range and leadership qualities, has been a crucial presence in Arsenal FC's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 10,
+          "yellowCards": 9,
+          "redCards": 1,
+          "assists": 3,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Borussia Monchengladbach",
+              "to": "Arsenal FC",
+              "time": "2016-07"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "club": "Arsenal FC",
+      "biography": "Gabriel Martinelli, a Brazilian forward known for his energy and goal-scoring ability, has brought youthful enthusiasm to Arsenal FC's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "yellowCards": 0,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 10,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Ituano",
+              "to": "Arsenal FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Nicolas Pepe",
+      "club": "Arsenal FC",
+      "biography": "Nicolas Pepe, an Ivorian winger known for his dribbling skills and flair, has been a dynamic presence in Arsenal FC's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 14,
+          "losses": 14,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 5,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lille",
+              "to": "Arsenal FC",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ainsley Maitland-Niles",
+      "club": "Arsenal FC",
+      "biography": "Ainsley Maitland-Niles, an English midfielder known for his versatility and energy, has contributed to various positions in Arsenal FC's squad...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 10,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Rob Holding",
+      "club": "Arsenal FC",
+      "biography": "Rob Holding, an English center-back known for his composure and positioning, has been a reliable option in Arsenal FC's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 21,
+          "losses": 10,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Bolton Wanderers",
+              "to": "Arsenal FC",
+              "time": "2016-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  

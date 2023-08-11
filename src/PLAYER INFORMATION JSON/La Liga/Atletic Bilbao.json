@@ -1,0 +1,324 @@
+[
+    {
+      "name": "Unai Simon",
+      "club": "Athletic Bilbao",
+      "biography": "Unai Simon, a Spanish goalkeeper known for his agility and shot-stopping ability, has been a reliable presence in Athletic Bilbao's goal...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "cleanSheets": 9,
+          "yellowCards": 0,
+          "redCards": 0,
+          "goalsConceded": 28,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "cleanSheets": 8,
+          "yellowCards": 1,
+          "redCards": 0,
+          "goalsConceded": 32,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Inigo Martinez",
+      "club": "Athletic Bilbao",
+      "biography": "Inigo Martinez, a Spanish center-back known for his defensive prowess and passing ability, has been a key pillar in Athletic Bilbao's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Yeray Alvarez",
+      "club": "Athletic Bilbao",
+      "biography": "Yeray Alvarez, a Spanish center-back known for his determination and defensive skills, has been a stalwart in Athletic Bilbao's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 0,
+          "goalsScored": 0,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Mikel Balenziaga",
+      "club": "Athletic Bilbao",
+      "biography": "Mikel Balenziaga, a Spanish left-back known for his defensive solidity, has been a consistent presence in Athletic Bilbao's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 1,
+          "goalsScored": 0,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Dani Garcia",
+      "club": "Athletic Bilbao",
+      "biography": "Dani Garcia, a Spanish midfielder known for his tenacity and ball-winning ability, has provided a defensive shield in Athletic Bilbao's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 10,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 0,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Unai Lopez",
+      "club": "Athletic Bilbao",
+      "biography": "Unai Lopez, a Spanish midfielder known for his technical skills and passing range, has been a creative force in Athletic Bilbao's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 4,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+ 
+    {
+      "name": "Alex Berenguer",
+      "club": "Athletic Bilbao",
+      "biography": "Alex Berenguer, a Spanish winger known for his speed and dribbling ability, has been a dynamic presence in Athletic Bilbao's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Torino",
+              "to": "Athletic Bilbao",
+              "time": "2018-08"
+            }
+          ]
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 3,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Inaki Williams",
+      "club": "Athletic Bilbao",
+      "biography": "Inaki Williams, a Spanish forward known for his pace and goal-scoring ability, has been a consistent threat in Athletic Bilbao's attack...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 13,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 15,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Raul Garcia",
+      "club": "Athletic Bilbao",
+      "biography": "Raul Garcia, a Spanish midfielder known for his physicality and goal-scoring ability, has been a driving force in Athletic Bilbao's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 1,
+          "assists": 3,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 8,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Oihan Sancet",
+      "club": "Athletic Bilbao",
+      "biography": "Oihan Sancet, a Spanish midfielder known for his technical skills and vision, has emerged as a promising talent for Athletic Bilbao...",
+      "performance": {
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Ander Capa",
+      "club": "Athletic Bilbao",
+      "biography": "Ander Capa, a Spanish right-back known for his attacking prowess, has provided width to Athletic Bilbao's play...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 2,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Mikel Vesga",
+      "club": "Athletic Bilbao",
+      "biography": "Mikel Vesga, a Spanish midfielder known for his passing ability, has provided control to Athletic Bilbao's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 11,
+          "yellowCards": 7,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        },
+        "2019-2020": {
+          "wins": 17,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 1,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

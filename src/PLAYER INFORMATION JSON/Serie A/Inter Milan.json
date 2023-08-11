@@ -1,0 +1,238 @@
+[
+    {
+      "name": "Romelu Lukaku",
+      "club": "Inter Milan",
+      "biography": "Romelu Lukaku, a Belgian striker known for his physicality and goal-scoring ability, has been a dominant force in Inter Milan's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 34,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Lautaro Martínez",
+      "club": "Inter Milan",
+      "biography": "Lautaro Martínez, an Argentine forward known for his versatility and clinical finishing, has been a dynamic presence in Inter Milan's attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 21,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Marcelo Brozović",
+      "club": "Inter Milan",
+      "biography": "Marcelo Brozović, a Croatian midfielder known for his passing and defensive contributions, has been a key playmaker and enforcer in Inter Milan's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 20,
+          "losses": 9,
+          "yellowCards": 10,
+          "redCards": 0,
+          "assists": 6,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Stefan de Vrij",
+      "club": "Inter Milan",
+      "biography": "Stefan de Vrij, a Dutch center-back known for his defensive intelligence and aerial ability, has been a rock at the heart of Inter Milan's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 20,
+          "losses": 9,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Lazio",
+              "to": "Inter Milan",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Nicolò Barella",
+      "club": "Inter Milan",
+      "biography": "Nicolò Barella, an Italian midfielder known for his energy and all-around skills, has been a driving force in Inter Milan's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Alessandro Bastoni",
+      "club": "Inter Milan",
+      "biography": "Alessandro Bastoni, an Italian center-back known for his composure and passing ability, has been a rising star in Inter Milan's defense...",
+      "performance": {
+        "2020-2021": {
+          "wins": 28,
+          "losses": 2,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Milan Škriniar",
+      "club": "Inter Milan",
+      "biography": "Milan Škriniar, a Slovakian center-back known for his defensive solidity and anticipation, has been a stalwart at the heart of Inter Milan's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 20,
+          "losses": 9,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Christian Eriksen",
+      "club": "Inter Milan",
+      "biography": "Christian Eriksen, a Danish midfielder known for his vision and set-piece expertise, has been a creative force and a playmaker in Inter Milan's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 28,
+          "losses": 2,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 6,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Tottenham Hotspur",
+              "to": "Inter Milan",
+              "time": "2020-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Stefano Sensi",
+      "club": "Inter Milan",
+      "biography": "Stefano Sensi, an Italian midfielder known for his passing accuracy and versatility, has been a creative presence and a link between defense and attack...",
+      "performance": {
+        "2019-2020": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Sassuolo",
+              "to": "Inter Milan",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Achraf Hakimi",
+      "club": "Inter Milan",
+      "biography": "Achraf Hakimi, a Moroccan right-back known for his speed and attacking prowess, has been a dynamic presence on the flanks for Inter Milan...",
+      "performance": {
+        "2020-2021": {
+          "wins": 28,
+          "losses": 2,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 7,
+          "goalsScored": 7,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Real Madrid",
+              "to": "Inter Milan",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Matteo Darmian",
+      "club": "Inter Milan",
+      "biography": "Matteo Darmian, an Italian full-back known for his defensive versatility, has been a reliable option both in defense and on the flanks for Inter Milan...",
+      "performance": {
+        "2020-2021": {
+          "wins": 28,
+          "losses": 2,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Parma",
+              "to": "Inter Milan",
+              "time": "2020-10"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Roberto Gagliardini",
+      "club": "Inter Milan",
+      "biography": "Roberto Gagliardini, an Italian midfielder known for his physical presence and box-to-box style, has been a reliable option in Inter Milan's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 24,
+          "losses": 7,
+          "yellowCards": 8,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 3,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    }
+  ]
+  

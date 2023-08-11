@@ -1,0 +1,262 @@
+[
+    {
+      "name": "Dimitri Payet",
+      "club": "Olympique de Marseille",
+      "biography": "Dimitri Payet, a French playmaker known for his dribbling and creativity, has been a talismanic figure for Olympique de Marseille...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 0,
+          "assists": 12,
+          "goalsScored": 15,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "West Ham United",
+              "to": "Olympique de Marseille",
+              "time": "2017-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Florian Thauvin",
+      "club": "Olympique de Marseille",
+      "biography": "Florian Thauvin, a French winger known for his dribbling and scoring ability, has been a key attacking threat for Olympique de Marseille...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 3,
+          "redCards": 0,
+          "assists": 8,
+          "goalsScored": 16,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Morgan Sanson",
+      "club": "Olympique de Marseille",
+      "biography": "Morgan Sanson, a French midfielder known for his versatility and passing, has been a key presence in Olympique de Marseille's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 4,
+          "redCards": 0,
+          "assists": 5,
+          "goalsScored": 4,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Montpellier HSC",
+              "to": "Olympique de Marseille",
+              "time": "2017-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Valentin Rongier",
+      "club": "Olympique de Marseille",
+      "biography": "Valentin Rongier, a French midfielder known for his work rate and passing range, has added control and dynamism to Olympique de Marseille's midfield...",
+      "performance": {
+        "2019-2020": {
+          "wins": 11,
+          "losses": 8,
+          "yellowCards": 7,
+          "redCards": 1,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "FC Nantes",
+              "to": "Olympique de Marseille",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Jordan Amavi",
+      "club": "Olympique de Marseille",
+      "biography": "Jordan Amavi, a French left-back known for his pace and defensive contributions, has been a consistent presence in Olympique de Marseille's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Aston Villa",
+              "to": "Olympique de Marseille",
+              "time": "2017-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Boubacar Kamara",
+      "club": "Olympique de Marseille",
+      "biography": "Boubacar Kamara, a French defender known for his versatility and maturity, has been a rising star in Olympique de Marseille's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 6,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+
+    {
+      "name": "Steve Mandanda",
+      "club": "Olympique de Marseille",
+      "biography": "Steve Mandanda, a French goalkeeper known for his shot-stopping ability and leadership, has been a veteran presence in Olympique de Marseille's squad...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "cleanSheets": 8,
+          "yellowCards": 1,
+          "redCards": 0,
+          "saves": 90,
+          "cups": 0,
+          "transfers": []
+        }
+      }
+    },
+    {
+      "name": "Duje Caleta-Car",
+      "club": "Olympique de Marseille",
+      "biography": "Duje Caleta-Car, a Croatian center-back known for his aerial ability and defensive skills, has been a reliable presence in Olympique de Marseille's defense...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 5,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 2,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "RB Salzburg",
+              "to": "Olympique de Marseille",
+              "time": "2018-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Kevin Strootman",
+      "club": "Olympique de Marseille",
+      "biography": "Kevin Strootman, a Dutch midfielder known for his physicality and passing, has added experience and presence to Olympique de Marseille's midfield...",
+      "performance": {
+        "2018-2019": {
+          "wins": 16,
+          "losses": 12,
+          "yellowCards": 8,
+          "redCards": 1,
+          "assists": 3,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "AS Roma",
+              "to": "Olympique de Marseille",
+              "time": "2018-08"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Arkadiusz Milik",
+      "club": "Olympique de Marseille",
+      "biography": "Arkadiusz Milik, a Polish forward known for his finishing ability and movement, has contributed goals to Olympique de Marseille's attack...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 2,
+          "redCards": 0,
+          "assists": 4,
+          "goalsScored": 8,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Napoli",
+              "to": "Olympique de Marseille",
+              "time": "2021-01"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Pape Gueye",
+      "club": "Olympique de Marseille",
+      "biography": "Pape Gueye, a French midfielder known for his energy and ball-winning ability, has been a promising talent in Olympique de Marseille's midfield...",
+      "performance": {
+        "2020-2021": {
+          "wins": 13,
+          "losses": 10,
+          "yellowCards": 4,
+          "redCards": 1,
+          "assists": 2,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Le Havre",
+              "to": "Olympique de Marseille",
+              "time": "2020-07"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Alvaro Gonzalez",
+      "club": "Olympique de Marseille",
+      "biography": "Alvaro Gonzalez, a Spanish defender known for his toughness and defensive skills, has been a solid presence in Olympique de Marseille's backline...",
+      "performance": {
+        "2019-2020": {
+          "wins": 12,
+          "losses": 9,
+          "yellowCards": 9,
+          "redCards": 0,
+          "assists": 1,
+          "goalsScored": 1,
+          "cups": 0,
+          "transfers": [
+            {
+              "from": "Villarreal",
+              "to": "Olympique de Marseille",
+              "time": "2019-07"
+            }
+          ]
+        }
+      }
+    }
+  ]
+  
