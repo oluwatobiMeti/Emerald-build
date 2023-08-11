@@ -43,3 +43,49 @@
     line-height: 1.7rem;
     margin-bottom: 0.5rem;
 }
+
+
+@media (max-width: 980px) {
+    .player_card_wrapper{
+        width: 90vw;
+    }
+}
+@media (max-width: 930px) {
+    .player_card_wrapper{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .player_card_image_wrapper{
+        width: 10rem;
+        height: 10rem;
+    }
+}
+
+@media (max-width: 880px) {
+    .search_input{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 780px) {
+    .player_card_wrapper{
+        grid-template-columns: repeat(1, 1fr);
+        width: 70vw;
+    }
+}
+
+@media (max-width: 540px) {
+    .player_card_wrapper{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 450px) {
+    .player_card_wrapper{
+        width: 86vw;
+    }
+}
+@media (max-width: 400px) {
+    .player_card_wrapper{
+        width: 90vw;
+    }
+}

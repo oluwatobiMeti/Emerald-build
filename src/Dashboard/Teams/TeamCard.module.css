@@ -41,3 +41,10 @@
     margin-top: 0.5rem;
     cursor: pointer;
 }
+
+@media (max-width: 980px) {
+    .team_card{
+        width: 100%;
+        height: auto;
+    }
+}
