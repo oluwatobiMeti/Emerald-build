@@ -40,3 +40,11 @@
 .single_club_card_text{
     line-height: 1.6;
 }
+
+@media (max-width: 980px) {
+    .club_card_display_area{
+        overflow: hidden;
+        margin: auto;
+        width: 80vw;
+    }
+}
