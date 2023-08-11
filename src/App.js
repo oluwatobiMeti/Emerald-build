@@ -1,5 +1,4 @@
 import './App.css';
-import { useEffect } from 'react';
 import Home from './Pages/Home';
 import DashboardNav from './Dashboard/DashboardNav';
 import {
@@ -8,7 +7,6 @@ import {
   Route,
 } from "react-router-dom";
 import About from './Pages/About';
-import Contact from './Pages/Contact';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
 import ClubDashboard from './Dashboard/ClubDashboard';
 import Gallery from './Pages/Gallery';
@@ -21,12 +19,15 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}/>
         <Route path='About' element={<About/>}/>
-        <Route path='Contact' element={<Contact/>}/>
         <Route path='Dashboard' element={<DashboardNav/>}/>
         <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
         <Route path='ClubDashboard' element={<ClubDashboard/>}/>
+<<<<<<< HEAD
         {/* <Route path='Gallery' element={<Gallery/>}/>
         <Route path='Categories' element={<Categories/>}/> */}
+=======
+        <Route path='Gallery' element={<Gallery/>}/>
+>>>>>>> bf85beb89f681c732228ee8387a6c9870e279ee5
       </Routes>
     </BrowserRouter>
   );

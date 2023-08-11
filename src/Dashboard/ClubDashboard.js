@@ -16,6 +16,7 @@ const ClubDashboard = (props) => {
             <DashboardNav />
             <div className={classes.club_dashboard_area}>
                 <div className={classes.club_card_wrapper}>
+                    <h3>League Clubs</h3>
                     <a href="#" onClick={() => {props.router.navigate("/LeagueDashboard")}} >Back to Leagues</a>
                     <TeamCard 
                         team_image={LeaguesData[props.redux.user.currentLeagueIndex].league_image}

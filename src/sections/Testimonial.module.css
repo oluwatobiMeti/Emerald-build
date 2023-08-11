@@ -2,6 +2,11 @@
     padding: 2.5rem 0;
     padding-bottom: 5rem;
 }
+.testimonial_content_wrapper > h3{
+    font-size: 1.8rem;
+    color: #37b24d;
+}
+
 .testimonial_content_wrapper{
     display: flex;
     flex-direction: column;
@@ -26,7 +31,7 @@
 }
 .testimonial__image_wrapper{
     width: 12vw;
-    height: 35vh;
+    height: 37vh;
 }
 .testimonial_card_img{
     width: 100%;

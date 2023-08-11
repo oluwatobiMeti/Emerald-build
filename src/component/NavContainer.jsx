@@ -7,7 +7,6 @@ function NavContainer({className}) {
     <div className={`${(className === "nav__container")?"nav__container":"mobile__nav"}`}>
        <LinkComp to="/" title="Home"/>
        <LinkComp to="/About" title="About"/>
-       <LinkComp to="/Contact" title="Contact Us"/>
        <ButtonLink className="hero__btn" title="Explore"/>
     </div>
   )

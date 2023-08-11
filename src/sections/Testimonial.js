@@ -16,7 +16,7 @@ const Testimonial = () => {
                         </div>
                         <div className={classes.testimonial_card_conten_wrapper}>
                             <p className={classes.testimonial_text}>this is the best and perfect website for football data vetting and viewing livescores and previous data the best and perfect website for football data of football games and the likes</p>
-                            <h3>David Micah-Daniels</h3>
+                            <h3>Robert Lewandoski</h3>
                         </div>
                     </div>
                     <div className={classes.testimonial_card}>
@@ -25,7 +25,7 @@ const Testimonial = () => {
                         </div>
                         <div className={classes.testimonial_card_conten_wrapper}>
                             <p className={classes.testimonial_text}>this is the best and perfect website for football data vetting and viewing livescores and previous data the best and perfect website for football data of football games and the likes</p>
-                            <h3>David Micah-Daniels</h3>
+                            <h3>kylian Mbape</h3>
                         </div>
                     </div>
                 </div>

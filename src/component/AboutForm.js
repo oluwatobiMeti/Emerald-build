@@ -48,8 +48,7 @@ function AboutForm() {
                             <label htmlFor="message">Message</label>
                             <textarea name="" id="" cols="40" rows="10" placeholder="your message here...."></textarea>
                         </div>
-                        <p>you agree to our friendly privacy policy</p>
-                        <button class="button">Send Message</button>
+                        <button class="send_button">Send Message</button>
                     </form>
                 </div>
 

@@ -1,0 +1,1962 @@
+[
+    {
+        "name": "Pierre-Emerick Aubameyang",
+        "club": "Arsenal FC",
+        "biography": "Pierre-Emerick Aubameyang, a Gabonese striker known for his goal-scoring prowess and pace, has been Arsenal FC's main attacking threat...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 10,
+            "yellowCards": 1,
+            "redCards": 0,
+            "assists": 5,
+            "goalsScored": 22,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Borussia Dortmund",
+                "to": "Arsenal FC",
+                "time": "2018-01"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "yellowCards": 1,
+            "redCards": 0,
+            "assists": 3,
+            "goalsScored": 22,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Bukayo Saka",
+        "club": "Arsenal FC",
+        "biography": "Bukayo Saka, an English winger known for his versatility and creativity, has emerged as a young talent in Arsenal FC's lineup...",
+        "performance": {
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 11,
+            "goalsScored": 4,
+            "cups": 0,
+            "transfers": []
+          },
+          "2020-2021": {
+            "wins": 18,
+            "losses": 12,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 12,
+            "goalsScored": 7,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Thomas Partey",
+        "club": "Arsenal FC",
+        "biography": "Thomas Partey, a Ghanaian midfielder known for his physicality and ball-winning ability, has added steel to Arsenal FC's midfield...",
+        "performance": {
+          "2020-2021": {
+            "wins": 18,
+            "losses": 12,
+            "yellowCards": 8,
+            "redCards": 1,
+            "assists": 1,
+            "goalsScored": 2,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Atletico Madrid",
+                "to": "Arsenal FC",
+                "time": "2020-10"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Kieran Tierney",
+        "club": "Arsenal FC",
+        "biography": "Kieran Tierney, a Scottish left-back known for his tenacity and accurate crosses, has been a reliable presence in Arsenal FC's defense...",
+        "performance": {
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "yellowCards": 2,
+            "redCards": 1,
+            "assists": 5,
+            "goalsScored": 2,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Celtic",
+                "to": "Arsenal FC",
+                "time": "2019-08"
+              }
+            ]
+          },
+          "2020-2021": {
+            "wins": 18,
+            "losses": 12,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 6,
+            "goalsScored": 3,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Emile Smith Rowe",
+        "club": "Arsenal FC",
+        "biography": "Emile Smith Rowe, an English attacking midfielder with flair and vision, has been a rising star in Arsenal FC's midfield...",
+        "performance": {
+          "2020-2021": {
+            "wins": 18,
+            "losses": 12,
+            "yellowCards": 1,
+            "redCards": 0,
+            "assists": 6,
+            "goalsScored": 3,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Gabriel Magalhães",
+        "club": "Arsenal FC",
+        "biography": "Gabriel Magalhães, a Brazilian center-back known for his aerial ability and composure, has been a key figure in Arsenal FC's defense...",
+        "performance": {
+          "2020-2021": {
+            "wins": 18,
+            "losses": 12,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 1,
+            "goalsScored": 1,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Lille",
+                "to": "Arsenal FC",
+                "time": "2020-09"
+              }
+            ]
+          }
+        }
+      },
+  
+    
+      {
+        "name": "Bernd Leno",
+        "club": "Arsenal FC",
+        "biography": "Bernd Leno, a German goalkeeper known for his shot-stopping ability and agility, has been a key figure in Arsenal FC's goalkeeping department...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 10,
+            "cleanSheets": 11,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsConceded": 35,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Bayer Leverkusen",
+                "to": "Arsenal FC",
+                "time": "2018-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "cleanSheets": 8,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsConceded": 39,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Granit Xhaka",
+        "club": "Arsenal FC",
+        "biography": "Granit Xhaka, a Swiss midfielder known for his passing range and leadership qualities, has been a crucial presence in Arsenal FC's midfield...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 10,
+            "yellowCards": 9,
+            "redCards": 1,
+            "assists": 3,
+            "goalsScored": 4,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Borussia Monchengladbach",
+                "to": "Arsenal FC",
+                "time": "2016-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "yellowCards": 7,
+            "redCards": 1,
+            "assists": 3,
+            "goalsScored": 2,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Gabriel Martinelli",
+        "club": "Arsenal FC",
+        "biography": "Gabriel Martinelli, a Brazilian forward known for his energy and goal-scoring ability, has brought youthful enthusiasm to Arsenal FC's attack...",
+        "performance": {
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "yellowCards": 0,
+            "redCards": 0,
+            "assists": 3,
+            "goalsScored": 10,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Ituano",
+                "to": "Arsenal FC",
+                "time": "2019-07"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Nicolas Pepe",
+        "club": "Arsenal FC",
+        "biography": "Nicolas Pepe, an Ivorian winger known for his dribbling skills and flair, has been a dynamic presence in Arsenal FC's attack...",
+        "performance": {
+          "2019-2020": {
+            "wins": 14,
+            "losses": 14,
+            "yellowCards": 7,
+            "redCards": 0,
+            "assists": 8,
+            "goalsScored": 5,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Lille",
+                "to": "Arsenal FC",
+                "time": "2019-07"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Ainsley Maitland-Niles",
+        "club": "Arsenal FC",
+        "biography": "Ainsley Maitland-Niles, an English midfielder known for his versatility and energy, has contributed to various positions in Arsenal FC's squad...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 10,
+            "yellowCards": 6,
+            "redCards": 0,
+            "assists": 1,
+            "goalsScored": 1,
+            "cups": 0,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Rob Holding",
+        "club": "Arsenal FC",
+        "biography": "Rob Holding, an English center-back known for his composure and positioning, has been a reliable option in Arsenal FC's defense...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 10,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 0,
+            "goalsScored": 1,
+            "cups": 0,
+            "transfers": [
+              {
+                "from": "Bolton Wanderers",
+                "to": "Arsenal FC",
+                "time": "2016-07"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "N'Golo Kanté",
+        "club": "Chelsea FC",
+        "biography": "N'Golo Kanté, a French midfielder known for his tireless work rate and ball-winning ability, has been the engine of Chelsea FC's midfield...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 8,
+            "yellowCards": 5,
+            "redCards": 0,
+            "assists": 4,
+            "goalsScored": 4,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Leicester City",
+                "to": "Chelsea FC",
+                "time": "2016-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 5,
+            "goalsScored": 3,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Mason Mount",
+        "club": "Chelsea FC",
+        "biography": "Mason Mount, an English midfielder with creativity and versatility, has emerged as a rising star in Chelsea FC's midfield...",
+        "performance": {
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 6,
+            "redCards": 0,
+            "assists": 6,
+            "goalsScored": 8,
+            "cups": 1,
+            "transfers": []
+          },
+          "2020-2021": {
+            "wins": 23,
+            "losses": 7,
+            "yellowCards": 5,
+            "redCards": 0,
+            "assists": 9,
+            "goalsScored": 10,
+            "cups": 2,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Timo Werner",
+        "club": "Chelsea FC",
+        "biography": "Timo Werner, a German striker with pace and goal-scoring prowess, has been a dynamic presence in Chelsea FC's attack...",
+        "performance": {
+          "2020-2021": {
+            "wins": 23,
+            "losses": 7,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 11,
+            "goalsScored": 12,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "RB Leipzig",
+                "to": "Chelsea FC",
+                "time": "2020-07"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "César Azpilicueta",
+        "club": "Chelsea FC",
+        "biography": "César Azpilicueta, a Spanish defender known for his leadership and versatility, has been a constant presence in Chelsea FC's backline...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 8,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 4,
+            "goalsScored": 2,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Marseille",
+                "to": "Chelsea FC",
+                "time": "2012-08"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 5,
+            "redCards": 0,
+            "assists": 6,
+            "goalsScored": 2,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Kai Havertz",
+        "club": "Chelsea FC",
+        "biography": "Kai Havertz, a German attacking midfielder with creativity and flair, has added a new dimension to Chelsea FC's midfield and attack...",
+        "performance": {
+          "2020-2021": {
+            "wins": 23,
+            "losses": 7,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 7,
+            "goalsScored": 10,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Bayer Leverkusen",
+                "to": "Chelsea FC",
+                "time": "2020-09"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Edouard Mendy",
+        "club": "Chelsea FC",
+        "biography": "Edouard Mendy, a Senegalese goalkeeper known for his shot-stopping ability and calmness under pressure, has provided solidity to Chelsea FC's defense...",
+        "performance": {
+          "2020-2021": {
+            "wins": 23,
+            "losses": 7,
+            "cleanSheets": 16,
+            "yellowCards": 0,
+            "redCards": 0,
+            "goalsConceded": 25,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Rennes",
+                "to": "Chelsea FC",
+                "time": "2020-09"
+              }
+            ]
+          }
+        }
+      },
+    
+  
+    
+    
+      {
+        "name": "Jorginho",
+        "club": "Chelsea FC",
+        "biography": "Jorginho, an Italian midfielder known for his passing accuracy and ability to control the game, has been a vital component of Chelsea FC's midfield...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 8,
+            "yellowCards": 12,
+            "redCards": 0,
+            "assists": 3,
+            "goalsScored": 2,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Napoli",
+                "to": "Chelsea FC",
+                "time": "2018-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 12,
+            "redCards": 1,
+            "assists": 7,
+            "goalsScored": 4,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Ben Chilwell",
+        "club": "Chelsea FC",
+        "biography": "Ben Chilwell, an English left-back known for his attacking prowess and defensive contributions, has been an integral part of Chelsea FC's backline...",
+        "performance": {
+          "2020-2021": {
+            "wins": 23,
+            "losses": 7,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 9,
+            "goalsScored": 5,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Leicester City",
+                "to": "Chelsea FC",
+                "time": "2020-08"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Mateo Kovačić",
+        "club": "Chelsea FC",
+        "biography": "Mateo Kovačić, a Croatian midfielder known for his dribbling skills and vision, has been a creative force in Chelsea FC's midfield...",
+        "performance": {
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 6,
+            "redCards": 0,
+            "assists": 5,
+            "goalsScored": 1,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Real Madrid",
+                "to": "Chelsea FC",
+                "time": "2019-07"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Reece James",
+        "club": "Chelsea FC",
+        "biography": "Reece James, an English right-back known for his versatility and powerful crosses, has been a rising star in Chelsea FC's ranks...",
+        "performance": {
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 5,
+            "goalsScored": 1,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Hakim Ziyech",
+        "club": "Chelsea FC",
+        "biography": "Hakim Ziyech, a Moroccan attacking midfielder known for his creativity and set-piece expertise, has added flair to Chelsea FC's attack...",
+        "performance": {
+          "2020-2021": {
+            "wins": 23,
+            "losses": 7,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 11,
+            "goalsScored": 6,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Ajax",
+                "to": "Chelsea FC",
+                "time": "2020-07"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Antonio Rüdiger",
+        "club": "Chelsea FC",
+        "biography": "Antonio Rüdiger, a German center-back known for his physicality and defensive solidity, has been a crucial part of Chelsea FC's defensive setup...",
+        "performance": {
+          "2018-2019": {
+            "wins": 21,
+            "losses": 8,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 1,
+            "goalsScored": 2,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "AS Roma",
+                "to": "Chelsea FC",
+                "time": "2017-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 19,
+            "losses": 10,
+            "yellowCards": 3,
+            "redCards": 1,
+            "assists": 1,
+            "goalsScored": 1,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Mohamed Salah",
+        "club": "Liverpool FC",
+        "biography": "Mohamed Salah, an Egyptian winger, has illuminated the Premier League with his electrifying performances and dazzling skill...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 1,
+            "redCards": 0,
+            "goalsScored": 22,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "AS Roma",
+                "to": "Liverpool FC",
+                "time": "2017-06"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsScored": 19,
+            "cups": 1,
+            "transfers": []
+          }
+    
+        }
+      },
+      {
+        "name": "Virgil van Dijk",
+        "club": "Liverpool FC",
+        "biography": "Virgil van Dijk is a Dutch central defender who transformed Liverpool FC's defense upon his arrival...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsScored": 6,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Southampton",
+                "to": "Liverpool FC",
+                "time": "2018-01"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 3,
+            "redCards": 0,
+            "goalsScored": 5,
+            "cups": 1,
+            "transfers": []
+          }
+    
+        }
+      },
+      {
+        "name": "Sadio Mané",
+        "club": "Liverpool FC",
+        "biography": "Sadio Mané, a dynamic Senegalese winger, has electrified the Premier League with his explosive pace, dribbling skills, and flair for the spectacular...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 1,
+            "redCards": 0,
+            "goalsScored": 22,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Southampton",
+                "to": "Liverpool FC",
+                "time": "2016-06"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsScored": 18,
+            "cups": 1,
+            "transfers": []
+          }
+    
+        }
+      },
+      {
+        "name": "Jordan Henderson",
+        "club": "Liverpool FC",
+        "biography": "Jordan Henderson, an English midfielder and the embodiment of leadership, has been instrumental in Liverpool FC's successes...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 4,
+            "redCards": 0,
+            "goalsScored": 3,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Sunderland",
+                "to": "Liverpool FC",
+                "time": "2011-06"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsScored": 4,
+            "cups": 1,
+            "transfers": []
+          }
+    
+        }
+      },
+      {
+        "name": "Roberto Firmino",
+        "club": "Liverpool FC",
+        "biography": "Roberto Firmino, a Brazilian forward known for his creativity and link-up play, has been a linchpin in Liverpool FC's attack...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsScored": 16,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Hoffenheim",
+                "to": "Liverpool FC",
+                "time": "2015-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 1,
+            "redCards": 0,
+            "goalsScored": 12,
+            "cups": 1,
+            "transfers": []
+          }
+    
+        }
+      },
+      {
+        "name": "Alisson Becker",
+        "club": "Liverpool FC",
+        "biography": "Alisson Becker, a Brazilian goalkeeper known for his shot-stopping and distribution skills, has solidified Liverpool FC's defense...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "cleanSheets": 21,
+            "yellowCards": 1,
+            "redCards": 0,
+            "goalsConceded": 22,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "AS Roma",
+                "to": "Liverpool FC",
+                "time": "2018-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "cleanSheets": 18,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsConceded": 26,
+            "cups": 1,
+            "transfers": []
+          }
+    
+        }
+      },
+    
+      {
+        "name": "Trent Alexander-Arnold",
+        "club": "Liverpool FC",
+        "biography": "Trent Alexander-Arnold, an English right-back with exceptional crossing ability and footballing intelligence, has been a key figure in Liverpool FC's defense...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 13,
+            "cups": 1,
+            "transfers": []
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 12,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Andy Robertson",
+        "club": "Liverpool FC",
+        "biography": "Andy Robertson, a Scottish left-back with boundless energy and tenacity, has been a vital part of Liverpool FC's defensive and attacking setup...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 5,
+            "redCards": 0,
+            "assists": 11,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Hull City",
+                "to": "Liverpool FC",
+                "time": "2017-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 10,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Fabinho",
+        "club": "Liverpool FC",
+        "biography": "Fabinho, a Brazilian midfielder with defensive expertise and exceptional passing range, has been a pivotal presence in Liverpool FC's midfield...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 7,
+            "redCards": 0,
+            "assists": 3,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "AS Monaco",
+                "to": "Liverpool FC",
+                "time": "2018-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 6,
+            "redCards": 0,
+            "assists": 5,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Diogo Jota",
+        "club": "Liverpool FC",
+        "biography": "Diogo Jota, a Portuguese forward with flair and goal-scoring ability, has added depth and versatility to Liverpool FC's attacking options...",
+        "performance": {
+          "2020-2021": {
+            "wins": 28,
+            "losses": 8,
+            "yellowCards": 1,
+            "redCards": 0,
+            "goalsScored": 13,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Wolverhampton Wanderers",
+                "to": "Liverpool FC",
+                "time": "2020-09"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Joel Matip",
+        "club": "Liverpool FC",
+        "biography": "Joel Matip, a Cameroonian center-back with commanding aerial presence and composure on the ball, has been a stalwart in Liverpool FC's defense...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 2,
+            "redCards": 0,
+            "goalsScored": 2,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Schalke 04",
+                "to": "Liverpool FC",
+                "time": "2016-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 3,
+            "redCards": 0,
+            "goalsScored": 1,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "James Milner",
+        "club": "Liverpool FC",
+        "biography": "James Milner, a versatile English midfielder known for his work ethic and leadership, has been a vital presence in Liverpool FC's squad...",
+        "performance": {
+          "2018-2019": {
+            "wins": 30,
+            "losses": 7,
+            "yellowCards": 6,
+            "redCards": 0,
+            "assists": 8,
+            "cups": 1,
+            "transfers": [
+              {
+                "from": "Manchester City",
+                "to": "Liverpool FC",
+                "time": "2015-06"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 32,
+            "losses": 3,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 5,
+            "cups": 1,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "biography": "Kevin De Bruyne, a Belgian midfielder renowned for his vision, passing, and creative genius, has been the driving force behind Manchester City's midfield...",
+        "performance": {
+          "2018-2019": {
+            "wins": 32,
+            "losses": 2,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 16,
+            "goalsScored": 8,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "VfL Wolfsburg",
+                "to": "Manchester City",
+                "time": "2015-08"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 26,
+            "losses": 9,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 20,
+            "goalsScored": 13,
+            "cups": 2,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Raheem Sterling",
+        "club": "Manchester City",
+        "biography": "Raheem Sterling, an English winger known for his blistering pace and goal-scoring ability, has been a vital asset to Manchester City's attack...",
+        "performance": {
+          "2018-2019": {
+            "wins": 32,
+            "losses": 2,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 10,
+            "goalsScored": 17,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Liverpool FC",
+                "to": "Manchester City",
+                "time": "2015-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 26,
+            "losses": 9,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 13,
+            "goalsScored": 20,
+            "cups": 2,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Ederson",
+        "club": "Manchester City",
+        "biography": "Ederson, a Brazilian goalkeeper with extraordinary shot-stopping ability and excellent distribution skills, has been a crucial presence in Manchester City's defense...",
+        "performance": {
+          "2018-2019": {
+            "wins": 32,
+            "losses": 2,
+            "cleanSheets": 20,
+            "yellowCards": 0,
+            "redCards": 0,
+            "goalsConceded": 23,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Benfica",
+                "to": "Manchester City",
+                "time": "2017-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 26,
+            "losses": 9,
+            "cleanSheets": 16,
+            "yellowCards": 1,
+            "redCards": 0,
+            "goalsConceded": 31,
+            "cups": 2,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Sergio Agüero",
+        "club": "Manchester City",
+        "biography": "Sergio Agüero, an Argentine striker and Manchester City's all-time leading goal scorer, has been a goal-scoring machine and an icon for the club...",
+        "performance": {
+          "2018-2019": {
+            "wins": 32,
+            "losses": 2,
+            "yellowCards": 4,
+            "redCards": 0,
+            "assists": 6,
+            "goalsScored": 32,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Atletico Madrid",
+                "to": "Manchester City",
+                "time": "2011-07"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 26,
+            "losses": 9,
+            "yellowCards": 2,
+            "redCards": 0,
+            "assists": 4,
+            "goalsScored": 23,
+            "cups": 2,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Aymeric Laporte",
+        "club": "Manchester City",
+        "biography": "Aymeric Laporte, a French center-back known for his composure, defensive skills, and ability on the ball, has been a linchpin in Manchester City's defense...",
+        "performance": {
+          "2018-2019": {
+            "wins": 32,
+            "losses": 2,
+            "yellowCards": 1,
+            "redCards": 0,
+            "assists": 3,
+            "goalsScored": 3,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Athletic Bilbao",
+                "to": "Manchester City",
+                "time": "2018-01"
+              }
+            ]
+          },
+          "2019-2020": {
+            "wins": 26,
+            "losses": 9,
+            "yellowCards": 3,
+            "redCards": 0,
+            "assists": 2,
+            "goalsScored": 2,
+            "cups": 2,
+            "transfers": []
+          }
+        }
+      },
+      {
+        "name": "Rodri",
+        "club": "Manchester City",
+        "biography": "Rodri, a Spanish midfielder with exceptional passing ability and positional sense, has been a crucial component in Manchester City's midfield setup...",
+        "performance": {
+          "2019-2020": {
+            "wins": 26,
+            "losses": 9,
+            "yellowCards": 8,
+            "redCards": 0,
+            "assists": 4,
+            "goalsScored": 3,
+            "cups": 2,
+            "transfers": [
+              {
+                "from": "Atletico Madrid",
+                "to": "Manchester City",
+                "time": "2019-07"
+              }
+            ]
+          }
+        }
+      },
+  
+  
+        
+          {
+            "name": "Bernardo Silva",
+            "club": "Manchester City",
+            "biography": "Bernardo Silva, a Portuguese midfielder known for his dribbling skills and creativity, has been a key playmaker in Manchester City's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 32,
+                "losses": 2,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 7,
+                "goalsScored": 7,
+                "cups": 2,
+                "transfers": [
+                  {
+                    "from": "AS Monaco",
+                    "to": "Manchester City",
+                    "time": "2017-07"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 26,
+                "losses": 9,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 8,
+                "goalsScored": 11,
+                "cups": 2,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Riyad Mahrez",
+            "club": "Manchester City",
+            "biography": "Riyad Mahrez, an Algerian winger with skillful dribbling and an eye for goal, has been a dangerous attacking presence for Manchester City...",
+            "performance": {
+              "2018-2019": {
+                "wins": 32,
+                "losses": 2,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 12,
+                "goalsScored": 12,
+                "cups": 2,
+                "transfers": [
+                  {
+                    "from": "Leicester City",
+                    "to": "Manchester City",
+                    "time": "2018-07"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 26,
+                "losses": 9,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 9,
+                "goalsScored": 11,
+                "cups": 2,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Phil Foden",
+            "club": "Manchester City",
+            "biography": "Phil Foden, a young English midfielder with immense potential, has been a rising star in Manchester City's ranks, showcasing his skill and creativity...",
+            "performance": {
+              "2018-2019": {
+                "wins": 32,
+                "losses": 2,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 6,
+                "goalsScored": 7,
+                "cups": 2,
+                "transfers": []
+              },
+              "2019-2020": {
+                "wins": 26,
+                "losses": 9,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 5,
+                "goalsScored": 8,
+                "cups": 2,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "João Cancelo",
+            "club": "Manchester City",
+            "biography": "João Cancelo, a Portuguese right-back with attacking flair and defensive solidity, has been an important asset to Manchester City's defensive setup...",
+            "performance": {
+              "2019-2020": {
+                "wins": 26,
+                "losses": 9,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 5,
+                "goalsScored": 2,
+                "cups": 2,
+                "transfers": [
+                  {
+                    "from": "Juventus",
+                    "to": "Manchester City",
+                    "time": "2019-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Gabriel Jesus",
+            "club": "Manchester City",
+            "biography": "Gabriel Jesus, a Brazilian forward known for his energy and goal-scoring ability, has been a versatile attacking option for Manchester City...",
+            "performance": {
+              "2018-2019": {
+                "wins": 32,
+                "losses": 2,
+                "yellowCards": 4,
+                "redCards": 0,
+                "assists": 7,
+                "goalsScored": 7,
+                "cups": 2,
+                "transfers": [
+                  {
+                    "from": "Palmeiras",
+                    "to": "Manchester City",
+                    "time": "2017-01"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 26,
+                "losses": 9,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 6,
+                "goalsScored": 18,
+                "cups": 2,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Nathan Aké",
+            "club": "Manchester City",
+            "biography": "Nathan Aké, a Dutch center-back known for his defensive acumen and versatility, has provided depth to Manchester City's defensive options...",
+            "performance": {
+              "2020-2021": {
+                "wins": 28,
+                "losses": 8,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 2,
+                "goalsScored": 2,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "AFC Bournemouth",
+                    "to": "Manchester City",
+                    "time": "2020-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Bruno Fernandes",
+            "club": "Manchester United",
+            "biography": "Bruno Fernandes, a Portuguese midfielder known for his creativity and set-piece expertise, has been the creative spark in Manchester United's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 13,
+                "goalsScored": 10,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Sporting CP",
+                    "to": "Manchester United",
+                    "time": "2020-01"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 5,
+                "redCards": 0,
+                "assists": 18,
+                "goalsScored": 17,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Harry Maguire",
+            "club": "Manchester United",
+            "biography": "Harry Maguire, an English center-back known for his aerial prowess and leadership qualities, has been a stalwart in Manchester United's defense...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 4,
+                "redCards": 0,
+                "assists": 1,
+                "goalsScored": 3,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Leicester City",
+                    "to": "Manchester United",
+                    "time": "2019-08"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 3,
+                "redCards": 1,
+                "assists": 2,
+                "goalsScored": 2,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Marcus Rashford",
+            "club": "Manchester United",
+            "biography": "Marcus Rashford, an English forward with pace and versatility, has been a homegrown talent shining brightly for Manchester United's attack...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 4,
+                "redCards": 0,
+                "assists": 7,
+                "goalsScored": 13,
+                "cups": 1,
+                "transfers": []
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 8,
+                "goalsScored": 22,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Paul Pogba",
+            "club": "Manchester United",
+            "biography": "Paul Pogba, a French midfielder known for his flair and physicality, has been a dynamic presence in Manchester United's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 7,
+                "redCards": 1,
+                "assists": 9,
+                "goalsScored": 13,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Juventus",
+                    "to": "Manchester United",
+                    "time": "2016-08"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 4,
+                "redCards": 0,
+                "assists": 6,
+                "goalsScored": 16,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Mason Greenwood",
+            "club": "Manchester United",
+            "biography": "Mason Greenwood, a young English forward with an eye for goal, has burst onto the scene as a promising talent in Manchester United's ranks...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 1,
+                "goalsScored": 2,
+                "cups": 1,
+                "transfers": []
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 1,
+                "redCards": 0,
+                "assists": 3,
+                "goalsScored": 17,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "David De Gea",
+            "club": "Manchester United",
+            "biography": "David De Gea, a Spanish goalkeeper known for his exceptional reflexes and shot-stopping ability, has been a key figure in Manchester United's defense...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "cleanSheets": 18,
+                "yellowCards": 0,
+                "redCards": 0,
+                "goalsConceded": 29,
+                "cups": 1,
+                "transfers": []
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "cleanSheets": 13,
+                "yellowCards": 1,
+                "redCards": 0,
+                "goalsConceded": 36,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+      
+        
+          {
+            "name": "Jadon Sancho",
+            "club": "Manchester United",
+            "biography": "Jadon Sancho, an English winger with electrifying pace and skill, has brought excitement and flair to Manchester United's attacking lineup...",
+            "performance": {
+              "2021-2022": {
+                "wins": 24,
+                "losses": 6,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 12,
+                "goalsScored": 10,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Borussia Dortmund",
+                    "to": "Manchester United",
+                    "time": "2021-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Raphael Varane",
+            "club": "Manchester United",
+            "biography": "Raphael Varane, a French center-back with exceptional defensive abilities and experience, has added stability to Manchester United's backline...",
+            "performance": {
+              "2021-2022": {
+                "wins": 24,
+                "losses": 6,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 1,
+                "goalsScored": 2,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Real Madrid",
+                    "to": "Manchester United",
+                    "time": "2021-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Scott McTominay",
+            "club": "Manchester United",
+            "biography": "Scott McTominay, a versatile Scottish midfielder with an eye for goal, has been a tenacious presence in Manchester United's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 5,
+                "redCards": 0,
+                "assists": 1,
+                "goalsScored": 3,
+                "cups": 1,
+                "transfers": []
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 7,
+                "redCards": 0,
+                "assists": 3,
+                "goalsScored": 4,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "club": "Manchester United",
+            "biography": "Aaron Wan-Bissaka, an English right-back known for his defensive solidity and tackling ability, has been a reliable presence in Manchester United's defense...",
+            "performance": {
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 7,
+                "redCards": 0,
+                "assists": 4,
+                "goalsScored": 1,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Crystal Palace",
+                    "to": "Manchester United",
+                    "time": "2019-07"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Fred",
+            "club": "Manchester United",
+            "biography": "Fred, a Brazilian midfielder with energy and work rate, has been a dynamic presence in Manchester United's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 5,
+                "redCards": 0,
+                "assists": 4,
+                "goalsScored": 3,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Shakhtar Donetsk",
+                    "to": "Manchester United",
+                    "time": "2018-07"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 9,
+                "redCards": 1,
+                "assists": 2,
+                "goalsScored": 2,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Luke Shaw",
+            "club": "Manchester United",
+            "biography": "Luke Shaw, an English left-back known for his attacking contributions and defensive prowess, has been an integral part of Manchester United's squad...",
+            "performance": {
+              "2018-2019": {
+                "wins": 25,
+                "losses": 6,
+                "yellowCards": 3,
+                "redCards": 0,
+                "assists": 5,
+                "goalsScored": 1,
+                "cups": 1,
+                "transfers": [
+                  {
+                    "from": "Southampton",
+                    "to": "Manchester United",
+                    "time": "2014-06"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 22,
+                "losses": 8,
+                "yellowCards": 5,
+                "redCards": 0,
+                "assists": 5,
+                "goalsScored": 2,
+                "cups": 1,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Callum Wilson",
+            "club": "Newcastle United",
+            "biography": "Callum Wilson, an English striker known for his goal-scoring ability and movement off the ball, has been Newcastle United's main attacking threat...",
+            "performance": {
+              "2020-2021": {
+                "wins": 12,
+                "losses": 18,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 5,
+                "goalsScored": 12,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "AFC Bournemouth",
+                    "to": "Newcastle United",
+                    "time": "2020-09"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Allan Saint-Maximin",
+            "club": "Newcastle United",
+            "biography": "Allan Saint-Maximin, a French winger known for his dribbling skills and flair, has added creativity and excitement to Newcastle United's attack...",
+            "performance": {
+              "2019-2020": {
+                "wins": 11,
+                "losses": 20,
+                "yellowCards": 4,
+                "redCards": 0,
+                "assists": 4,
+                "goalsScored": 3,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Nice",
+                    "to": "Newcastle United",
+                    "time": "2019-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Miguel Almirón",
+            "club": "Newcastle United",
+            "biography": "Miguel Almirón, a Paraguayan midfielder known for his work rate and creativity, has been an important figure in Newcastle United's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 12,
+                "losses": 19,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 3,
+                "goalsScored": 4,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Atlanta United",
+                    "to": "Newcastle United",
+                    "time": "2019-01"
+                  }
+                ]
+              },
+              "2019-2020": {
+                "wins": 11,
+                "losses": 20,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 4,
+                "goalsScored": 6,
+                "cups": 0,
+                "transfers": []
+              }
+            }
+          },
+          {
+            "name": "Jonjo Shelvey",
+            "club": "Newcastle United",
+            "biography": "Jonjo Shelvey, an English midfielder known for his passing range and set-piece ability, has been a creative force in Newcastle United's midfield...",
+            "performance": {
+              "2018-2019": {
+                "wins": 12,
+                "losses": 19,
+                "yellowCards": 7,
+                "redCards": 1,
+                "assists": 5,
+                "goalsScored": 6,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Swansea City",
+                    "to": "Newcastle United",
+                    "time": "2016-01"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Martin Dúbravka",
+            "club": "Newcastle United",
+            "biography": "Martin Dúbravka, a Slovakian goalkeeper known for his shot-stopping ability and presence in the penalty area, has been a reliable figure in Newcastle United's defense...",
+            "performance": {
+              "2018-2019": {
+                "wins": 12,
+                "losses": 19,
+                "cleanSheets": 11,
+                "yellowCards": 0,
+                "redCards": 0,
+                "goalsConceded": 39,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Sparta Prague",
+                    "to": "Newcastle United",
+                    "time": "2018-01"
+                  }
+                ]
+              }
+            }
+          },
+      
+        
+          {
+            "name": "Jamaal Lascelles",
+            "club": "Newcastle United",
+            "biography": "Jamaal Lascelles, an English center-back known for his leadership and aerial ability, has been a stalwart in Newcastle United's defense...",
+            "performance": {
+              "2018-2019": {
+                "wins": 12,
+                "losses": 19,
+                "yellowCards": 9,
+                "redCards": 1,
+                "assists": 1,
+                "goalsScored": 3,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Nottingham Forest",
+                    "to": "Newcastle United",
+                    "time": "2014-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Federico Fernandez",
+            "club": "Newcastle United",
+            "biography": "Federico Fernandez, an Argentine center-back known for his defensive solidity and composure, has been a reliable presence in Newcastle United's backline...",
+            "performance": {
+              "2018-2019": {
+                "wins": 12,
+                "losses": 19,
+                "yellowCards": 6,
+                "redCards": 0,
+                "assists": 0,
+                "goalsScored": 1,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Swansea City",
+                    "to": "Newcastle United",
+                    "time": "2018-08"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Ryan Fraser",
+            "club": "Newcastle United",
+            "biography": "Ryan Fraser, a Scottish winger known for his pace and delivery, has provided a creative outlet on the flanks for Newcastle United...",
+            "performance": {
+              "2020-2021": {
+                "wins": 12,
+                "losses": 18,
+                "yellowCards": 2,
+                "redCards": 0,
+                "assists": 3,
+                "goalsScored": 2,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Bournemouth",
+                    "to": "Newcastle United",
+                    "time": "2020-09"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Joe Willock",
+            "club": "Newcastle United",
+            "biography": "Joe Willock, an English midfielder known for his energy and box-to-box play, has added dynamism to Newcastle United's midfield...",
+            "performance": {
+              "2020-2021": {
+                "wins": 12,
+                "losses": 18,
+                "yellowCards": 1,
+                "redCards": 0,
+                "assists": 2,
+                "goalsScored": 8,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Arsenal",
+                    "to": "Newcastle United",
+                    "time": "2021-01"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Joelinton",
+            "club": "Newcastle United",
+            "biography": "Joelinton, a Brazilian forward known for his physical presence and hold-up play, has led Newcastle United's attack with his work rate...",
+            "performance": {
+              "2019-2020": {
+                "wins": 11,
+                "losses": 20,
+                "yellowCards": 6,
+                "redCards": 0,
+                "assists": 4,
+                "goalsScored": 2,
+                "cups": 0,
+                "transfers": [
+                  {
+                    "from": "Hoffenheim",
+                    "to": "Newcastle United",
+                    "time": "2019-07"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": "Paul Dummett",
+            "club": "Newcastle United",
+            "biography": "Paul Dummett, a Welsh defender known for his versatility and defensive attributes, has been a reliable option for Newcastle United...",
+            "performance": {
+              "2018-2019": {
+                "wins": 12,
+                "losses": 19,
+                "yellowCards": 7,
+                "redCards": 1,
+                "assists": 1,
+                "goalsScored": 0,
+                "cups": 0,
+                "transfers": []
+              }
+            }
+          }
+]
