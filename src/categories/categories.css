@@ -1,0 +1,57 @@
+.categorieContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.leagueTable {
+    margin: 4rem 6rem;
+}
+table {
+    width: 100%;
+    margin: auto;
+}
+.leagueTable__header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 0 2rem;
+  }
+  .match {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  .goal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .goal{
+    border-top-left-radius: 4px;
+  }
+  select {
+    width: 300px;
+    height: 2rem;
+    font-size: 20px;
+    background-color: #37b24d;
+    color: white;
+  }
+  .categories_btn {
+    padding: 0 1.5rem;
+    font-size: 20px;
+    color: white;
+    background-color: #37b24d;
+    border: none;
+  }

@@ -2,9 +2,6 @@ import React from 'react'
 import Match from './match'
 import data from "../football.json-master/2010-11/at.1.json"
 
-
-function Matches() {
-
 function Matches({date}) {
    const League = data
   return (

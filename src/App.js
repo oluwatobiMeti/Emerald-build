@@ -9,7 +9,6 @@ import {
 import About from './Pages/About';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
 import ClubDashboard from './Dashboard/ClubDashboard';
-import Gallery from './Pages/Gallery';
 import Categories from './categories/Categories';
 
 function App() {
@@ -22,12 +21,7 @@ function App() {
         <Route path='Dashboard' element={<DashboardNav/>}/>
         <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
         <Route path='ClubDashboard' element={<ClubDashboard/>}/>
-<<<<<<< HEAD
-        {/* <Route path='Gallery' element={<Gallery/>}/>
-        <Route path='Categories' element={<Categories/>}/> */}
-=======
-        <Route path='Gallery' element={<Gallery/>}/>
->>>>>>> bf85beb89f681c732228ee8387a6c9870e279ee5
+        <Route path='Categories' element={<Categories/>}/>
       </Routes>
     </BrowserRouter>
   );

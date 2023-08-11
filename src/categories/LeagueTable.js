@@ -1,25 +1,20 @@
 
-function LeagueTable({}) {
-
-import Laliga from "./Laliga.json"
-import Premier from "./premierLeague.json";
-import Germer from "./GermerLeague.json"
 function LeagueTable(show) {
-  let {Leagues} = Laliga;
+  // let {Leagues} = Laliga;
 
   return (
     
-    <div>
+    <div className="leagueTable">
       
       <table>
-  <tr>
+  <tr className="leagueTable__header">
     <th>CLUB</th>
     <th>W</th>
     <th>D</th>
     <th>L</th>
     <th>GA</th>
   </tr>
-  <tr>
+  {/* <tr>
     {Leagues.map((club) => <td>{club.name}</td>)}
   </tr>
   <tr>
@@ -32,8 +27,8 @@ function LeagueTable(show) {
   {Leagues.map((club) => <td>{club.losses}</td>)}
   </tr>
   <tr>
-  {Leagues.map((club) => <td>{club.total_goals_scored}</td>)}
-  </tr>
+  {Leagues.map((club) => <td>{club.total_goals_scored}</td>)} */}
+  {/* </tr> */}
 </table>
     </div>
   )
