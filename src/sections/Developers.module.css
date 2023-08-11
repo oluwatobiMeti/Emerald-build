@@ -1,0 +1,37 @@
+.developer_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5rem;
+}
+.developer_section > h3{
+    color: #37b24d;
+    font-size: 1.5rem;
+}
+.developers_card_wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    width: 85vw;
+    margin: 5rem auto;
+}
+.developers_card{
+    padding: 1rem;
+    border-radius: 0.7rem;
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.138);
+}
+.developers_card_image{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    margin: auto;
+    object-fit: cover;
+}
+.developers_description_wrapper{
+    padding: 0.5rem 0;
+}
+.developers_description_wrapper p{
+    font-size: 1.1rem;
+    line-height: 1.6;
+}

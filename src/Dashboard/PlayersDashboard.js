@@ -23,7 +23,8 @@ const PlayerCard = (props) => {
 
 class PlayersDashboard extends PureComponent{
     state = {
-        inputText: ""
+        inputText: "",
+        searchResult: []
     }
 
     inputTextChangeHandler = (e) => {
@@ -31,14 +32,18 @@ class PlayersDashboard extends PureComponent{
     }
 
     searchPlayersHandler = () => {
-        const searchResults = allPlayersData.filter(player => {
-            const playerName = player.name.toLowerCase();
-            return playerName.includes((this.state.inputText).toLowerCase());
-          });
-        
-          console.log(this.state.inputText);
-          return searchResults;
-          console.log(searchResults);
+        // const result = [];
+        // const inputText = this.state.inputText;
+        // allPlayersData.forEach((player) => {
+        //     if (player.name.toString().toLowerCase().includes(inputText.toLocaleLowerCase())) {
+        //         console.log(player);
+        //         result.push(player);
+        //         this.setState({searchResult: result});
+        //     }
+        // })
+        const inputText = this.state.inputText.trim().toLowerCase();
+        const result = allPlayersData.filter(player => player.name.toLowerCase().includes(inputText));
+        this.setState({ searchResult: result });
     }
 
     render(){
@@ -51,7 +56,8 @@ class PlayersDashboard extends PureComponent{
                       <input type='text' placeholder='Search here' onInput={this.searchPlayersHandler} value={this.state.inputText} onChange={this.inputTextChangeHandler} className={classes.search_input} />
                   </div>
                   <div className={classes.player_card_wrapper}>
-                      {
+
+                      { this.state.searchResult.length < 1 ?
                           allPlayersData.map((player, index) => {
                               return <PlayerCard 
                                   player_name={player.name}
@@ -59,6 +65,17 @@ class PlayersDashboard extends PureComponent{
                                   player_club={player.club}
                               />
                           })
+                        : null
+                      }
+                      { this.state.searchResult.length > 1 ?
+                          this.state.searchResult.map((player, index) => {
+                              return <PlayerCard 
+                                  player_name={player.name}
+                                  player_description={player.biography}
+                                  player_club={player.club}
+                              />
+                          })
+                        : null
                       }
                       {/* <PlayerCard />
                       <PlayerCard />
