@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Player({League}) {
+function Player() {
   return (
     <div>
       <table>

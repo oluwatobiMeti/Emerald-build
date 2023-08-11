@@ -1,12 +1,13 @@
 import React from 'react'
 
-function CategoriesNav({Leagues}) {
+function CategoriesNav() {
+  const leagues = ["premier League", "League 1"];
   return (
     <div>
-      <select name="Leagues" id="Leagues">
-             {Leagues.map((League) =>  <option value={League.name}>{League.name}</option>)}
-       </select>
-       <input className='' type='text'/>
+      <select name="league" id="league">
+         {leagues.map((league) =>
+          <option value={league}>{league}</option>)}
+      </select>
     </div>
   )
 }

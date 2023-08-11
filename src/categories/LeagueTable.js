@@ -1,4 +1,4 @@
-function LeagueTable({Leagues}) {
+function LeagueTable({}) {
   return (
     <div>
       <table>

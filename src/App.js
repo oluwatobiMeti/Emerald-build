@@ -12,6 +12,7 @@ import Contact from './Pages/Contact';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
 import ClubDashboard from './Dashboard/ClubDashboard';
 import Gallery from './Pages/Gallery';
+import Categories from './categories/Categories';
 
 function App() {
 
@@ -24,8 +25,8 @@ function App() {
         <Route path='Dashboard' element={<DashboardNav/>}/>
         <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
         <Route path='ClubDashboard' element={<ClubDashboard/>}/>
-        <Route path='Gallery' element={<Gallery/>}/>
-        
+        {/* <Route path='Gallery' element={<Gallery/>}/>
+        <Route path='Categories' element={<Categories/>}/> */}
       </Routes>
     </BrowserRouter>
   );
