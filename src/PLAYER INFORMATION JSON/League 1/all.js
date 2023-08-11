@@ -1,4 +1,4 @@
-[
+export const allPlayersData = [
     {
         "name": "Andy Delort",
         "club": "Montpellier HSC",

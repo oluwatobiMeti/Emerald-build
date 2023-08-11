@@ -10,6 +10,7 @@ import About from './Pages/About';
 import LeagueDashboard from './Dashboard/LeagueDashboard';
 import ClubDashboard from './Dashboard/ClubDashboard';
 import Gallery from './Pages/Gallery';
+import PlayersDashboard from './Dashboard/PlayersDashboard';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <Route path='Dashboard' element={<DashboardNav/>}/>
         <Route path='LeagueDashboard' element={<LeagueDashboard/>}/>
         <Route path='ClubDashboard' element={<ClubDashboard/>}/>
+        <Route path='PlayersDashboard' element={<PlayersDashboard/>}/>
         <Route path='Gallery' element={<Gallery/>}/>
       </Routes>
     </BrowserRouter>
