@@ -48,7 +48,10 @@ const LeagueSidebar = (props) => {
             </ul>
             <ul>
                 <h3 className={classes.other_features_header}>Other Features</h3>
-                <li>
+                <li onClick={() => { 
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 2}));
+                    props.router.navigate('/playersDashboard');
+                }}>
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Player Search</p>
                 </li>

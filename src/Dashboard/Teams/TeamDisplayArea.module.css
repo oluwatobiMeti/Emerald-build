@@ -8,3 +8,56 @@
     overflow-y: scroll;
     padding: 1rem;
 }
+
+@media (max-width: 980px) {
+    .team_display_area{
+        overflow: hidden;
+        height: 100%;
+        width: 90vw;
+        margin: auto;
+    }
+}
+@media (max-width: 780px) {
+    .team_display_area{
+        width: 95vw;
+    }   
+}
+
+@media (max-width: 730px) {
+    .team_display_area{
+        grid-template-columns: repeat(2, 1fr);
+        width: 87vw;
+    }
+}
+
+@media (max-width: 650px) {
+    .team_display_area{
+        grid-template-columns: repeat(2, 1fr);
+        width: 95vw;
+    }
+}
+
+@media (max-width: 600px) {
+    .team_display_area{
+        grid-template-columns: repeat(1, 1fr);
+        width: 75vw;
+    }
+}
+
+@media (max-width: 500px) {
+    .team_display_area{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 450px) {
+    .team_display_area{
+        width: 87vw;
+    }
+}
+
+@media (max-width: 380px) {
+    .team_display_area{
+        width: 90vw;
+    }
+}

@@ -91,3 +91,37 @@ margin-top: 0.5rem;
     gap: 0.5rem;
 }
 }
+
+
+@media (max-width: 950px) {
+    .lay_out{
+        display: flex;
+        flex-direction: column;
+    }
+    .lay_out .section{
+        width: 70vw;
+    }
+}
+
+@media (max-width: 630px) {
+    .lay_out .section{
+        width: 80vw;
+    }
+}
+@media (max-width: 550px) {
+    .lay_out{
+        margin: 2rem auto;
+    }
+    .lay_out .section{
+        width: 85vw;
+    }
+}
+@media (max-width: 510px) {
+    .lay_out{
+        width: 95vw;
+    }
+    .form_group{
+        flex-direction: column;
+        margin-left: 0;
+    }
+}
