@@ -4,6 +4,7 @@ import classes from "./TeamDisplayArea.module.css"
 import { LeaguesData } from "./LeaguesData";
 
 
+
 const TeamDisplayArea = () => {
     return(
         <div className={classes.team_display_area}>
@@ -16,6 +17,7 @@ const TeamDisplayArea = () => {
                         players_count="180+"
                         year_created={league.year_created}
                         stadium_count={league.stadiums_count}
+                        league_index={league.league_index}
                     />                    
                 })
             }
