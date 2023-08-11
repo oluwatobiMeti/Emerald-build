@@ -33,3 +33,28 @@
     font-size: 1.2rem;
     margin-top: 0.5rem;
 }
+
+
+@media (max-width: 980px) {
+    .league_sidebar{
+        width: 90vw;
+        margin: 2rem auto;
+    }
+    .league_sidebar ul{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 750px) {
+    .league_sidebar ul{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 470px) {
+    .league_sidebar ul{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

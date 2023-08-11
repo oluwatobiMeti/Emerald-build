@@ -12,3 +12,15 @@
 .league_dashboard_page::-webkit-scrollbar-track{
     display: none;
 }
+
+
+@media (max-width: 980px) {
+    .league_dashboard_area{
+        display: flex;
+        flex-direction: column;
+    }
+    .league_dashboard_page{
+        overflow-y: scroll;
+    }
+    
+}

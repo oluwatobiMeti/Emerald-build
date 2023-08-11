@@ -11,6 +11,9 @@
     align-items: center;
     width: 100%;
 }
+.what_we_do_content_wrapper > h2{
+    color: #37b24d;
+}
 .purpose_card_wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -29,6 +32,7 @@
 .purpose_card ion-icon{
     width: 3.5rem;
     height: 3.5rem;
+    color: #37b24d;
 }
 .purpose_card_txt{
     font-size: 1.15rem;

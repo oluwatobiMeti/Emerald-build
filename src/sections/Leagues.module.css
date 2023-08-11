@@ -17,6 +17,7 @@ body{
 }
 .leagues_header{
     font-size: 1.8rem;
+    color: #1e8531;
 }
 .league_cards_wrapper{
     display: grid;

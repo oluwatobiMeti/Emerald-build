@@ -167,7 +167,7 @@ export const AllLeaguesTeams = [
         {
           "name": "Bayern Munich",
           "overview": "Bayern Munich, based in Munich, Germany, is one of the most successful football clubs in the world. The team has a dominant presence in German football and has achieved international success.",
-          "flag": "https://example.com/bayern_munich_flag.jpg"
+          "flag": "https://wallpaperaccess.com/full/2308835.jpg"
         },
         {
           "name": "Borussia Dortmund",
@@ -253,187 +253,170 @@ export const AllLeaguesTeams = [
       [
         {
           "name": "Juventus",
-          "flag": "https://example.com/juventus_flag.png",
+          "flag": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt578e04ccc968559d/60df806bcc810807a32ff64e/9d4791c67b1bfa8140c528cae0a6d97c2ed0f702.png?auto=webp&format=pjpg&width=3840&quality=60",
           "overview": "Juventus is one of the most successful football clubs in Italy. Based in Turin, they have a rich history of Serie A dominance and have produced legendary players."
         },
         {
           "name": "AC Milan",
-          "flag": "https://example.com/ac_milan_flag.png",
+          "flag": "data:image/png;base64,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",
           "overview": "AC Milan, founded in 1899, is one of the most storied football clubs globally, with numerous Serie A titles and European trophies to their name."
         },
         {
           "name": "Inter Milan",
-          "flag": "https://example.com/inter_milan_flag.png",
+          "flag": "https://static.independent.co.uk/2021/03/30/12/ExtfjRKWUAIuGq0.jpg?width=1200&height=900&fit=crop",
           "overview": "Inter Milan, also known simply as Inter, is a fierce competitor in Serie A. They have a strong fan base and have enjoyed periods of domestic and international success."
         },
         {
           "name": "AS Roma",
-          "flag": "https://example.com/as_roma_flag.png",
+          "flag": "https://wallpapercave.com/wp/wp5387764.jpg",
           "overview": "AS Roma is a prominent Italian club with a passionate following. They have had memorable Serie A campaigns and notable runs in European competitions."
         },
         {
           "name": "Napoli",
-          "flag": "https://example.com/napoli_flag.png",
+          "flag": "https://e1.pxfuel.com/desktop-wallpaper/667/820/desktop-wallpaper-world-cup-ssc-napoli-logo-ssc-napoli.jpg",
           "overview": "Napoli, based in Naples, is known for their attacking style of play and have had a resurgence in recent years, challenging for the Serie A title."
         },
         {
           "name": "Lazio",
-          "flag": "https://example.com/lazio_flag.png",
+          "flag": "https://i.pinimg.com/originals/22/b9/38/22b9381c1809c3a7647ef1ad5e597906.png",
           "overview": "Lazio is a strong contender in Serie A, based in Rome. They have a loyal fan base and have achieved success domestically and in European competitions."
         },
         {
           "name": "Atalanta",
-          "flag": "https://example.com/atalanta_flag.png",
+          "flag": "https://1000logos.net/wp-content/uploads/2018/06/logo-atalanta-calcio.jpg",
           "overview": "Atalanta, from Bergamo, is known for their exciting attacking football and high-scoring matches. They have impressed both in Serie A and in European tournaments."
         },
         {
           "name": "Fiorentina",
-          "flag": "https://example.com/fiorentina_flag.png",
+          "flag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1vzkv4r5iOiDhmODlImfupMpkWi20bfADvzFrTAK31FlPFZ18ySlYT573XHV9fyX9kBy6rbcJO4XQDbyDVyJ6YB1khdVUtKXI632vFHPLPa-wfVWFhosGaCWen5oH26cbXedb0xSffxdgszHKXhgDvFCmFci8lpBlynS5nv5D19hI4ev3g86f8El/s1000/new-fiorentina-logo-2022-23-3.jpg",
           "overview": "Fiorentina, based in Florence, has a rich history and has produced great talents. They aim to challenge the top teams in Serie A."
         },
         {
           "name": "Sampdoria",
-          "flag": "https://example.com/sampdoria_flag.png",
+          "flag": "https://1000logos.net/wp-content/uploads/2018/06/logo-sampdoria-calcio.jpg",
           "overview": "Sampdoria, from Genoa, has had its moments of Serie A success and is known for its resilient spirit and competitive nature."
         },
         {
           "name": "Sassuolo",
-          "flag": "https://example.com/sassuolo_flag.png",
+          "flag": "https://1000logos.net/wp-content/uploads/2018/06/logo-sassuolo-calcio.jpg",
           "overview": "Sassuolo, a relatively young club, has made a name for itself with an attractive style of play and a focus on nurturing young talents."
         },
         {
           "name": "Udinese",
-          "flag": "https://example.com/udinese_flag.png",
+          "flag": "https://udinese.cdn.xpl.io/xsr-img/56603/ita/549x493/1/logo-neutro.jpeg",
           "overview": "Udinese, based in Udine, has consistently participated in Serie A and is known for its commitment to developing local talents."
         },
         {
           "name": "Genoa",
-          "flag": "https://example.com/genoa_flag.png",
+          "flag": "https://data2.nssmag.com/images/galleries/31993/Genoa-nss%281%29.png",
           "overview": "Genoa, one of the oldest football clubs, has a rich history and has contributed to Italian football. They have a strong local following."
         },
         {
           "name": "Cagliari",
-          "flag": "https://example.com/cagliari_flag.png",
+          "flag": "https://1000logos.net/wp-content/uploads/2018/11/Cagliari-Logo.jpg",
           "overview": "Cagliari, from Sardinia, competes in Serie A and has had periods of notable success. They aim to establish themselves as a consistent force."
         },
         {
           "name": "Bologna",
-          "flag": "https://example.com/bologna_flag.png",
+          "flag": "https://1000logos.net/wp-content/uploads/2018/06/logo-bologna-calcio.jpg",
           "overview": "Bologna, a historic club, has participated in Serie A for many years. They have a strong connection with their city and fans."
         },
         {
           "name": "Verona",
-          "flag": "https://example.com/verona_flag.png",
+          "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjEctYlGDVXegzmIL5i4ciNodUC2Tw_z7qQ&usqp=CAU",
           "overview": "Verona, based in Verona, has had its share of Serie A campaigns and is known for its fighting spirit and determination."
-        },
-        {
-          "name": "Torino",
-          "flag": "https://example.com/torino_flag.png",
-          "overview": "Torino, based in Turin, has a rich history and has achieved success both domestically and in European competitions."
         }
       ],
       [
         {
           name: "Paris Saint-Germain",
-          flag: "https://example.com/psg_flag.png",
+          flag: "https://logovectordl.com/wp-content/uploads/2021/05/paris-saint-germain-logo-vector.png",
           overview:
             "Paris Saint-Germain, commonly known as PSG, is one of the most successful and high-profile football clubs in France. They have won multiple Ligue 1 titles and compete at the highest level of European competitions.",
         },
         {
           name: "Olympique de Marseille",
-          flag: "https://example.com/marseille_flag.png",
+          flag: "https://c4.wallpaperflare.com/wallpaper/746/813/290/soccer-olympique-de-marseille-emblem-logo-hd-wallpaper-preview.jpg",
           overview:
             "Olympique de Marseille is a storied French club with a passionate fan base. They have a rich history in domestic and European competitions, and their matches are known for their intense atmosphere.",
         },
         {
           name: "Olympique Lyonnais",
-          flag: "https://example.com/lyon_flag.png",
+          flag: "https://pro2-bar-s3-cdn-cf2.myportfolio.com/d832de2aaf4fb305c4393ff2424b21cd/ded01271-5f92-4e1e-8416-d5d17bfcd1f8_rw_1920.png?h=ac55e3bcc5f1e2fccaa66b2001ac76ce",
           overview:
             "Olympique Lyonnais, often referred to as Lyon, is recognized for its strong academy and attractive style of play. They have won numerous Ligue 1 titles and have a successful track record in Europe.",
         },
         {
           name: "AS Monaco",
-          flag: "https://example.com/monaco_flag.png",
+          flag: "https://c4.wallpaperflare.com/wallpaper/21/45/275/soccer-as-monaco-fc-emblem-logo-hd-wallpaper-preview.jpg",
           overview:
             "AS Monaco is known for its emphasis on developing young talents and playing attacking football. They have a history of challenging for the Ligue 1 title and have also reached the UEFA Champions League final.",
         },
         {
           name: "Lille OSC",
-          flag: "https://example.com/lille_flag.png",
+          flag: "https://c4.wallpaperflare.com/wallpaper/400/645/72/soccer-lille-osc-emblem-logo-hd-wallpaper-preview.jpg",
           overview:
             "Lille OSC, based in Lille, has a reputation for nurturing talents and competing effectively in Ligue 1. They secured a surprising Ligue 1 title victory in recent years.",
         },
         {
           name: "Stade Rennais FC",
-          flag: "https://example.com/rennes_flag.png",
+          flag: "https://w0.peakpx.com/wallpaper/991/908/HD-wallpaper-stade-rennais-fc-logo-creative-art-red-black-checkered-flag-french-football-club-ligue-1-emblem-silk-texture-rennes-france-football.jpg",
           overview:
             "Stade Rennais FC, commonly known as Rennes, is a competitive club with a focus on developing young players. They aim to challenge the top teams in Ligue 1.",
         },
         {
           name: "OGC Nice",
-          flag: "https://example.com/nice_flag.png",
+          flag: "https://w0.peakpx.com/wallpaper/886/1009/HD-wallpaper-ogc-nice-logo-creative-art-red-black-checkered-flag-french-football-club-ligue-1-emblem-silk-texture-nice-france-football-nice-fc.jpg",
           overview:
             "OGC Nice, based in Nice, aims to play attractive football and challenge for European qualification spots. They have a loyal fan base and a solid presence in Ligue 1.",
         },
         {
           name: "Montpellier HSC",
-          flag: "https://example.com/montpellier_flag.png",
+          flag: "https://w0.peakpx.com/wallpaper/904/476/HD-wallpaper-montpellier-hsc-logo-creative-art-blue-orange-checkered-flag-french-football-club-ligue-1-emblem-silk-texture-montpellier-france-football-montpellier-fc.jpg",
           overview:
             "Montpellier HSC, known for their unity and teamwork, achieved a surprise Ligue 1 title victory in the past. They continue to be a competitive force in the league.",
         },
         {
           name: "Stade de Reims",
-          flag: "https://example.com/reims_flag.png",
+          flag: "https://w0.peakpx.com/wallpaper/991/908/HD-wallpaper-stade-rennais-fc-logo-creative-art-red-black-checkered-flag-french-football-club-ligue-1-emblem-silk-texture-rennes-france-football.jpg",
           overview:
             "Stade de Reims is a traditional French club with a history of success. They have achieved domestic and European milestones and look to build on their legacy.",
         },
         {
           name: "RC Lens",
-          flag: "https://example.com/lens_flag.png",
+          flag: "https://www.1min30.com/wp-content/uploads/2019/09/RC-Lens.jpg",
           overview:
             "RC Lens, based in Lens, has returned to Ligue 1 after periods in lower divisions. They aim to establish themselves and compete at a high level.",
         },
         {
           name: "FC Nantes",
-          flag: "https://example.com/nantes_flag.png",
+          flag: "https://data2.nssmag.com/images/galleries/20144/nantes-01.jpg",
           overview:
             "FC Nantes is a historic club with a rich heritage in French football. They have experienced periods of success and continue to be a respected team.",
         },
         {
           name: "Angers SCO",
-          flag: "https://example.com/angers_flag.png",
+          flag: "https://w.forfun.com/fetch/d4/d4469a1a540b1b474c141595889e309f.jpeg",
           overview:
             "Angers SCO, based in Angers, competes in Ligue 1 and focuses on solid team play. They aim to achieve consistent performances and growth.",
         },
         {
           name: "Strasbourg",
-          flag: "https://example.com/strasbourg_flag.png",
+          flag: "https://cdn.vox-cdn.com/thumbor/uG3KwEHxs_jdCu-kO04OlmcSEUo=/0x0:6192x4128/1200x800/filters:focal(3936x1374:4926x2364)/cdn.vox-cdn.com/uploads/chorus_image/image/72011802/1244754454.0.jpg",
           overview:
             "Strasbourg, also known as Racing Club de Strasbourg Alsace, has a rich history in French football. They strive to compete at a high level in Ligue 1.",
         },
         {
-          name: "FC Metz",
-          flag: "https://example.com/metz_flag.png",
-          overview:
-            "FC Metz, based in Metz, is a competitive team in Ligue 1. They aim to establish a strong presence and challenge top opponents.",
-        },
-        {
           name: "AS Saint-Étienne",
-          flag: "https://example.com/saint_etienne_flag.png",
+          flag: "https://i.ytimg.com/vi/hD9HBlBJWEc/maxresdefault.jpg",
           overview:
             "AS Saint-Étienne, often referred to as ASSE, is a historically significant club in French football. They have a dedicated fan base and a rich legacy.",
         },
         {
           name: "Brest",
-          flag: "https://example.com/brest_flag.png",
+          flag: "https://w0.peakpx.com/wallpaper/84/659/HD-wallpaper-stade-brestois-29-brest-fc-silk-texture-logo-red-white-silk-flag-french-football-club-emblem-ligue-2-brest-france-football.jpg",
           overview:
             "Brest, based in Brest, competes in Ligue 1 and focuses on consistent performances. They aim to make their mark in French football.",
-        },
-        {
-          name: "FC Lorient",
-          flag: "https://example.com/lorient_flag.png",
-          overview:
-            "FC Lorient, based in Lorient, is known for its commitment to youth development. They strive to compete strongly in Ligue 1.",
         },
     ]      
 ];

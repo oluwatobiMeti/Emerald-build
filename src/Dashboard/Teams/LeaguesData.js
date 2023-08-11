@@ -47,12 +47,12 @@ export const LeaguesData = [
         "stadiums_count": "20",
         "league_index": 4
       },
-      {
-        "league_name": "Champions League",
-        "league_image": champ_league_img,
-        "total_teams": "32",
-        "year_created": "1952",
-        "stadiums_count": "20"
-      }
+      // {
+      //   "league_name": "Champions League",
+      //   "league_image": champ_league_img,
+      //   "total_teams": "32",
+      //   "year_created": "1952",
+      //   "stadiums_count": "20"
+      // }
     ]
   
