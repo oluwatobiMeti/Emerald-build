@@ -8,6 +8,9 @@
     background-color: black;
     color: white;
 }
+.paragraphs{
+    line-height: 1.8;
+}
 #section {
     width: 20%;
 }
