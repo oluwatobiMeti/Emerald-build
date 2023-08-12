@@ -44,6 +44,7 @@
         justify-content: space-between;
         align-items: center;
         margin: 0;
+        gap: 0;
     }
     .hero__content {
         margin-right: 0;
@@ -52,5 +53,16 @@
     .hero__img {
         margin: 0;
         width: 70%;
+        object-fit: contain;
+    }
+}
+
+@media (max-width: 500px) {
+    .hero__content{
+        width: 85%;
+        margin-top: 2rem;
+    }
+    .hero__header{
+        font-size: 2.5rem;
     }
 }

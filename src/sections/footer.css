@@ -1,3 +1,6 @@
+.footer_wrapper{
+    background: black;
+}
 .footer {
     width: 100%;
     display: flex;
@@ -14,7 +17,7 @@
 #section {
     width: 20%;
 }
-@media (min-width: 400px) and (max-width: 800px) {
+/* @media (min-width: 400px) and (max-width: 800px) {
     .footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -30,5 +33,35 @@
         align-items: center;
         justify-content: space-between;
         gap: 2rem;
+    }
+} */
+
+
+
+@media (max-width: 890px) {
+    .footer{
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        justify-content: center;
+        text-align: center;
+        width: 70vw;
+        margin: auto;
+        padding: 3rem 0;
+    }
+    #section{
+        width: 100%;
+    }
+    #section h3{
+        font-size: 1.5rem;
+    }
+    #section p{
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 750px) {
+    .footer{
+        width: 90vw;
     }
 }

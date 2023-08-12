@@ -2,6 +2,7 @@ import React from 'react'
 import img from "../images/hero1.png"
 import "./hero.css";
 import ButtonLink from './ButtonLink';
+
 function Hero() {
   return (
     <div className='hero'>
