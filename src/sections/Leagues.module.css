@@ -29,7 +29,7 @@ body{
 }
 .league_card{
     width: 20rem;
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.356);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.123);
     border-radius: 0.7rem;
     overflow: hidden;
 }

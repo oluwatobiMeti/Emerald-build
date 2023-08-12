@@ -43,6 +43,9 @@ function Footer() {
                 </div>
             </div>
           </div>
+          <div className="copyright">
+            <p>Copyright &copy; Team Emerald </p>
+          </div>
     </div>
   )
 }

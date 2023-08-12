@@ -24,7 +24,7 @@
 .testimonial_card{
     display: grid;
     grid-template-columns: auto 1fr;
-    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.233);
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.137);
     border-radius: 0.6rem;
     overflow: hidden;
     gap: 0.5rem;
