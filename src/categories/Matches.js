@@ -1,8 +1,8 @@
 import React from 'react';
 
 function Matches({date}) {
-   const {League} = premier;
-   console.log(League);
+  //  const {League} = premier;
+  //  console.log(League);
    
   return (
     <div>
