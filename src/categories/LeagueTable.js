@@ -1,7 +1,7 @@
+import League1 from "./premierLeague.json";
 
 function LeagueTable(show) {
-  // let {Leagues} = Laliga;
-
+   console.log(PremierLeagueClubs)
   return (
     
     <div className="leagueTable">
@@ -13,22 +13,14 @@ function LeagueTable(show) {
     <th>D</th>
     <th>L</th>
     <th>GA</th>
-  </tr>
-  {/* <tr>
-    {Leagues.map((club) => <td>{club.name}</td>)}
-  </tr>
-  <tr>
-  {Leagues.map((club) => <td>{club.wins}</td>)}
-  </tr>
-  <tr>
-  {Leagues.map((club) => <td>{club.draws}</td>)}
-  </tr>
-  <tr>
-  {Leagues.map((club) => <td>{club.losses}</td>)}
-  </tr>
-  <tr>
-  {Leagues.map((club) => <td>{club.total_goals_scored}</td>)} */}
-  {/* </tr> */}
+  </tr> 
+  {PremierLeagueClubs.map(Clubs => <tr>
+    <td>{Clubs.name}</td>
+    <td>{Clubs.wins}</td>
+    <td>{Clubs.draws}</td>
+    <td>{Clubs.losses}</td>
+    <td>{Clubs.totalGoalsScored}</td>
+  </tr>)}
 </table>
     </div>
   )

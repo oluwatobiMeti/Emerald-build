@@ -5,7 +5,7 @@ import CategoriesNav from './CategoriesNav';
 function CategoriesDetails({show}) {
   return (
     <div>
-      {(show === "Leagues")? <LeagueTable/>:<Matches/>}
+      {(show === "Leagues")? <LeagueTable/>:(show === "Leagues")?<Matches/>:<LeagueTable/>}
     </div>
   )
 }
