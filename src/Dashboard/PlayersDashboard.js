@@ -1,6 +1,5 @@
 import React from 'react';
 import DashboardNav from './DashboardNav';
-import { faChampagneGlasses } from '@fortawesome/free-solid-svg-icons';
 import classes from "./PlayersDashboard.module.css";
 import img from "../images/players/lewandoski.jpg";
 import { allPlayersData } from '../PLAYER INFORMATION JSON/League 1/all';
@@ -10,12 +9,14 @@ const PlayerCard = (props) => {
     return(
         <div className={classes.player_card_container}>
             <div className={classes.player_card_image_wrapper}>
-                <img src={img} alt='' className={classes.card_image} />
+                <img src={props.player_pic} alt='' className={classes.card_image} />
             </div>
             <div className={classes.player_card_content_wrapper}>
                 <h3 className={classes.player_card_header}>{props.player_name}</h3>
                 <p className={classes.player_card_text}>{props.player_description}</p>
-                <p>Club: {props.player_club}</p>
+                <p className={classes.stat_text}>Total Assist: {props.goalsScored}</p>
+                <p className={classes.stat_text}>Goals Scored: {props.assists}</p>
+                <p className={classes.stat_text}>Club: {props.player_club}</p>
             </div>
         </div>
     );
@@ -24,26 +25,32 @@ const PlayerCard = (props) => {
 class PlayersDashboard extends PureComponent{
     state = {
         inputText: "",
-        searchResult: []
+        searchResult: [],
+        sortCriteria: "name"
     }
 
     inputTextChangeHandler = (e) => {
         this.setState({inputText: e.target.value});
+        this.searchPlayersHandler();
     }
 
     searchPlayersHandler = () => {
-        // const result = [];
-        // const inputText = this.state.inputText;
-        // allPlayersData.forEach((player) => {
-        //     if (player.name.toString().toLowerCase().includes(inputText.toLocaleLowerCase())) {
-        //         console.log(player);
-        //         result.push(player);
-        //         this.setState({searchResult: result});
-        //     }
-        // })
         const inputText = this.state.inputText.trim().toLowerCase();
-        const result = allPlayersData.filter(player => player.name.toLowerCase().includes(inputText));
-        this.setState({ searchResult: result });
+        if (this.state.sortCriteria == "name") {
+            const result = allPlayersData.filter(player => player.name.toLowerCase().includes(inputText));
+            this.setState({ searchResult: result });  
+        }else if(this.state.sortCriteria == "club"){
+            const result = allPlayersData.filter(player => player.club.toLowerCase().includes(inputText));
+            this.setState({ searchResult: result });            
+        }else if(this.state.sortCriteria == "goals"){
+            const result = allPlayersData.filter(player => player.performance[0].goalsScored >= inputText);
+            this.setState({ searchResult: result });      
+        }
+    }
+
+    sortCriteriaChangeHandler = (e) => {
+        this.setState({sortCriteria: e.target.value});
+        this.searchPlayersHandler();
     }
 
     render(){
@@ -53,8 +60,14 @@ class PlayersDashboard extends PureComponent{
       
             <div className={classes.player_card_search_area}>
                   <div className={classes.search_input_wrapper}>
-                      <input type='text' placeholder='Search here' onInput={this.searchPlayersHandler} value={this.state.inputText} onChange={this.inputTextChangeHandler} className={classes.search_input} />
-                  </div>
+                    <select className={classes.player_card_options} onChange={this.sortCriteriaChangeHandler}>
+                        <option>Sort by</option>
+                        <option value="name">Name</option>
+                        <option value="club">Club</option>
+                        <option value="goals">Goals Scored</option>
+                    </select>
+                      <input type='text' placeholder='Search here' value={this.state.inputText} onChange={this.inputTextChangeHandler} onInput={this.searchPlayersHandler} className={classes.search_input} />
+                </div>
                   <div className={classes.player_card_wrapper}>
 
                       { this.state.searchResult.length < 1 ?
@@ -63,6 +76,9 @@ class PlayersDashboard extends PureComponent{
                                   player_name={player.name}
                                   player_description={player.biography}
                                   player_club={player.club}
+                                  player_pic={player.player_pic}
+                                  goalsScored={player.performance[0].goalsScored}
+                                  assists={player.performance[0].assists}
                               />
                           })
                         : null
@@ -73,6 +89,9 @@ class PlayersDashboard extends PureComponent{
                                   player_name={player.name}
                                   player_description={player.biography}
                                   player_club={player.club}
+                                  player_pic={player.player_pic}
+                                  goalsScored={player.performance[0].goalsScored}
+                                  assists={player.performance[0].assists}
                               />
                           })
                         : null

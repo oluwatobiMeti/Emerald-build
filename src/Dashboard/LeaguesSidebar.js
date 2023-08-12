@@ -53,7 +53,7 @@ const LeagueSidebar = (props) => {
                     props.router.navigate('/playersDashboard');
                 }}>
                     <ion-icon name="football-outline"></ion-icon>
-                    <p>Player Search</p>
+                    <p>Player Gallery</p>
                 </li>
                 <li>
                     <ion-icon name="football-outline"></ion-icon>
