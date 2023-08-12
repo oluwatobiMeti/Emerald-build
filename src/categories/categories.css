@@ -61,3 +61,8 @@ table {
     display: flex;
     padding: 4px 1rem;
   }
+  .lineup {
+    color: white;
+    background-color: #37b24d;
+    font-size: 20px;
+  }

@@ -1,11 +1,6 @@
 import League1 from "./premierLeague.json";
-import League2 from "./Laliga.json"
-import League3 from "./GermerLeague.json"
-import Clubs from "../Dashboard/Teams/Clubs";
+
 function LeagueTable(show) {
-   const {PremierLeagueClubs} =League1;
-   const {LaLiga} = League2;
-   const {German} = League3;
    console.log(PremierLeagueClubs)
   return (
     

@@ -1,5 +1,5 @@
-import React from 'react'
-import premier from "./en.1.json"
+import React from 'react';
+import 
 
 function Matches({date}) {
    const {League} = premier;
@@ -11,6 +11,7 @@ function Matches({date}) {
       {League.map((match) => {console.log(match.matches.team1)
       <Match club1 = {match.matches.team1} club1Icon = {""} club2Icon = {""} club2 = {League.matches.team2} goal1 = {League.matches.score.ft[0]} goal2 = {League.matches.score.ft[0]}/>
        } )} */}
+       
     </div>
 
   )
