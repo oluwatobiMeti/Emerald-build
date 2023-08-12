@@ -1,7 +1,7 @@
 import League1 from "./premierLeague.json";
 
 function LeagueTable(show) {
-   console.log(PremierLeagueClubs)
+   const {PremierLeagueClubs} = League1;
   return (
     
     <div className="leagueTable">
