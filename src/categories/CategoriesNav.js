@@ -3,20 +3,15 @@ import React from 'react'
 import Button from '../component/Button';
 
 function CategoriesNav({setShow}) {
-  const Leagues = ["German League", "La Lilg", "league 1", "premier League", "Serie A"]
+  const Leagues = ["premier League", "German League", "La Lilg", "league 1","Serie A"]
   return (
    
-     <div style={{
-      height: "2.5rem",
-      width: "100%",
-      fontSize: "20px",
-      display: "flex"
-     }}>
-      <select name="League" id="League">
+     <div className='categories__nav'>
+      <select onClick={() => setShow("Leagues")} name="League" id="League">
         {Leagues.map((League) => 
-         <option onClick={() => setShow(League)} value={League}>{League}</option>)}
+         <option value={League}>{League}</option>)}
        </select>
-       <Button className="categories_btn" title="Matches"/>
+       <Button onClick={() => setShow("Matches")} className="categories_btn" title="Matches"/>
     </div>
     )
     }
