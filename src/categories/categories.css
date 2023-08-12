@@ -6,21 +6,25 @@
 }
 .leagueTable__header {
     width: 100%;
-    display: flex;
-    justify-content: space-between;
-    margin: auto;
     text-align: center;
+}
+.leagueTable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10%;
 }
 table {
     border-collapse: collapse;
     width: 90vw;
+    margin: 2rem auto;
   }
   
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
     font-size: small;
-    max-width: 100px;
+    width: fit-content;
   }
   .match {
     display: flex;
@@ -65,4 +69,11 @@ table {
     color: white;
     background-color: #37b24d;
     font-size: 20px;
+  }
+  @media (max-width: 700px) {
+    .categories__nav {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
   }

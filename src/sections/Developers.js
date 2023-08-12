@@ -30,29 +30,29 @@ const Developers = () => {
         <div className={classes.developers_card}>
             <img src={dev2} className={classes.developers_card_image} />
             <div className={classes.developers_description_wrapper}>
-                <h3></h3>
-                <p>My name is David Micah-Daniels and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
+                <h3>Bankola Eyinjijeu</h3>
+                <p>My name is Bankola Eyinjijeu and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
             </div>
         </div>
         <div className={classes.developers_card}>
             <img src={dev3} className={classes.developers_card_image} />
             <div className={classes.developers_description_wrapper}>
-                <h3>David Micah-Daniels</h3>
-                <p>My name is David Micah-Daniels and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
+                <h3>Eze chinedu</h3>
+                <p>My name is Eze chinedu and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
             </div>
         </div>
         <div className={classes.developers_card}>
             <img src={dev5} className={classes.developers_card_image} />
             <div className={classes.developers_description_wrapper}>
-                <h3>David Micah-Daniels</h3>
-                <p>My name is David Micah-Daniels and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
+                <h3>Zainab motunnayo animashawa</h3>
+                <p>My name is Zainab motunnayo animashawa and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
             </div>
         </div>
         <div className={classes.developers_card}>
             <img src={dev6} className={classes.developers_card_image} />
             <div className={classes.developers_description_wrapper}>
-                <h3>David Micah-Daniels</h3>
-                <p>My name is David Micah-Daniels and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
+                <h3>Fadahunsi abdul-malik</h3>
+                <p>My name is Fadahunsi abdul-malik and i am a React developer, i am very skilled in javascript and javascript libaries.</p>
             </div>
         </div>
       </div>
