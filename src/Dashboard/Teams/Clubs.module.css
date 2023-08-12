@@ -43,8 +43,63 @@
 
 @media (max-width: 980px) {
     .club_card_display_area{
-        overflow: hidden;
         margin: auto;
+        width: 90vw;
+        height: 100%;
+        overflow: hidden;
+    }
+    .club_card{
+        height: auto;
+    }
+    .club_card_image_area{
+        height: 20vh;
+    }
+}
+
+
+@media (max-width: 770px) {
+    .club_cards_wrapper{
+        grid-template-columns: repeat(2, 1fr);
         width: 80vw;
+        padding: 2rem 0;
+        gap: 2.5rem;
+        margin: auto;
+    }
+}
+
+@media (max-width: 620px) {
+    .club_cards_wrapper{
+        width: 90vw;
+    }
+}
+
+@media (max-width: 530px) {
+    .club_cards_wrapper{
+        grid-template-columns: repeat(1, 1fr);
+        width: 70vw;
+    }
+    .club_card_image_area{
+        height: 25vh;
+    }
+    .club_card_text_area{
+        line-height: 1.8;
+        font-size: 1.1rem;
+    }
+}
+
+
+@media (max-width: 470px) {
+    .club_cards_wrapper{
+        width: 80vw;
+    }
+}
+
+
+@media (max-width: 390px) {
+    .club_cards_wrapper{
+        width: 90vw;
+    }
+    .club_card_text_area{
+        line-height: 1.6;
     }
 }

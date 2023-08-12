@@ -66,3 +66,36 @@
     }
 }
 
+@media (max-width: 650px) {
+    .testimonial_cards_wrapper{
+        width: 65vw;
+        margin-top: 1rem;
+    }
+    .testimonial_card{
+        display: flex;
+        flex-direction: column;
+    }
+    .testimonial__image_wrapper{
+        width: 100%;
+        height: 50vh;
+    }
+}
+
+
+@media (max-width: 670px) {
+    .testimonial_cards_wrapper{
+        width: 75vw;
+    }
+}
+
+@media (max-width: 460px) {
+    .testimonial_cards_wrapper{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 390px) {
+    .testimonial_cards_wrapper{
+        width: 90vw;
+    }
+}

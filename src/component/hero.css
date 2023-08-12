@@ -2,6 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 2rem;
+    gap: 2rem;
+    background: rgb(247, 247, 247);
 }
 .hero__content {
     width: 30vw;
@@ -9,7 +12,8 @@
     margin-right: 5rem;
 }
 .hero__img {
-    width: 30vw;
+    width: 35vw;
+    height: 80vh;
     object-fit: contain;
     margin-right: 7rem;
 }
@@ -17,8 +21,9 @@
     font-size: 3rem;
 }
 .hero__subheader {
-    font-size: 1rem;
+    font-size: 1.3rem;
     margin-top: 10px;
+    line-height: 1.7;
 }
 .hero__btn {
     padding: .4rem 1.2rem;

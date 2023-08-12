@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "../images/8-83928_soccer-united-athlete-bedworth-football-f-soccer-ball-removebg-preview.png"
+import img from "../images/hero1.png"
 import "./hero.css";
 import ButtonLink from './ButtonLink';
 function Hero() {
@@ -8,7 +8,7 @@ function Hero() {
       <div className="hero__content">
         <h1 className='hero__header'>JOIN THE ELITE!</h1>
         <p className='hero__subheader'>
-           Introducing Soccerverse.  A multiplayer, community-driven football management.
+           Introducing Soccerverse.  A football management system for your Desired Leagues, Clubs and players. Access your stats and scores now!
         </p>
         <ButtonLink className="hero__btn" title="Explore"/>
       </div>

@@ -10,10 +10,10 @@
     margin: auto;
     gap: 1.5rem;
 }
-.club_dashboard_page::-webkit-scrollbar,
+/* .club_dashboard_page::-webkit-scrollbar,
 .club_dashboard_page::-webkit-scrollbar-track{
     display: none;
-}
+} */
 
 .club_card_wrapper{
     margin: 2rem auto;
@@ -23,10 +23,13 @@
 }
 
 @media (max-width: 980px) {
+    .club_dashboard_page{
+        overflow-y: scroll;
+    }
     .club_dashboard_area{
         display: flex;
         flex-direction: column;
-        overflow-y: scroll;
-        height: 100vh;
+        justify-content: center;
+        align-items: center;
     }
 }

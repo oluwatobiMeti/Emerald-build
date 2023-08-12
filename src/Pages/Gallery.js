@@ -2,7 +2,7 @@ import react from "react";
 import DashboardNav from "../Dashboard/DashboardNav";
 import Footer from "../sections/Footer";
 
-const CategoriesGallery = () => {
+const Gallery = () => {
     return(
         <div>
            <DashboardNav/>

@@ -62,23 +62,64 @@ body{
 .league_link{
     color: #1e8531;
 }
-@media (max-width: 800px) {
-    .league_cards_wrapper {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .league_card {
-        width: 25rem;
-    }
-}
-@media (min-width: 800px) and (max-width: 1000px) {
-    .league_cards_wrapper {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-    }
 
+
+@media (max-width: 1100px) {
+    .league_card{
+        width: 100%;
+    }
+    .league_cards_wrapper{
+        width: 90vw;
+        gap: 2rem;
+    }
 }
-/* @media (min-width: 800px) and (max-width: 1000px) { */
+
+@media (max-width: 930px) {
+    .league_cards_wrapper{
+        grid-template-columns: repeat(2, 1fr);
+        width: 75vw;
+    }
+}
+
+@media (max-width: 755px) {
+    .league_cards_wrapper{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 700px) {
+    .league_cards_wrapper{
+        width: 85vw;
+    }
+}
+
+@media (max-width: 660px) {
+    .league_cards_wrapper{
+        width: 90vw;
+    }
+}
+
+@media (max-width: 600px) {
+    .league_cards_wrapper{
+        grid-template-columns: repeat(1, 1fr);
+        width: 70vw;
+    }
+    .league_card_img{
+        height: 15rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .league_cards_wrapper{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 400px) {
+    .league_cards_wrapper{
+        width: 90vw;
+    }
+    .league_card_img{
+        height: 13rem;
+    }
+}
