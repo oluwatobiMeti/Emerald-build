@@ -1,6 +1,8 @@
 import './App.css';
 import Home from './Pages/Home';
 import DashboardNav from './Dashboard/DashboardNav';
+import TeamPlayersGroup from './Dashboard/TeamPlayersGroup';
+
 import {
   BrowserRouter,
   Routes,
@@ -25,6 +27,7 @@ function App() {
         <Route path='ClubDashboard' element={<ClubDashboard/>}/>
         <Route path='Categories' element={<Categories/>}/>
         <Route path='PlayersDashboard' element={<PlayersDashboard/>}/>
+        <Route path='TeamPlayersGroup' element={<TeamPlayersGroup/>}/>
         <Route path='Gallery' element={<Gallery/>}/>
       </Routes>
     </BrowserRouter>

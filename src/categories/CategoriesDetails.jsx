@@ -1,11 +1,11 @@
 import Matches from './Matches';
 import LeagueTable from './LeagueTable';
-import CategoriesNav from './CategoriesNav';
+// import CategoriesNav from './CategoriesNav';
 
-function CategoriesDetails({show}) {
+function CategoriesDetails({show, League}) {
   return (
     <div>
-      {(show === "Leagues")? <LeagueTable/>:(show === "Leagues")?<Matches/>:<LeagueTable/>}
+      {(show === "Leagues")? <LeagueTable League={League}/>:(show === "Matches")?<Matches/>:<LeagueTable League={League}/>}
     </div>
   )
 }

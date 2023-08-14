@@ -5,18 +5,17 @@ function AboutForm() {
   return (
         <div class="lay_out">
             <div class="section">
-                <p class="section__text">Book a concultation</p>
-                <p class="section__text">Environmental Health Services Limited</p>
-                <p>5, Smithills vale</p>
-                <p>Bolton BLI GN</p>
+                <p class="section__text">Get Match Updates.</p>
+                <p class="section__text">Submit your email for email updates.</p>
+                <p>05 Modupe house</p>
+                <p>Adqamasingba ibadan</p>
 
                 <p class="section__text">Phone:</p>
-                <p>+(44)07988079947</p>
+                <p>+(234)7035326207</p>
 
                 <p class="section__text">Email:</p>
-                <p>example@gmail.com</p>
-                <p class="aim_txt">We aim to respond to all queries within 48 hours. Follow us on out social media
-                    channels for the latest updates and resources. We look froward to hearing from you! 
+                <p>aptechibadan@gmail.com</p>
+                <p class="aim_txt">We aim to respond to all queries within 48 hours.  We look froward to hearing from you! drop your mesage in the message box.
                 </p>
             </div>
 

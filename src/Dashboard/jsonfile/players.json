@@ -1,0 +1,68 @@
+[
+    {
+        "imgSrc": "./images/liverpool-folder/10002.png",
+        "name": "Joe Gomez",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10003.png",
+        "name": "Van Dikj",
+        "position": "Defender",
+        "description": "Harry Mcguire is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10004.png",
+        "name": "Andy Robertson",
+        "position": "Defender",
+        "description": "Andy Robertson is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10005.png",
+        "name": "Joel Matip",
+        "position": "Defender",
+        "description": "Joel Matip is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10006.png",
+        "name": "Nathaniel Phillips",
+        "position": "Defender",
+        "description": "Phillips Nathaniel is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10007.png",
+        "name": "Alexander Arnold",
+        "position": "Defender",
+        "description": "Alexander Arnold is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10008.png",
+        "name": "Stefan Bajcetic",
+        "position": "Defender",
+        "description": "Stefan Bajcetic is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10009.png",
+        "name": "Thiago Alacantra",
+        "position": "Defender",
+        "description": "Thiago Alacantra is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10010.png",
+        "name": "Curtis jones",
+        "position": "Defender",
+        "description": "Curtis jones is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10011.png",
+        "name": "Harvey Elliott",
+        "position": "Defender",
+        "description": "Harvey Elliot is a skilled defender..."
+    },
+    {
+        "imgSrc": "./images/liverpool-folder/10001.png",
+        "name": "Allison Becker",
+        "position": "Defender",
+        "description": "Allison Becker is a skilled defender..."
+    }
+]

@@ -1,0 +1,10 @@
+.match {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.goal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

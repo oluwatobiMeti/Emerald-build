@@ -1,0 +1,68 @@
+[
+    {
+        "imgSrc": "./images/Barcelona-folder/10002.jpg",
+        "name": "Gavi",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10003.jpg",
+        "name": "Pedri",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10004.jpg",
+        "name": "Sergi Roberto",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10005.jpg",
+        "name": "Frenkie De Jong",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10006.jpg",
+        "name": "Ilkay Gundogan",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10007.jpg",
+        "name": "Oriol Romeu",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10008.jpg",
+        "name": "Ferran Torres",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10009.jpg",
+        "name": "Robert Lewandowski",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10010.jpg",
+        "name": "Ansu Fati",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10011.jpg",
+        "name": "Raphina",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/Barcelona-folder/10001.jpg",
+        "name": "Inaki Pena",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    }
+]

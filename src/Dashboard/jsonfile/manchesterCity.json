@@ -1,0 +1,68 @@
+[
+    {
+        "imgSrc": "./images/manCity-folder/10002.png",
+        "name": "Kyle Walker",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10003.png",
+        "name": "Ruben Dias",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10004.png",
+        "name": "John Stones",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10005.png",
+        "name": "Nathan Ake",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10006.png",
+        "name": "Ayempric Laporte",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10007.png",
+        "name": "Joao Cancelo",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10008.png",
+        "name": "Kalvin Phillips",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10009.png",
+        "name": "Jack Grealish",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10010.png",
+        "name": "Rodri",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10011.png",
+        "name": "Kevin De Bruyne",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    },
+    {
+        "imgSrc": "./images/manCity-folder/10001.png",
+        "name": "Stefan Ortega",
+        "position": "Defender",
+        "description": "Victor Lindelof is a talented defender..."
+    }
+]

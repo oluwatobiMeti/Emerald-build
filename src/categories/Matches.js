@@ -1,17 +1,14 @@
 import React from 'react';
-
-function Matches({date}) {
-  //  const {League} = premier;
-  //  console.log(League);
-   
+import {matches} from "./matchese"
+import Matchs from './Matchs';
+function Matches() {
+  console.log(matches.map((i) => console.log(i.score.goals[1])))
   return (
     <div>
-    <p>match</p>
-      {/* <h1>{date}</h1>
-      {League.map((match) => {console.log(match.matches.team1)
-      <Match club1 = {match.matches.team1} club1Icon = {""} club2Icon = {""} club2 = {League.matches.team2} goal1 = {League.matches.score.ft[0]} goal2 = {League.matches.score.ft[0]}/>
-       } )} */}
-       
+      <h1>{matches.date}</h1>
+      {matches.map((match) => 
+      <Matchs club1 = {match.team1} club1Icon = {""} club2Icon = {""} club2 = {matches.team2} goal1 = {matches.score} goal2 = {matches.score}/>
+      )}
     </div>
 
   )

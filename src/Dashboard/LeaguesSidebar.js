@@ -3,6 +3,7 @@ import classes from "./LeagueSidebar.module.css";
 import { reduxWrapper } from "../Store";
 import { userActions } from "../Store";
 import WithRouter from "../HOC/WithRouter";
+import TeamPlayersGroup from "./TeamPlayersGroup";
 
 const LeagueSidebar = (props) => {
     return(
@@ -55,9 +56,12 @@ const LeagueSidebar = (props) => {
                     <ion-icon name="football-outline"></ion-icon>
                     <p>Player Gallery</p>
                 </li>
-                <li>
+                <li onClick={() => { 
+                    props.dispatch(userActions.setCurrentLeagueIndex({currentLeagueIndex: 2}));
+                    props.router.navigate('/TeamPlayersGroup');
+                }}>
                     <ion-icon name="football-outline"></ion-icon>
-                    <p>League Data</p>
+                    <p>Club Players</p>
                 </li>
                 <li>
                     <ion-icon name="football-outline"></ion-icon>
