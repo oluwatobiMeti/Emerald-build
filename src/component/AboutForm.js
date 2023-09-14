@@ -20,7 +20,7 @@ function AboutForm() {
             </div>
 
             <div class="section">
-                <p>We would love to hear from you to discuss how EHL can help your business</p>
+                <p>We would love to hear from you to discuss how SoccerVerse can help you.</p>
                 <div>
                     <form action="">
                         <div class="form_group">

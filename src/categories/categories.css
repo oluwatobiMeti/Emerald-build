@@ -18,6 +18,7 @@ table {
     border-collapse: collapse;
     width: 90vw;
     margin: 2rem auto;
+    margin-bottom: 5rem;
   }
   
   td, th {
@@ -25,6 +26,7 @@ table {
     text-align: left;
     font-size: small;
     width: fit-content;
+    padding: 10px;
   }
   .match {
     display: flex;
@@ -54,12 +56,13 @@ table {
     border: none;
   }
   .categories__nav {
-    width: 100%;
+    width: 90%;
     font-size: 20px;
     display: flex;
     justify-content: space-between;
     align-items:center;
-  
+    margin: auto;
+    margin-bottom: 2rem;
   }
   .categories_btn {
     display: flex;
